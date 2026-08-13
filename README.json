@@ -1,0 +1,5751 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "📜 Table Of Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Abbreviations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Files App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T04:25:22Z",
+            "owner": "files-community",
+            "repo": "Files",
+            "stars": 44609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ambie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T06:11:09Z",
+            "owner": "jenius-apps",
+            "repo": "ambie",
+            "stars": 2223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Melora",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T13:37:39Z",
+            "owner": "IcySnex",
+            "repo": "Melora",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent Emoji Gallery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-20T23:44:53Z",
+            "owner": "michalleptuch",
+            "repo": "fluent-emoji-gallery",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odyssey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-26T17:28:01Z",
+            "owner": "deadwood2",
+            "repo": "OdysseyWebBrowser",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Best Implementation of WinUI"
+    },
+    {
+      "description": "Last 17 apps that were recently added to list!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Raven",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T05:53:45Z",
+            "owner": "mjishnu",
+            "repo": "Raven",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Task Scheduler Studio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T03:56:37Z",
+            "owner": "MarkHopper24",
+            "repo": "Task-Scheduler-Studio",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MdPad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T22:05:55Z",
+            "owner": "radueduard97",
+            "repo": "MdPad",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D3D12LookDevPTWinUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T04:56:10Z",
+            "owner": "shaderjp",
+            "repo": "D3D12LookDevPTWinUI3",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linkscape",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T02:36:27Z",
+            "owner": "JohnDizzle",
+            "repo": "Linkscape",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🆕 Newly Added Apps!"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UniGetUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T17:40:04Z",
+            "owner": "Devolutions",
+            "repo": "UniGetUI",
+            "stars": 25505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentStore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-19T19:39:16Z",
+            "owner": "yoshiask",
+            "repo": "FluentStore",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raven",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T05:53:45Z",
+            "owner": "mjishnu",
+            "repo": "Raven",
+            "stars": 236
+          }
+        }
+      ],
+      "title": "🛍️ Application Store"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenClaw Windows Hub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T21:25:15Z",
+            "owner": "openclaw",
+            "repo": "openclaw-windows-node",
+            "stars": 2045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rodel Agent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-16T01:44:42Z",
+            "owner": "Richasy",
+            "repo": "Rodel.Agent",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Copilot Taskbar GUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-03-09T18:39:08Z",
+            "owner": "sirredbeard",
+            "repo": "ghcopilot-taskbar-gui",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rodel Downloader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-10T02:01:28Z",
+            "owner": "Richasy",
+            "repo": "Rodel.Downloader",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NAI Utility Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T17:27:27Z",
+            "owner": "Aeka0",
+            "repo": "NAI-Utility-Tool",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Labs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-12T04:50:39Z",
+            "owner": "mnikonov",
+            "repo": "gpt-labs",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verdure Assistant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-23T10:47:31Z",
+            "owner": "maker-community",
+            "repo": "Verdure.Assistant",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodexBarWin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T01:25:05Z",
+            "owner": "nek0der",
+            "repo": "CodexBarWin",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KaiROS AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-27T09:31:29Z",
+            "owner": "avikeid2007",
+            "repo": "KaiROS-AI",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Axela",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-25T21:36:34Z",
+            "owner": "errortek",
+            "repo": "Axela",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Engage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-07T01:38:45Z",
+            "owner": "iamhazel",
+            "repo": "Engage",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cocos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-10T18:14:54Z",
+            "owner": "jiripolasek",
+            "repo": "cocos",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGPT Desktop App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-21T19:13:04Z",
+            "owner": "johngagefaulkner",
+            "repo": "ChatGPTDesktopApp",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigChat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-03T17:46:12Z",
+            "owner": "Sammy-Lastre",
+            "repo": "BigChat",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TLAH Studio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-02T18:07:52Z",
+            "owner": "24373054",
+            "repo": "TLAH-Studio",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AiLogAnalyzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-02T23:14:36Z",
+            "owner": "smartzan63",
+            "repo": "AiLogAnalyzer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodexBar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-13T20:08:55Z",
+            "owner": "dontcallmejames",
+            "repo": "CodexBar-Windows",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lucky",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-13T03:50:29Z",
+            "owner": "Guts444",
+            "repo": "Lucky",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Romanowsky Stain Slide Analyzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-24T05:57:41Z",
+            "owner": "h-ch22",
+            "repo": "RomanowskyStainSlideAnalyzer_Windows",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhisperShroom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T19:23:38Z",
+            "owner": "shroomlife",
+            "repo": "whisper-shroom",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "🤖 Artificial Intelligence (AI)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prosthetics Store Admin App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-23T13:45:21Z",
+            "owner": "amkhrjee",
+            "repo": "proshandadmin",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WINUI3 Book Management System",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-14T08:17:17Z",
+            "owner": "Sandersshine",
+            "repo": "WINUI3_BOOKMS",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "💼 Business"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hurl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T17:56:47Z",
+            "owner": "U-C-S",
+            "repo": "Hurl",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firefox-WinUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-24T12:43:07Z",
+            "owner": "Lockframe",
+            "repo": "Firefox-WinUI",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odyssey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-26T17:28:01Z",
+            "owner": "deadwood2",
+            "repo": "OdysseyWebBrowser",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinUIEdge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-06-19T11:32:32Z",
+            "owner": "wtcpython",
+            "repo": "WinUIEdge",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radon Browser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-09T17:11:16Z",
+            "owner": "imscythra",
+            "repo": "radon-browser",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linkscape",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T02:36:27Z",
+            "owner": "JohnDizzle",
+            "repo": "Linkscape",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🌐 Browser"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windows Community Toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T21:47:36Z",
+            "owner": "CommunityToolkit",
+            "repo": "Windows",
+            "stars": 1043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qt-Fluent-Widgets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-13T04:06:31Z",
+            "owner": "Fairy-Oracle-Sanctuary",
+            "repo": "Qt-Fluent-Widgets",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent Flet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T10:27:31Z",
+            "owner": "Bbalduzz",
+            "repo": "fluentflet",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XAML Brewer WinUI3 SkiaSharp Sample",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-12T17:09:51Z",
+            "owner": "XamlBrewer",
+            "repo": "XamlBrewer.WinUI3.SkiaSharp.Sample",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XAML Brewer WinUI3 LiveChart2 Sample",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-29T08:56:34Z",
+            "owner": "XamlBrewer",
+            "repo": "XamlBrewer.WinUI3.LiveChart2.Sample",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "📦 Catalogs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DevToys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-25T11:53:38Z",
+            "owner": "DevToys-app",
+            "repo": "DevToys",
+            "stars": 31854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyQt Fluent Widgets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T02:44:59Z",
+            "owner": "zhiyiYo",
+            "repo": "PyQt-Fluent-Widgets",
+            "stars": 8065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rectify11",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-05T14:40:34Z",
+            "owner": "Rectify11",
+            "repo": "Installer",
+            "stars": 3481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sun Valley ttk theme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2025-06-08T16:11:59Z",
+            "owner": "rdbende",
+            "repo": "Sun-Valley-ttk-theme",
+            "stars": 2572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-29T18:34:46Z",
+            "owner": "0x5bfa",
+            "repo": "FluentHub",
+            "stars": 1250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QTWin11",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-24T16:42:57Z",
+            "owner": "witalihirsch",
+            "repo": "QTWin11",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevWinUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T12:57:37Z",
+            "owner": "ghost1372",
+            "repo": "DevWinUI",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loopback Manager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-16T06:03:50Z",
+            "owner": "Richasy",
+            "repo": "LoopbackManager.Desktop",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fellmonger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-09-09T00:52:12Z",
+            "owner": "fbarbat",
+            "repo": "fellmonger",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T15:55:18Z",
+            "owner": "JitHubApp",
+            "repo": "JitHubV2",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Key Vault Explorer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T22:56:32Z",
+            "owner": "cricketthomas",
+            "repo": "AzureKeyVaultExplorer",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PreLaunchTaskr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-27T15:22:15Z",
+            "owner": "SuGar0218",
+            "repo": "PreLaunchTaskr",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AK.Toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-02T11:12:36Z",
+            "owner": "AndrewKeepCoding",
+            "repo": "AK.Toolkit",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwellSSH",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T07:02:42Z",
+            "owner": "yaog6700-bit",
+            "repo": "Swell-SSH",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConTeXt IDE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-19T17:59:48Z",
+            "owner": "WelterDevelopment",
+            "repo": "ConTeXt-IDE-WinUI",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PaletteNet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-05T10:18:54Z",
+            "owner": "tmk907",
+            "repo": "PaletteNet",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DbToys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-28T04:00:20Z",
+            "owner": "NeilQ",
+            "repo": "DbToys",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XAML Lab",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-15T19:59:42Z",
+            "owner": "WindowsNT",
+            "repo": "XAML-Lab",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hakonexa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T05:11:58Z",
+            "owner": "runceel",
+            "repo": "wsl-containers-desktop",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T04:50:17Z",
+            "owner": "visorcraft",
+            "repo": "Grex",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sandboxer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-23T20:28:05Z",
+            "owner": "Slluxx",
+            "repo": "Sandboxer",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HexBox.WinUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-14T02:33:29Z",
+            "owner": "hotkidfamily",
+            "repo": "HexBox.WinUI",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReCaptcha.Desktop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-03T10:51:51Z",
+            "owner": "IcySnex",
+            "repo": "ReCaptcha.Desktop",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IconExtractor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-02T20:52:28Z",
+            "owner": "GuildOfCalamity",
+            "repo": "IconExtractor",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colors.Rainbow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-18T09:59:49Z",
+            "owner": "sh0ckj0ckey",
+            "repo": "Colors.Rainbow",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlarePurge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-10T08:16:25Z",
+            "owner": "colorvivo",
+            "repo": "flarepurge-windows",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeyPocket",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-14T07:25:53Z",
+            "owner": "MidnightCrowing",
+            "repo": "KeyPocket",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFTools for Windows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-24T07:37:25Z",
+            "owner": "investblog",
+            "repo": "cftools-win",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gclo - Git Clone Large Organizations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-20T10:10:41Z",
+            "owner": "KofTwentyTwo",
+            "repo": "gclo",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetroC IDE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-11T11:14:50Z",
+            "owner": "avikeid2007",
+            "repo": "Retro-C-IDE",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "🧑‍💻 Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "⬇️ Download Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ghost Downloader",
+          "description": "(Based on PyQt-Fluent-Widgets, not WinUI)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:08:39Z",
+            "owner": "XiaoYouChR",
+            "repo": "Ghost-Downloader-3",
+            "stars": 8241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnionMedia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-01T20:22:31Z",
+            "owner": "onionware-github",
+            "repo": "OnionMedia",
+            "stars": 358
+          }
+        }
+      ],
+      "title": "Full-Featured Download Manager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WinTube",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-14T19:19:40Z",
+            "owner": "Areoxy",
+            "repo": "WinTube",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YT2MP3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-16T02:14:50Z",
+            "owner": "0zean",
+            "repo": "YT2MP3",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TubeSync",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-28T10:14:33Z",
+            "owner": "manusoft",
+            "repo": "youtube-downloader-desktop",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentDownloader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-16T10:23:11Z",
+            "owner": "kirrishima",
+            "repo": "FluentDownloader",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MermaYT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T18:57:30Z",
+            "owner": "laura-kolcavova",
+            "repo": "MermaYT",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "YouTube"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Parabolic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-29T03:59:31Z",
+            "owner": "NickvisionApps",
+            "repo": "Parabolic",
+            "stars": 6832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kemono Downloader GUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-02-13T09:29:31Z",
+            "owner": "ZIDOUZI",
+            "repo": "Kemono-Downloader-GUI",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TvTime",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-13T10:31:18Z",
+            "owner": "WinUICommunity",
+            "repo": "TvTime",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VDownload",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-16T20:42:15Z",
+            "owner": "mateuszskoczek",
+            "repo": "VDownload",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wino Mail",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T11:53:17Z",
+            "owner": "bkaankose",
+            "repo": "Wino-Mail",
+            "stars": 1555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eppie Mail",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T17:32:52Z",
+            "owner": "Eppie-io",
+            "repo": "Eppie-App",
+            "stars": 408
+          }
+        }
+      ],
+      "title": "📧 Email"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Files App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T04:25:22Z",
+            "owner": "files-community",
+            "repo": "Files",
+            "stars": 44609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyFTP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-02T17:27:14Z",
+            "owner": "luandersonn",
+            "repo": "MyFTP",
+            "stars": 276
+          }
+        }
+      ],
+      "title": "📁 File Manager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BitWallpaper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-29T02:59:00Z",
+            "owner": "torum",
+            "repo": "BitWallpaper",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "earmark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-01T01:15:34Z",
+            "owner": "williamckha",
+            "repo": "earmark",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyMoney",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T10:06:35Z",
+            "owner": "jm6271",
+            "repo": "MyMoney",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "💵 Finance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎮 Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Emerald",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-06T10:10:49Z",
+            "owner": "RiversideValley",
+            "repo": "Emerald",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent-Tic-Tac-Toe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-24T01:53:47Z",
+            "owner": "dfchang149",
+            "repo": "Fluent-Tic-Tac-Toe",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent 2048",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-24T09:59:53Z",
+            "owner": "Zingzy",
+            "repo": "fluent-2048",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Irregular Sliding Puzzle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-15T04:06:02Z",
+            "owner": "Pure-Happiness",
+            "repo": "Irregular-Sliding-Puzzle",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MineSweeperino",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-08-31T18:53:12Z",
+            "owner": "NydusBorn",
+            "repo": "MineSweeperino",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bloxstrap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-05T13:26:29Z",
+            "owner": "bloxstraplabs",
+            "repo": "bloxstrap",
+            "stars": 3098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collapse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T17:45:10Z",
+            "owner": "CollapseLauncher",
+            "repo": "Collapse",
+            "stars": 1771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Handheld Companion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T15:12:09Z",
+            "owner": "Valkirie",
+            "repo": "HandheldCompanion",
+            "stars": 1695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natsurainko.FluentLauncher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-21T08:28:24Z",
+            "owner": "Xcube-Studio",
+            "repo": "Natsurainko.FluentLauncher",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniConsole",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-02T17:20:55Z",
+            "owner": "8bit2qubit",
+            "repo": "OmniConsole",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OVR Lighthouse Manager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-12T06:11:40Z",
+            "owner": "kurotu",
+            "repo": "OVR-Lighthouse-Manager",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polymerium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:26:02Z",
+            "owner": "d3ara1n",
+            "repo": "Polymerium",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "New Eden Roaming Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T09:57:50Z",
+            "owner": "qedsd",
+            "repo": "TheGuideToTheNewEden",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vanilla-RTX-App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T17:03:04Z",
+            "owner": "Cubeir",
+            "repo": "Vanilla-RTX-App",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dotahold",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-11T06:04:54Z",
+            "owner": "sh0ckj0ckey",
+            "repo": "Dotahold",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ky3-Launcher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T16:43:59Z",
+            "owner": "ky3-studio",
+            "repo": "ky3-Launcher",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Citrine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T23:57:33Z",
+            "owner": "CitrineLauncher",
+            "repo": "Citrine",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCSHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-30T23:36:50Z",
+            "owner": "AmirMahdaviAM",
+            "repo": "SCSHub",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DialogueForest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T23:26:02Z",
+            "owner": "Difegue",
+            "repo": "DialogueForest",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PortableAppsManager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-03T19:17:58Z",
+            "owner": "Jurij15",
+            "repo": "PortableAppsManager",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenshinSwitch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-05-08T13:07:32Z",
+            "owner": "GenshinMatrix",
+            "repo": "genshin-switch",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AoE2DE Lobby Browser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-09T15:57:48Z",
+            "owner": "tmk907",
+            "repo": "AoE2DELobbyBrowser",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SteamPulse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-30T23:52:59Z",
+            "owner": "AmirMahdaviAM",
+            "repo": "SteamPulse",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BallanceLauncher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-09-24T10:58:54Z",
+            "owner": "Ghomist",
+            "repo": "BallanceLauncher",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GameGate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-23T12:04:13Z",
+            "owner": "akoc1",
+            "repo": "GameGate",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steam Achievements",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-19T07:56:18Z",
+            "owner": "pepeizq",
+            "repo": "Steam-Achievements",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Versatile",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-06T03:49:13Z",
+            "owner": "VersatileProject",
+            "repo": "Versatile",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Game Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎬 Media"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🖼️ Images"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Image Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T05:00:11Z",
+            "owner": "dragonofmercy",
+            "repo": "image-viewer",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piktosaur",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-16T03:36:36Z",
+            "owner": "Bloomca",
+            "repo": "Piktosaur",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Viewers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ArtWork",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-02T08:48:45Z",
+            "owner": "ghost1372",
+            "repo": "ArtWork",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AT-Image-Converter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T06:29:07Z",
+            "owner": "airtaxi",
+            "repo": "AT-Image-Converter",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageRate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-10T22:46:55Z",
+            "owner": "fm-sys",
+            "repo": "ImageRate",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Splitter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-24T19:41:35Z",
+            "owner": "PeteJobi",
+            "repo": "VideoSplitter",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetadataApp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-01T18:35:56Z",
+            "owner": "t-manojkumar",
+            "repo": "MetadataApp",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎧 Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Untamed Music Player",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-05T11:49:36Z",
+            "owner": "LanZhan-Harmony",
+            "repo": "WindowsMusicPlayer-TheUntamedMusicPlayer",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trdo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T15:04:45Z",
+            "owner": "TheJoeFin",
+            "repo": "Trdo",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stylophone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-12T11:01:22Z",
+            "owner": "Difegue",
+            "repo": "Stylophone",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strix Music",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-19T06:06:55Z",
+            "owner": "Arlodotexe",
+            "repo": "strix-music",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPDCtrl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-23T12:29:00Z",
+            "owner": "torum",
+            "repo": "MPDCtrl",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlayerWinRT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-28T10:32:45Z",
+            "owner": "YexuanXiao",
+            "repo": "PlayerWinRT",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Melora",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T13:37:39Z",
+            "owner": "IcySnex",
+            "repo": "Melora",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Disenchant Music Player",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-16T02:33:09Z",
+            "owner": "DenryDu",
+            "repo": "Disenchant-Music-Player",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Musium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-26T05:00:08Z",
+            "owner": "paste1ess",
+            "repo": "Musium",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDeezer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-18T23:02:58Z",
+            "owner": "Cycl0o0",
+            "repo": "OpenDeezer",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BarPlay",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T09:37:09Z",
+            "owner": "airtaxi",
+            "repo": "BarPlay",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sound Reaver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-08T19:20:37Z",
+            "owner": "sungaila",
+            "repo": "SoundReaver",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haikusMediaPlayer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-19T00:04:08Z",
+            "owner": "nebula-neru",
+            "repo": "haikusMediaPlayer",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Folderity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-05T19:00:44Z",
+            "owner": "Shailosingh",
+            "repo": "Folderity",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tid3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-05T03:14:10Z",
+            "owner": "ArthurCarrenho",
+            "repo": "Tid3",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rhythm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-25T16:32:22Z",
+            "owner": "FallenDeity",
+            "repo": "Rhythm",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Music-M",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Players"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tagger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-07T13:09:32Z",
+            "owner": "NickvisionApps",
+            "repo": "Tagger",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yugen.DJ",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-09T12:34:53Z",
+            "owner": "yugen-apps",
+            "repo": "yugen-dj",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PodcastChapterEditor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-06T06:51:15Z",
+            "owner": "snivets",
+            "repo": "PodcastChapterEditor",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TagEditor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-14T04:09:52Z",
+            "owner": "danvlsv",
+            "repo": "TagEditor",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📄 Documents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rune",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T04:47:21Z",
+            "owner": "DanialJaved",
+            "repo": "rune",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glance PDF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-08T21:33:13Z",
+            "owner": "jonas1ara",
+            "repo": "Glance",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "PDF Viewer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎬 Video"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Screenbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T13:14:51Z",
+            "owner": "huynhsontung",
+            "repo": "Screenbox",
+            "stars": 4052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rise Media Player",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-23T17:38:29Z",
+            "owner": "theimpactfulcompany",
+            "repo": "Rise-Media-Player",
+            "stars": 1222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Danmaku Player",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-19T04:42:27Z",
+            "owner": "Poker-sang",
+            "repo": "DanmakuPlayer",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Media Player WinUI3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-26T20:43:04Z",
+            "owner": "bluday",
+            "repo": "awesome-media-player",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JasperMediaPlayer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-16T23:35:02Z",
+            "owner": "JasperSoosaar25",
+            "repo": "JasperMediaPlayer",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Players"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HyPlayer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T03:52:02Z",
+            "owner": "HyPlayer",
+            "repo": "HyPlayer",
+            "stars": 1426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentFin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-05T11:41:40Z",
+            "owner": "insomniachi",
+            "repo": "FluentFin",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Streaming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bili.Copilot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2025-11-26T04:29:26Z",
+            "owner": "Richasy",
+            "repo": "Bili.Copilot",
+            "stars": 5226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BiliLite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T07:52:03Z",
+            "owner": "ywmoyue",
+            "repo": "biliuwp-lite",
+            "stars": 1096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Totoro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-27T18:25:33Z",
+            "owner": "insomniachi",
+            "repo": "Totoro",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AniMoe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-02T04:42:52Z",
+            "owner": "CosmicPredator",
+            "repo": "AniMoe",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tracking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Character Map UWP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T15:16:11Z",
+            "owner": "character-map-uwp",
+            "repo": "Character-Map-UWP",
+            "stars": 783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unpaint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-14T19:11:57Z",
+            "owner": "axodox",
+            "repo": "unpaint",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent Emoji Gallery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-20T23:44:53Z",
+            "owner": "michalleptuch",
+            "repo": "fluent-emoji-gallery",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent Noise Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-27T10:16:08Z",
+            "owner": "bluday",
+            "repo": "fluent-noise-generator",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Painto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-23T06:02:56Z",
+            "owner": "BradleyBao",
+            "repo": "Painto",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Summer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-08T11:34:18Z",
+            "owner": "sh0ckj0ckey",
+            "repo": "Summer",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "💠 Multimedia & Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fluent Feeds",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-08-28T20:20:14Z",
+            "owner": "hannesschulze",
+            "repo": "fluent-feeds",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FeedDesk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-23T12:27:08Z",
+            "owner": "torum",
+            "repo": "FeedDesk",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PocketReader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-28T03:45:30Z",
+            "owner": "aungkokomm",
+            "repo": "PocketReader",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "📰 News"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📒 Notes / To-do / Wish-lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ink Canvas Artistry",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-31T03:37:35Z",
+            "owner": "InkCanvas",
+            "repo": "Ink-Canvas-Artistry",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlowBoard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-10-04T13:11:48Z",
+            "owner": "FireCubeStudios",
+            "repo": "FlowBoard",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Draw Board"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Typedown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-05T18:36:44Z",
+            "owner": "byxiaozhi",
+            "repo": "Typedown",
+            "stars": 1045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UltraPad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-05T17:32:03Z",
+            "owner": "lixkote",
+            "repo": "ultrapad",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storylines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T21:08:16Z",
+            "owner": "morning4coffe-dev",
+            "repo": "storylines",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fastedit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-17T10:13:02Z",
+            "owner": "FrozenAssassine",
+            "repo": "Fastedit",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TowPad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-04T11:05:37Z",
+            "owner": "itsWindows11",
+            "repo": "TowPad",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyNotepad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-22T13:23:11Z",
+            "owner": "fjord79",
+            "repo": "SkyNotepad",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyNotes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-16T20:00:07Z",
+            "owner": "Erencrypt",
+            "repo": "MyNotes",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "READU.md",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-18T16:30:50Z",
+            "owner": "breezy89757",
+            "repo": "READU.md",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ferrpad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-07-25T14:32:11Z",
+            "owner": "shfrlabs",
+            "repo": "ferrpad",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HikariEditor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-14T18:33:48Z",
+            "owner": "Himeyama",
+            "repo": "HikariEditor",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ivirius Text Editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-10T19:34:47Z",
+            "owner": "IviriusMain",
+            "repo": "Ivirius-Text-Editor",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InkMD-Editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T16:13:44Z",
+            "owner": "tribeti",
+            "repo": "InkMD-Editor",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MdPad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T22:05:55Z",
+            "owner": "radueduard97",
+            "repo": "MdPad",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ideas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-29T18:56:01Z",
+            "owner": "living-ming",
+            "repo": "WinUI3-Ideas",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markdown Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-02T22:01:43Z",
+            "owner": "sannlynnhtun-coding",
+            "repo": "markdown-viewer-app",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinMD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T14:30:06Z",
+            "owner": "toevi",
+            "repo": "WinMD",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tideline",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-24T03:41:01Z",
+            "owner": "BENZOOgataga",
+            "repo": "Tideline",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Notes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TaskList",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-18T21:28:39Z",
+            "owner": "GuildOfCalamity",
+            "repo": "TaskList",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DayDayUp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-18T10:51:38Z",
+            "owner": "Fangjin98",
+            "repo": "daydayup",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentTasks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-11T19:54:33Z",
+            "owner": "javierferrersb",
+            "repo": "FluentTasks",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToDoManager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-22T18:13:51Z",
+            "owner": "navi705",
+            "repo": "ToDoManager-WinUI3",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Openza Tasks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T08:24:33Z",
+            "owner": "openza",
+            "repo": "tasks",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinUI3-TaskList",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-31T22:03:50Z",
+            "owner": "tamil1809",
+            "repo": "WinUI3-TaskList",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "To-Do List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-06T12:12:00Z",
+            "owner": "fanioz",
+            "repo": "winui-todolist",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "To-Do / Task"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magpie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HLSL",
+            "last_commit": "2026-08-13T02:00:39Z",
+            "owner": "Blinue",
+            "repo": "Magpie",
+            "stars": 14350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mica For Everyone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T19:00:10Z",
+            "owner": "MicaForEveryone",
+            "repo": "MicaForEveryone",
+            "stars": 5191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinPaletter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-26T16:02:32Z",
+            "owner": "Abdelrhman-AK",
+            "repo": "WinPaletter",
+            "stars": 1856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rebound",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T23:27:43Z",
+            "owner": "IviriusCommunity",
+            "repo": "Rebound",
+            "stars": 845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AccentColorizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-25T18:03:13Z",
+            "owner": "krlvm",
+            "repo": "AccentColorizer",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TranslucentSM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-07-17T17:21:50Z",
+            "owner": "rounk-ctrl",
+            "repo": "TranslucentSM",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChangeFolderIcon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-12T05:19:15Z",
+            "owner": "YILING0013",
+            "repo": "ChangeFolderIcon",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeskBox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T04:02:26Z",
+            "owner": "Tianyu199509",
+            "repo": "DeskBox",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GyroShell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-02T03:55:49Z",
+            "owner": "Pdawg-bytes",
+            "repo": "GyroShell",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Startify",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-02T10:04:32Z",
+            "owner": "lixkote",
+            "repo": "Startify",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows Custom Tile",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-07T16:04:32Z",
+            "owner": "fischldesu",
+            "repo": "WindowsCustomTile",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Folder Icon Painter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-23T17:41:15Z",
+            "owner": "FolderPainter",
+            "repo": "FolderIconPainter",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YASB GUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T16:21:13Z",
+            "owner": "amnweb",
+            "repo": "yasb-gui",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinFocus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-31T15:53:43Z",
+            "owner": "Albresky",
+            "repo": "WinFocus",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Croak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-07-22T22:22:50Z",
+            "owner": "MehranAkbarii",
+            "repo": "Croak",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LegendBar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-07T22:06:54Z",
+            "owner": "Baldev8910",
+            "repo": "LegendBar",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Widgets Media",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-01T10:38:24Z",
+            "owner": "pepeizq",
+            "repo": "Widgets-Media",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Binggo Wallpapers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:22:21Z",
+            "owner": "hippieZhou",
+            "repo": "BinggoWallpapers",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crayon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2025-11-30T02:29:24Z",
+            "owner": "xmha97",
+            "repo": "Crayon",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-12T08:59:52Z",
+            "owner": "AverageCodeNerd",
+            "repo": "pulse",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentOBS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-30T17:50:00Z",
+            "owner": "DarkForceFREEFIRE",
+            "repo": "FluentOBS",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wally",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T12:49:34Z",
+            "owner": "AhmedDevEG",
+            "repo": "Wally",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aura",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-27T14:44:28Z",
+            "owner": "FahadBinHussain",
+            "repo": "aura",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🎨 Personalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FluentTaskScheduler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-27T18:46:24Z",
+            "owner": "TRGamer-tech",
+            "repo": "FluentTaskScheduler",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StoryCAD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T21:28:02Z",
+            "owner": "storybuilder-org",
+            "repo": "StoryCAD",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickNav",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-16T17:59:58Z",
+            "owner": "FrozenAssassine",
+            "repo": "QuickNav",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Panoramic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-07T22:19:09Z",
+            "owner": "davidtimovski",
+            "repo": "panoramic",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuinSlate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T12:19:15Z",
+            "owner": "SergeyLukashov",
+            "repo": "QuinSlate",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spoo.me",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-23T18:24:53Z",
+            "owner": "spoo-me",
+            "repo": "spooWASDK",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinUI3 File Search Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-21T23:51:32Z",
+            "owner": "israel-dryer",
+            "repo": "WinUI3-File-Search-Engine",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cipherflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-22T01:09:06Z",
+            "owner": "BradleyBao",
+            "repo": "Cipherflow",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreamNumDeck",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-29T14:22:26Z",
+            "owner": "nikartom",
+            "repo": "StreamNumDeck",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LazyFish",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-31T08:37:04Z",
+            "owner": "XMuli",
+            "repo": "LazyFish",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openHAB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-26T14:00:59Z",
+            "owner": "reyhard",
+            "repo": "openhab-win-app",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SharpTimer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T08:52:06Z",
+            "owner": "huizhiLLL",
+            "repo": "SharpTimer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BattleDex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-16T12:05:16Z",
+            "owner": "merc1er",
+            "repo": "BattleDex",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Petapeta",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:00:12Z",
+            "owner": "daruyanagi",
+            "repo": "Petapeta",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restless",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-16T20:24:51Z",
+            "owner": "silentq",
+            "repo": "Restless",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TouchSenderTablet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-06T14:30:57Z",
+            "owner": "voltaney",
+            "repo": "TouchSenderTablet",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "📈 Productivity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔒 Security & Privacy"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ClientWarden",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T09:33:14Z",
+            "owner": "Cherrytree56567",
+            "repo": "ClientWarden",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pass11",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-28T12:02:17Z",
+            "owner": "LawOff",
+            "repo": "Pass11",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orayo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:40:31Z",
+            "owner": "barkure",
+            "repo": "Orayo",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasePass",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-06T20:39:23Z",
+            "owner": "FrozenAssassine",
+            "repo": "EasePass",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Honeypot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T02:45:43Z",
+            "owner": "sh0ckj0ckey",
+            "repo": "Honeypot",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cyber Vault",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-25T07:25:53Z",
+            "owner": "affan-ch",
+            "repo": "Cyber-Vault-Desktop-Offline",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Password Manager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Proton VPN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-27T11:08:35Z",
+            "owner": "ProtonVPN",
+            "repo": "win-app",
+            "stars": 2437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atoll VPN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-11T21:06:50Z",
+            "owner": "kaoshipaws",
+            "repo": "atollvpn",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "VPN"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XrayUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T06:32:37Z",
+            "owner": "PhoenixNil",
+            "repo": "XrayUI-dev",
+            "stars": 579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swell Proxy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T07:20:02Z",
+            "owner": "yaog6700-bit",
+            "repo": "Swell-Proxy",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecureFolderFS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T18:44:43Z",
+            "owner": "securefolderfs-community",
+            "repo": "SecureFolderFS",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gyroown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T11:17:07Z",
+            "owner": "JularDepick",
+            "repo": "Gyroown",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👨‍💻 Social Media"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unicord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-18T15:03:37Z",
+            "owner": "UnicordDev",
+            "repo": "Unicord",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent Discord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SCSS",
+            "last_commit": "2025-11-23T03:22:03Z",
+            "owner": "TakosThings",
+            "repo": "Fluent-Discord",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quarrel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-08-12T04:59:10Z",
+            "owner": "WindowsAppCommunity",
+            "repo": "Quarrel",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord-11",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-07-08T14:05:42Z",
+            "owner": "zuzumi-f",
+            "repo": "Discord-11",
+            "stars": 135
+          }
+        }
+      ],
+      "title": "Discord"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Carpeddit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-01T13:13:59Z",
+            "owner": "itsWindows11",
+            "repo": "Carpeddit",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluentreddit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-08-17T06:05:13Z",
+            "owner": "tobyisawesome",
+            "repo": "fluentreddit",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Reddit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💻 System"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windows Calculator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T16:57:14Z",
+            "owner": "microsoft",
+            "repo": "calculator",
+            "stars": 31013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lamina",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-14T12:54:06Z",
+            "owner": "Chill-Astro",
+            "repo": "Lamina-Calculator",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calculator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-01T14:01:54Z",
+            "owner": "fanioz",
+            "repo": "calculator",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Calculator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-06T02:58:22Z",
+            "owner": "cechout",
+            "repo": "simple-calculator",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Calculators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Disk Info",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-29T09:20:55Z",
+            "owner": "MicaApps",
+            "repo": "DiskInfo",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anemos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-23T04:53:13Z",
+            "owner": "hockerschwan",
+            "repo": "Anemos",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent HwInfo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T22:47:00Z",
+            "owner": "cechout",
+            "repo": "fluent-sensors",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VRAMonitor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-30T18:44:04Z",
+            "owner": "jin6yang",
+            "repo": "VRAMonitor",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Suspension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-07T23:20:03Z",
+            "owner": "Tech5G5G",
+            "repo": "Suspension",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vitals",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-08T21:45:10Z",
+            "owner": "Frenchouioui",
+            "repo": "Vitals",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Device Info / Monitors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Win11Debloat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-12T19:10:48Z",
+            "owner": "Raphire",
+            "repo": "Win11Debloat",
+            "stars": 55355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Winhance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T02:15:07Z",
+            "owner": "memstechtips",
+            "repo": "Winhance",
+            "stars": 12460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optimizerDuck",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T13:30:29Z",
+            "owner": "itsfatduck",
+            "repo": "optimizerDuck",
+            "stars": 8303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentCleaner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T09:15:16Z",
+            "owner": "builtbybel",
+            "repo": "FluentCleaner",
+            "stars": 5187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvolveOS Optimizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T22:54:33Z",
+            "owner": "EvolveOS-Software",
+            "repo": "EvolveOS_Optimizer_V3.0",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows Privacy Automator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-04T07:51:42Z",
+            "owner": "BenOnSocial",
+            "repo": "WindowsPrivacyAutomator",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Optimizer / Cleaners"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-17T07:54:06Z",
+            "owner": "sh0ckj0ckey",
+            "repo": "Flint",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transhef",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-07-02T18:24:48Z",
+            "owner": "shfrlabs",
+            "repo": "Transhef",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WordWeaver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-02T09:06:23Z",
+            "owner": "itsWindows11",
+            "repo": "WordWeaver",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto Translate Clipboard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-10T08:28:31Z",
+            "owner": "hasoftware",
+            "repo": "Auto-Translate-Clipboard",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dream Translate PO",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-11T11:52:39Z",
+            "owner": "TypeDreamMoon",
+            "repo": "DreamTranslatePO",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "🈵 Translators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NanaZip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T16:19:29Z",
+            "owner": "M2Team",
+            "repo": "NanaZip",
+            "stars": 15066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Everything Toolbar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T15:16:21Z",
+            "owner": "srwi",
+            "repo": "EverythingToolbar",
+            "stars": 14553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RyTuneX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:10:01Z",
+            "owner": "rayenghanmi",
+            "repo": "RyTuneX",
+            "stars": 5330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text-Grab",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T01:12:39Z",
+            "owner": "TheJoeFin",
+            "repo": "Text-Grab",
+            "stars": 4928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tuba Toolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T15:24:56Z",
+            "owner": "luolangaga",
+            "repo": "tubatools",
+            "stars": 2254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Energy Star X",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-08T01:37:38Z",
+            "owner": "JasonWei512",
+            "repo": "EnergyStarX",
+            "stars": 1216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MagicPods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-06T17:47:41Z",
+            "owner": "steam3d",
+            "repo": "MagicPods-Windows",
+            "stars": 847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastCopy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T15:19:53Z",
+            "owner": "HO-COOH",
+            "repo": "FastCopy",
+            "stars": 633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fHash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T04:33:22Z",
+            "owner": "sunjw",
+            "repo": "fhash",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyTidy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T03:20:39Z",
+            "owner": "EasyTidy",
+            "repo": "EasyTidy",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "barcodrod.io",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-30T11:26:20Z",
+            "owner": "MarkHopper24",
+            "repo": "barcodrod.io",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyPhone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-22T16:31:57Z",
+            "owner": "BestOwl",
+            "repo": "MyPhone",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awqat-Salaat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-11T10:34:37Z",
+            "owner": "Khiro95",
+            "repo": "Awqat-Salaat",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LauncherX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-07T17:33:06Z",
+            "owner": "Apollo199999999",
+            "repo": "LauncherX",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanaGet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-14T05:10:40Z",
+            "owner": "M2Team",
+            "repo": "NanaGet",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Registry Editor Valley",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-16T20:13:12Z",
+            "owner": "0x5bfa",
+            "repo": "RegistryEditor",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleList",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-19T13:58:07Z",
+            "owner": "aiguoli",
+            "repo": "SimpleList",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple QR Code Maker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T22:21:05Z",
+            "owner": "TheJoeFin",
+            "repo": "Simple-QR-Code-Maker",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aura Click",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-20T17:13:08Z",
+            "owner": "ryanlua",
+            "repo": "auraclick",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IRCameraView",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-15T14:29:14Z",
+            "owner": "Iemand005",
+            "repo": "IRCameraView",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amethyst Releases",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-02T12:59:11Z",
+            "owner": "KinectToVR",
+            "repo": "Amethyst-Releases",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HashTool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-19T07:54:14Z",
+            "owner": "KiyanYang",
+            "repo": "DotVast.HashTool.WinUI",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tiny Clips",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T20:12:08Z",
+            "owner": "jamesmontemagno",
+            "repo": "tiny-clips",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WSAppBak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T09:02:34Z",
+            "owner": "MadCkull",
+            "repo": "WSAppBak",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptoTracker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-25T17:15:53Z",
+            "owner": "ismaelestalayo",
+            "repo": "CryptoTracker",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T14:21:18Z",
+            "owner": "tinodin",
+            "repo": "AutoOS",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FolderRewind",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T09:41:47Z",
+            "owner": "Leafuke",
+            "repo": "FolderRewind",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fontager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-26T00:48:19Z",
+            "owner": "ysfemreAlbyrk",
+            "repo": "Fontager",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SUBSTitute",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-08T11:30:52Z",
+            "owner": "sungaila",
+            "repo": "SUBSTitute",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remote Toolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-05T05:41:22Z",
+            "owner": "sixiaolong1117",
+            "repo": "WinWoL",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioPlaybackConnector2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T00:42:36Z",
+            "owner": "N0ahTM",
+            "repo": "AudioPlaybackConnector2",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlowEncode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T03:47:44Z",
+            "owner": "frankie1024",
+            "repo": "FlowEncode",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rufus Next",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-23T14:54:32Z",
+            "owner": "rasyidf",
+            "repo": "rufus-next",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Analog Input",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-27T08:43:48Z",
+            "owner": "Ritonton",
+            "repo": "UniversalAnalogInput",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActionRepeater",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-17T14:39:29Z",
+            "owner": "sibber5",
+            "repo": "ActionRepeater",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyTikTokBackup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-21T14:34:46Z",
+            "owner": "tmk907",
+            "repo": "MyTikTokBackup",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluentver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T20:22:30Z",
+            "owner": "Tech5G5G",
+            "repo": "Fluentver",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ping Legacy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-19T09:49:03Z",
+            "owner": "avikeid2007",
+            "repo": "Ping-Legacy",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conscript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-20T15:14:04Z",
+            "owner": "sh0ckj0ckey",
+            "repo": "Conscripts",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trowser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-07T03:22:33Z",
+            "owner": "TheJoeFin",
+            "repo": "trowser",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThrowObjectDetectionWinUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-02T08:56:37Z",
+            "owner": "0Kirby",
+            "repo": "ThrowObjectDetectionWinUI",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Service Manager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-08T19:58:57Z",
+            "owner": "Chr1st1anSzech",
+            "repo": "Service-Manager",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jump List Manager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-15T18:58:35Z",
+            "owner": "0x5bfa",
+            "repo": "JumpListManager",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Task Scheduler Studio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T03:56:37Z",
+            "owner": "MarkHopper24",
+            "repo": "Task-Scheduler-Studio",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Utils for Nearby Sharing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-29T18:01:56Z",
+            "owner": "nearby-sharing",
+            "repo": "windows",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inputor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-30T02:09:17Z",
+            "owner": "shiquda",
+            "repo": "inputor",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NvwUpd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-04T07:49:24Z",
+            "owner": "zlicdt",
+            "repo": "nvwupd",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angel Umbrella",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-01-30T08:34:39Z",
+            "owner": "mntone",
+            "repo": "AngelUmbrella",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bucket",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-03T16:46:42Z",
+            "owner": "aungkokomm",
+            "repo": "Bucket",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LANConnect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-17T08:31:44Z",
+            "owner": "WinUI-Dev",
+            "repo": "LANConnect",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LTOG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T19:05:30Z",
+            "owner": "rlaphoenix",
+            "repo": "LTOG",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AT Installer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T04:06:14Z",
+            "owner": "airtaxi",
+            "repo": "AT-Installer",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automated Menu Ordering System",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-24T11:03:43Z",
+            "owner": "abdxdev",
+            "repo": "AMOS",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmenFlow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-15T09:38:59Z",
+            "owner": "yunusemreyl",
+            "repo": "OmenFlow",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EM Hasher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T00:58:02Z",
+            "owner": "enda-mullally",
+            "repo": "EMHasher",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFuryKMS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2025-03-04T17:34:43Z",
+            "owner": "KevGreenwood",
+            "repo": "OpenFuryKMS",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarkdownToPDF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-15T10:28:29Z",
+            "owner": "EggyStudio",
+            "repo": "MarkdownToPDF",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScanStack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-17T16:11:37Z",
+            "owner": "Diyari-Kurdi",
+            "repo": "DeeSharp.ScanStack",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snaply",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T08:23:55Z",
+            "owner": "P4suta",
+            "repo": "Snaply",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deckle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T13:46:26Z",
+            "owner": "louisfifre",
+            "repo": "deckle",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dusk Control",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-18T04:56:14Z",
+            "owner": "stabldev",
+            "repo": "dusk-control",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinkTo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-30T13:10:12Z",
+            "owner": "abevol",
+            "repo": "LinkTo",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MouseClicker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T00:00:09Z",
+            "owner": "kavoye",
+            "repo": "MouseClicker",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notification Reader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2026-04-23T18:15:54Z",
+            "owner": "Sudan-Dhungana",
+            "repo": "NotificationReader-WinUIApp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RepoBackup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-20T19:19:01Z",
+            "owner": "GuildOfCalamity",
+            "repo": "RepoBackup",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartLinker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:28:59Z",
+            "owner": "theFASTER-UNiTY",
+            "repo": "SmartLinker",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snipdeck",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-01T08:00:39Z",
+            "owner": "StuartMeeks",
+            "repo": "Snipdeck",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClipCore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-01T10:46:57Z",
+            "owner": "Kleaopsy",
+            "repo": "ClipCore",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D3D12LookDevPTWinUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T04:56:10Z",
+            "owner": "shaderjp",
+            "repo": "D3D12LookDevPTWinUI3",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dell PowerEdge R730xd Fan Control Center",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T12:42:05Z",
+            "owner": "mason369",
+            "repo": "dell-poweredge-r730xd-fan-control",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dialed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-30T14:31:42Z",
+            "owner": "DavideClemente",
+            "repo": "Dialed",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EtherealScepter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T07:28:20Z",
+            "owner": "Eternity-boundary",
+            "repo": "EtherealScepter",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ewcalc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T11:26:34Z",
+            "owner": "OldCrow",
+            "repo": "ewcalc",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glimmer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-24T19:36:59Z",
+            "owner": "danishm",
+            "repo": "glimmer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Photos Takeout Organizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-23T12:26:10Z",
+            "owner": "itielbru",
+            "repo": "gphotos-takeout-organizer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hostbeat Client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-21T17:11:38Z",
+            "owner": "ruben69695",
+            "repo": "hostbeat-win",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerModeSlider",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-23T18:06:50Z",
+            "owner": "giulioungaretti",
+            "repo": "PowerModeSlider",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WingetUSoft",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-21T22:34:08Z",
+            "owner": "xfiberex",
+            "repo": "WingetUSoft",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Y-HOTSPOT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-07T16:00:32Z",
+            "owner": "Yokaiste",
+            "repo": "Y-HOTSPOT",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clipboard Activity Monitor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-14T04:30:57Z",
+            "owner": "creamtea47",
+            "repo": "clipboard-activity-monitor",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CopyPaste",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-23T19:31:14Z",
+            "owner": "EddizEge",
+            "repo": "CopyPaste",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DispEx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-19T13:33:51Z",
+            "owner": "AlexG-4W",
+            "repo": "DispEx",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hylian Grimoire",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-18T13:56:56Z",
+            "owner": "Vrilya",
+            "repo": "Hylian-Grimoire",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeepPressing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T12:39:39Z",
+            "owner": "P4suta",
+            "repo": "keep-pressing",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeyCleanr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-27T06:47:37Z",
+            "owner": "jesussocool",
+            "repo": "KeyCleanr",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lyra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-20T18:48:07Z",
+            "owner": "Turtlepaw",
+            "repo": "lyra",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MailTrayNotifier",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-23T00:40:30Z",
+            "owner": "jongcheol-pak",
+            "repo": "MailTrayNotifier",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PicSelect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-26T20:44:17Z",
+            "owner": "Rana-Faraz",
+            "repo": "pic-select",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RunDialog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-02T21:08:27Z",
+            "owner": "Dekrate",
+            "repo": "RunDialog",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Number Converter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-05T14:31:28Z",
+            "owner": "B3W",
+            "repo": "SimpleNumberConverter",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrueRotate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-03T07:37:07Z",
+            "owner": "BK927",
+            "repo": "true-rotate",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Icon File Maker",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "🔧 Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FluentWeather",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-22T12:12:35Z",
+            "owner": "Gabboxl",
+            "repo": "FluentWeather",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skyline Weather",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T15:37:55Z",
+            "owner": "zxbmmmmmmmmm",
+            "repo": "SkylineWeather",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Āēr Weather",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-14T14:37:52Z",
+            "owner": "mavlac",
+            "repo": "aer-weather",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weather Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-05T14:28:00Z",
+            "owner": "fanioz",
+            "repo": "winui-weather",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "🌤️ Weather"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RailGo-WinUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T09:52:00Z",
+            "owner": "RailGoApps",
+            "repo": "RailGo-WinUI",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inventory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-20T02:53:29Z",
+            "owner": "LeftTwixWand",
+            "repo": "eShopOnWinUI",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForzaTech Studio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-26T16:53:06Z",
+            "owner": "D3FEKT",
+            "repo": "ForzaTechStudio",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSX Master",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-05T14:37:36Z",
+            "owner": "ghost1372",
+            "repo": "PSXMaster",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoodDesire",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-16T10:08:02Z",
+            "owner": "haritha99ch",
+            "repo": "FoodDesire",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Al-Anvar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-14T12:59:16Z",
+            "owner": "ghost1372",
+            "repo": "Al-Anvar",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WDCable",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-23T05:17:12Z",
+            "owner": "jingcjie",
+            "repo": "WDCableWUI",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Library Management System",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-03-29T02:54:42Z",
+            "owner": "Diyari-Kurdi",
+            "repo": "Library-Management-System",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BattleAssistant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-31T16:09:56Z",
+            "owner": "ArchieHill",
+            "repo": "BattleAssistant",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dream Unreal Manager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-07T18:38:46Z",
+            "owner": "TypeDreamMoon",
+            "repo": "DreamUnrealManager",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MitamatchOperations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T23:29:48Z",
+            "owner": "loliGothicK",
+            "repo": "MitamatchOperations",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyTel-U Launcher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-30T07:49:23Z",
+            "owner": "GID0317",
+            "repo": "MyTel-U_WinUI3",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maze-Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-17T09:25:09Z",
+            "owner": "atslughorn",
+            "repo": "Maze-Generator",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RiskFlow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-31T13:47:03Z",
+            "owner": "InstaZDLL",
+            "repo": "RiskFlow",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiscordFileMasterV2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-26T00:39:07Z",
+            "owner": "Shailosingh",
+            "repo": "DiscordFileMasterV2",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arrival",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-30T17:25:09Z",
+            "owner": "thatweirdbush",
+            "repo": "arrival",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nafer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-18T19:14:47Z",
+            "owner": "VueST",
+            "repo": "nafer-frontend",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "📖 Miscellaneous"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:19.116Z",
+    "original_repository": "jishnu-kv/WinUI-3-Apps-List",
+    "original_repository_sha": "d3970062301df96f905bd5dd312f84742bcd5fc9",
+    "enhanced_repository": "enhansome/enhansome-WinUI-3-Apps-List",
+    "enhanced_repository_description": null,
+    "title": "Awesome 📑 Apps List with stars"
+  }
+}
