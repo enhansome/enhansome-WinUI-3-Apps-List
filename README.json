@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T02:39:24Z",
             "owner": "files-community",
             "repo": "Files",
-            "stars": 44753
+            "stars": 44754
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-24T20:46:53Z",
             "owner": "Devolutions",
             "repo": "UniGetUI",
-            "stars": 25779
+            "stars": 25783
           }
         },
         {
@@ -285,7 +285,7 @@
             "archived": false,
             "id": 1206810723,
             "language": "C#",
-            "last_commit": "2026-08-21T11:07:57Z",
+            "last_commit": "2026-08-25T06:25:18Z",
             "owner": "Aeka0",
             "repo": "NAI-Utility-Tool",
             "stars": 55
@@ -747,7 +747,7 @@
             "last_commit": "2026-02-25T11:53:38Z",
             "owner": "DevToys-app",
             "repo": "DevToys",
-            "stars": 31894
+            "stars": 31895
           }
         },
         {
@@ -1202,10 +1202,10 @@
                 "archived": false,
                 "id": 679086250,
                 "language": "Python",
-                "last_commit": "2026-08-23T06:53:28Z",
+                "last_commit": "2026-08-25T07:37:47Z",
                 "owner": "XiaoYouChR",
                 "repo": "Ghost-Downloader-3",
-                "stars": 8623
+                "stars": 8625
               }
             },
             {
@@ -1242,7 +1242,7 @@
                 "last_commit": "2024-11-05T15:21:01Z",
                 "owner": "witalihirsch",
                 "repo": "qBitTorrent-fluent-theme",
-                "stars": 1270
+                "stars": 1271
               }
             }
           ],
@@ -1414,7 +1414,7 @@
             "archived": false,
             "id": 407917273,
             "language": "C#",
-            "last_commit": "2026-08-24T21:44:04Z",
+            "last_commit": "2026-08-25T07:52:16Z",
             "owner": "bkaankose",
             "repo": "Wino-Mail",
             "stars": 1560
@@ -1453,7 +1453,7 @@
             "last_commit": "2026-08-25T02:39:24Z",
             "owner": "files-community",
             "repo": "Files",
-            "stars": 44753
+            "stars": 44754
           }
         },
         {
@@ -1624,7 +1624,7 @@
                 "last_commit": "2026-08-17T18:35:14Z",
                 "owner": "bloxstraplabs",
                 "repo": "bloxstrap",
-                "stars": 3123
+                "stars": 3124
               }
             },
             {
@@ -2501,7 +2501,7 @@
                     "archived": false,
                     "id": 447153396,
                     "language": "C#",
-                    "last_commit": "2026-08-24T22:48:39Z",
+                    "last_commit": "2026-08-25T07:31:38Z",
                     "owner": "huynhsontung",
                     "repo": "Screenbox",
                     "stars": 4086
@@ -2635,7 +2635,7 @@
                     "archived": false,
                     "id": 570922176,
                     "language": "C#",
-                    "last_commit": "2026-08-24T12:00:17Z",
+                    "last_commit": "2026-08-25T06:52:41Z",
                     "owner": "ywmoyue",
                     "repo": "biliuwp-lite",
                     "stars": 1098
@@ -3315,7 +3315,7 @@
             "last_commit": "2026-08-22T20:20:20Z",
             "owner": "Abdelrhman-AK",
             "repo": "WinPaletter",
-            "stars": 1862
+            "stars": 1863
           }
         },
         {
@@ -3327,10 +3327,10 @@
             "archived": false,
             "id": 1266135511,
             "language": "C#",
-            "last_commit": "2026-08-23T16:09:54Z",
+            "last_commit": "2026-08-25T07:11:45Z",
             "owner": "Tianyu199509",
             "repo": "DeskBox",
-            "stars": 1038
+            "stars": 1048
           }
         },
         {
@@ -4003,7 +4003,7 @@
                 "last_commit": "2026-07-27T11:08:35Z",
                 "owner": "ProtonVPN",
                 "repo": "win-app",
-                "stars": 2472
+                "stars": 2473
               }
             },
             {
@@ -4409,7 +4409,7 @@
                 "last_commit": "2026-08-24T20:24:34Z",
                 "owner": "Raphire",
                 "repo": "Win11Debloat",
-                "stars": 56113
+                "stars": 56140
               }
             },
             {
@@ -4424,7 +4424,7 @@
                 "last_commit": "2026-08-22T19:24:27Z",
                 "owner": "memstechtips",
                 "repo": "Winhance",
-                "stars": 12687
+                "stars": 12690
               }
             },
             {
@@ -4454,7 +4454,7 @@
                 "last_commit": "2026-08-18T14:35:16Z",
                 "owner": "builtbybel",
                 "repo": "FluentCleaner",
-                "stars": 5555
+                "stars": 5558
               }
             },
             {
@@ -4591,7 +4591,7 @@
             "last_commit": "2026-08-24T13:20:43Z",
             "owner": "M2Team",
             "repo": "NanaZip",
-            "stars": 15292
+            "stars": 15293
           }
         },
         {
@@ -4651,7 +4651,7 @@
             "last_commit": "2026-08-23T06:28:26Z",
             "owner": "luolangaga",
             "repo": "tubatools",
-            "stars": 2512
+            "stars": 2513
           }
         },
         {
@@ -6261,7 +6261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:39.335Z",
+    "last_updated": "2026-08-25T07:54:31.573Z",
     "original_repository": "jishnu-kv/WinUI-3-Apps-List",
     "original_repository_id": 660964340,
     "original_repository_sha": "d3970062301df96f905bd5dd312f84742bcd5fc9",
