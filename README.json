@@ -12,7 +12,7 @@
             "archived": false,
             "id": 164140756,
             "language": "C#",
-            "last_commit": "2026-08-27T04:25:14Z",
+            "last_commit": "2026-08-27T16:27:51Z",
             "owner": "files-community",
             "repo": "Files",
             "stars": 44786
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 377163326,
             "language": "C#",
-            "last_commit": "2026-08-26T20:01:32Z",
+            "last_commit": "2026-08-27T13:29:26Z",
             "owner": "Devolutions",
             "repo": "UniGetUI",
-            "stars": 25819
+            "stars": 25822
           }
         },
         {
@@ -225,7 +225,7 @@
             "archived": false,
             "id": 1144728715,
             "language": "C#",
-            "last_commit": "2026-08-27T05:20:42Z",
+            "last_commit": "2026-08-27T17:18:48Z",
             "owner": "openclaw",
             "repo": "openclaw-windows-node",
             "stars": 2072
@@ -747,7 +747,7 @@
             "last_commit": "2026-02-25T11:53:38Z",
             "owner": "DevToys-app",
             "repo": "DevToys",
-            "stars": 31903
+            "stars": 31902
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-01T02:44:59Z",
             "owner": "zhiyiYo",
             "repo": "PyQt-Fluent-Widgets",
-            "stars": 8076
+            "stars": 8077
           }
         },
         {
@@ -1205,7 +1205,7 @@
                 "last_commit": "2026-08-26T14:28:55Z",
                 "owner": "XiaoYouChR",
                 "repo": "Ghost-Downloader-3",
-                "stars": 8669
+                "stars": 8675
               }
             },
             {
@@ -1346,7 +1346,7 @@
                 "last_commit": "2026-06-29T03:59:31Z",
                 "owner": "NickvisionApps",
                 "repo": "Parabolic",
-                "stars": 6950
+                "stars": 6951
               }
             },
             {
@@ -1450,7 +1450,7 @@
             "archived": false,
             "id": 164140756,
             "language": "C#",
-            "last_commit": "2026-08-27T04:25:14Z",
+            "last_commit": "2026-08-27T16:27:51Z",
             "owner": "files-community",
             "repo": "Files",
             "stars": 44786
@@ -1539,7 +1539,7 @@
                 "archived": false,
                 "id": 497271229,
                 "language": "C#",
-                "last_commit": "2026-08-27T10:43:35Z",
+                "last_commit": "2026-08-27T17:27:32Z",
                 "owner": "RiversideValley",
                 "repo": "Emerald",
                 "stars": 79
@@ -1681,7 +1681,7 @@
                 "archived": false,
                 "id": 1168845417,
                 "language": "C#",
-                "last_commit": "2026-08-25T08:52:31Z",
+                "last_commit": "2026-08-27T14:42:14Z",
                 "owner": "8bit2qubit",
                 "repo": "OmniConsole",
                 "stars": 281
@@ -1786,7 +1786,7 @@
                 "archived": false,
                 "id": 1217596476,
                 "language": "C++",
-                "last_commit": "2026-08-22T05:35:45Z",
+                "last_commit": "2026-08-27T15:06:19Z",
                 "owner": "CitrineLauncher",
                 "repo": "Citrine",
                 "stars": 30
@@ -2140,7 +2140,7 @@
                     "last_commit": "2026-05-19T06:06:55Z",
                     "owner": "Arlodotexe",
                     "repo": "strix-music",
-                    "stars": 149
+                    "stars": 148
                   }
                 },
                 {
@@ -2364,7 +2364,7 @@
                     "last_commit": "2024-08-07T13:09:32Z",
                     "owner": "NickvisionApps",
                     "repo": "Tagger",
-                    "stars": 312
+                    "stars": 313
                   }
                 },
                 {
@@ -2472,7 +2472,7 @@
                     "archived": false,
                     "id": 1295821038,
                     "language": "C",
-                    "last_commit": "2026-08-26T18:22:39Z",
+                    "last_commit": "2026-08-27T15:53:15Z",
                     "owner": "SlyWombat",
                     "repo": "MegaPDF",
                     "stars": 0
@@ -2922,7 +2922,7 @@
                 "last_commit": "2026-05-05T17:32:03Z",
                 "owner": "lixkote",
                 "repo": "ultrapad",
-                "stars": 373
+                "stars": 374
               }
             },
             {
@@ -3285,7 +3285,7 @@
             "last_commit": "2026-08-27T08:44:24Z",
             "owner": "Blinue",
             "repo": "Magpie",
-            "stars": 14433
+            "stars": 14435
           }
         },
         {
@@ -3300,7 +3300,7 @@
             "last_commit": "2026-07-17T19:00:10Z",
             "owner": "MicaForEveryone",
             "repo": "MicaForEveryone",
-            "stars": 5210
+            "stars": 5211
           }
         },
         {
@@ -3330,7 +3330,7 @@
             "last_commit": "2026-08-27T02:06:04Z",
             "owner": "Tianyu199509",
             "repo": "DeskBox",
-            "stars": 1336
+            "stars": 1357
           }
         },
         {
@@ -3648,7 +3648,7 @@
             "archived": false,
             "id": 339442017,
             "language": "C#",
-            "last_commit": "2026-08-26T15:13:45Z",
+            "last_commit": "2026-08-27T17:02:37Z",
             "owner": "storybuilder-org",
             "repo": "StoryCAD",
             "stars": 27
@@ -3903,7 +3903,7 @@
                 "archived": false,
                 "id": 1201303178,
                 "language": "C++",
-                "last_commit": "2026-08-26T12:06:07Z",
+                "last_commit": "2026-08-27T12:16:49Z",
                 "owner": "Cherrytree56567",
                 "repo": "ClientWarden",
                 "stars": 71
@@ -4003,7 +4003,7 @@
                 "last_commit": "2026-07-27T11:08:35Z",
                 "owner": "ProtonVPN",
                 "repo": "win-app",
-                "stars": 2476
+                "stars": 2478
               }
             },
             {
@@ -4070,7 +4070,7 @@
                 "last_commit": "2026-08-26T13:54:07Z",
                 "owner": "securefolderfs-community",
                 "repo": "SecureFolderFS",
-                "stars": 283
+                "stars": 284
               }
             },
             {
@@ -4324,7 +4324,7 @@
                 "archived": false,
                 "id": 1255240642,
                 "language": "C#",
-                "last_commit": "2026-08-27T11:09:44Z",
+                "last_commit": "2026-08-27T18:08:46Z",
                 "owner": "cechout",
                 "repo": "fluent-sensors",
                 "stars": 77
@@ -4409,7 +4409,7 @@
                 "last_commit": "2026-08-24T20:24:34Z",
                 "owner": "Raphire",
                 "repo": "Win11Debloat",
-                "stars": 56318
+                "stars": 56344
               }
             },
             {
@@ -4424,7 +4424,7 @@
                 "last_commit": "2026-08-26T04:15:11Z",
                 "owner": "memstechtips",
                 "repo": "Winhance",
-                "stars": 12723
+                "stars": 12728
               }
             },
             {
@@ -4436,10 +4436,10 @@
                 "archived": false,
                 "id": 1087077125,
                 "language": "C#",
-                "last_commit": "2026-08-26T13:18:31Z",
+                "last_commit": "2026-08-27T14:39:08Z",
                 "owner": "itsfatduck",
                 "repo": "optimizerDuck",
-                "stars": 8696
+                "stars": 8704
               }
             },
             {
@@ -4454,7 +4454,7 @@
                 "last_commit": "2026-08-18T14:35:16Z",
                 "owner": "builtbybel",
                 "repo": "FluentCleaner",
-                "stars": 5618
+                "stars": 5623
               }
             },
             {
@@ -4466,7 +4466,7 @@
                 "archived": false,
                 "id": 1151445842,
                 "language": "C#",
-                "last_commit": "2026-08-26T13:56:20Z",
+                "last_commit": "2026-08-27T16:03:03Z",
                 "owner": "EvolveOS-Software",
                 "repo": "EvolveOS_Optimizer_V3.0",
                 "stars": 9
@@ -4591,7 +4591,7 @@
             "last_commit": "2026-08-25T14:34:58Z",
             "owner": "M2Team",
             "repo": "NanaZip",
-            "stars": 15326
+            "stars": 15333
           }
         },
         {
@@ -4621,7 +4621,7 @@
             "last_commit": "2026-08-20T20:33:52Z",
             "owner": "rayenghanmi",
             "repo": "RyTuneX",
-            "stars": 5381
+            "stars": 5382
           }
         },
         {
@@ -4651,7 +4651,7 @@
             "last_commit": "2026-08-25T09:20:01Z",
             "owner": "luolangaga",
             "repo": "tubatools",
-            "stars": 2546
+            "stars": 2548
           }
         },
         {
@@ -4666,7 +4666,7 @@
             "last_commit": "2026-02-08T01:37:38Z",
             "owner": "JasonWei512",
             "repo": "EnergyStarX",
-            "stars": 1217
+            "stars": 1216
           }
         },
         {
@@ -4681,7 +4681,7 @@
             "last_commit": "2025-07-06T17:47:41Z",
             "owner": "steam3d",
             "repo": "MagicPods-Windows",
-            "stars": 854
+            "stars": 855
           }
         },
         {
@@ -4786,7 +4786,7 @@
             "last_commit": "2026-01-07T17:33:06Z",
             "owner": "Apollo199999999",
             "repo": "LauncherX",
-            "stars": 190
+            "stars": 191
           }
         },
         {
@@ -4873,7 +4873,7 @@
             "archived": false,
             "id": 1157453851,
             "language": "C#",
-            "last_commit": "2026-08-27T05:08:06Z",
+            "last_commit": "2026-08-27T16:41:04Z",
             "owner": "jamesmontemagno",
             "repo": "tiny-clips",
             "stars": 102
@@ -4891,7 +4891,7 @@
             "last_commit": "2026-02-15T14:29:14Z",
             "owner": "Iemand005",
             "repo": "IRCameraView",
-            "stars": 95
+            "stars": 96
           }
         },
         {
@@ -5286,21 +5286,6 @@
         },
         {
           "node_type": "item",
-          "title": "AT Installer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 730539761,
-            "language": "C#",
-            "last_commit": "2026-07-24T04:06:14Z",
-            "owner": "airtaxi",
-            "repo": "AT-Installer",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
           "title": "LTOG",
           "description": null,
           "children": [],
@@ -5311,6 +5296,21 @@
             "last_commit": "2026-08-11T19:05:30Z",
             "owner": "rlaphoenix",
             "repo": "LTOG",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AT Installer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 730539761,
+            "language": "C#",
+            "last_commit": "2026-07-24T04:06:14Z",
+            "owner": "airtaxi",
+            "repo": "AT-Installer",
             "stars": 8
           }
         },
@@ -5947,7 +5947,7 @@
             "last_commit": "2026-08-21T01:49:02Z",
             "owner": "Gabboxl",
             "repo": "FluentWeather",
-            "stars": 341
+            "stars": 340
           }
         },
         {
@@ -6261,7 +6261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:11:12.090Z",
+    "last_updated": "2026-08-27T18:15:33.985Z",
     "original_repository_info": {
       "archived": false,
       "id": 660964340,
