@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Files App",
-          "description": null,
+          "description": "files-community/Files",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-24T21:26:01Z",
-            "open_issues": 461,
+            "open_issues": 462,
             "owner": "files-community",
             "repo": "Files",
-            "stars": 45793,
+            "stars": 45796,
             "topics": [
               "alternatives",
               "csharp",
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Ambie",
-          "description": null,
+          "description": "jenius-apps/ambie",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "Melora",
-          "description": null,
+          "description": "IcySnex/Melora",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -112,7 +112,7 @@
         {
           "node_type": "item",
           "title": "Fluent Emoji Gallery",
-          "description": null,
+          "description": "michalleptuch/fluent-emoji-gallery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -133,7 +133,7 @@
         {
           "node_type": "item",
           "title": "Odyssey",
-          "description": null,
+          "description": "deadwood2/OdysseyWebBrowser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -160,7 +160,7 @@
         {
           "node_type": "item",
           "title": "Raven",
-          "description": null,
+          "description": "mjishnu/Raven",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -194,7 +194,7 @@
         {
           "node_type": "item",
           "title": "FontWizard",
-          "description": null,
+          "description": "karnyadavdev/FontWizard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -203,32 +203,30 @@
             "id": 1247087260,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T06:40:35Z",
+            "last_commit": "2026-10-02T17:43:20Z",
             "open_issues": 0,
             "owner": "karnyadavdev",
             "repo": "FontWizard",
             "stars": 105,
             "topics": [
+              "avalonia-ui",
               "change-font-in-windows",
-              "change-fonts",
-              "complete-windows-font-changer",
               "font-customization",
-              "safe-font-changer",
               "segoe-ui",
               "sf-pro",
               "system-font",
               "ui-font",
-              "uwp-apps-font-changer",
-              "winaero-font",
-              "winaero-tweaker",
+              "uwp-apps",
               "windows-10",
               "windows-11",
               "windows-11-font-changer",
               "windows-customization",
               "windows-font-changer",
               "windows-ui",
+              "winui",
               "winui-font-changer",
-              "winui3"
+              "winui3",
+              "wpf"
             ]
           },
           "first_seen": "2026-09-03T12:04:02.281Z"
@@ -236,7 +234,7 @@
         {
           "node_type": "item",
           "title": "Task Scheduler Studio",
-          "description": null,
+          "description": "MarkHopper24/Task-Scheduler-Studio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -269,7 +267,7 @@
         {
           "node_type": "item",
           "title": "MdPad",
-          "description": null,
+          "description": "radueduard97/MdPad",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,7 +288,7 @@
         {
           "node_type": "item",
           "title": "IconFlow",
-          "description": null,
+          "description": "mishzx/IconFlow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,7 +324,7 @@
         {
           "node_type": "item",
           "title": "D3D12LookDevPTWinUI",
-          "description": null,
+          "description": "shaderjp/D3D12LookDevPTWinUI3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -353,7 +351,7 @@
         {
           "node_type": "item",
           "title": "UniGetUI",
-          "description": null,
+          "description": "Devolutions/UniGetUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -362,11 +360,11 @@
             "id": 377163326,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:57:22Z",
-            "open_issues": 459,
+            "last_commit": "2026-10-02T19:49:50Z",
+            "open_issues": 457,
             "owner": "Devolutions",
             "repo": "UniGetUI",
-            "stars": 26364,
+            "stars": 26371,
             "topics": [
               "chocolatey",
               "cli",
@@ -387,7 +385,7 @@
         {
           "node_type": "item",
           "title": "FluentStore",
-          "description": null,
+          "description": "yoshiask/FluentStore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -396,11 +394,11 @@
             "id": 280250456,
             "language": "C#",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-02T05:24:40Z",
+            "last_commit": "2026-10-03T04:11:44Z",
             "open_issues": 28,
             "owner": "yoshiask",
             "repo": "FluentStore",
-            "stars": 562,
+            "stars": 559,
             "topics": [
               "microsoft-store",
               "uwp",
@@ -414,7 +412,7 @@
         {
           "node_type": "item",
           "title": "Raven",
-          "description": null,
+          "description": "mjishnu/Raven",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -454,7 +452,7 @@
         {
           "node_type": "item",
           "title": "OpenClaw Windows Hub",
-          "description": null,
+          "description": "openclaw/openclaw-windows-node",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -463,8 +461,8 @@
             "id": 1144728715,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:34:58Z",
-            "open_issues": 138,
+            "last_commit": "2026-10-03T04:17:37Z",
+            "open_issues": 149,
             "owner": "openclaw",
             "repo": "openclaw-windows-node",
             "stars": 2135,
@@ -475,7 +473,7 @@
         {
           "node_type": "item",
           "title": "Rodel Agent",
-          "description": null,
+          "description": "Richasy/Rodel.Agent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -501,7 +499,7 @@
         {
           "node_type": "item",
           "title": "GitHub Copilot Taskbar GUI",
-          "description": null,
+          "description": "sirredbeard/ghcopilot-taskbar-gui",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -528,7 +526,7 @@
         {
           "node_type": "item",
           "title": "Rodel Downloader",
-          "description": null,
+          "description": "Richasy/Rodel.Downloader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -541,7 +539,7 @@
             "open_issues": 1,
             "owner": "Richasy",
             "repo": "Rodel.Downloader",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "ai",
               "downloader",
@@ -555,7 +553,7 @@
         {
           "node_type": "item",
           "title": "NAI Utility Tool",
-          "description": null,
+          "description": "Aeka0/NAI-Utility-Tool",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -564,7 +562,7 @@
             "id": 1206810723,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T13:44:02Z",
+            "last_commit": "2026-10-02T17:01:33Z",
             "open_issues": 3,
             "owner": "Aeka0",
             "repo": "NAI-Utility-Tool",
@@ -583,7 +581,7 @@
         {
           "node_type": "item",
           "title": "GPT Labs",
-          "description": null,
+          "description": "mnikonov/gpt-labs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -625,7 +623,7 @@
         {
           "node_type": "item",
           "title": "Verdure Assistant",
-          "description": null,
+          "description": "maker-community/Verdure.Assistant",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -652,7 +650,7 @@
         {
           "node_type": "item",
           "title": "CodexBarWin",
-          "description": null,
+          "description": "nek0der/CodexBarWin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -681,7 +679,7 @@
         {
           "node_type": "item",
           "title": "KaiROS AI",
-          "description": null,
+          "description": "avikeid2007/KaiROS-AI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -713,7 +711,7 @@
         {
           "node_type": "item",
           "title": "Axela",
-          "description": null,
+          "description": "errortek/Axela",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -734,7 +732,7 @@
         {
           "node_type": "item",
           "title": "Engage",
-          "description": null,
+          "description": "iamhazel/Engage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -755,7 +753,7 @@
         {
           "node_type": "item",
           "title": "Cocos",
-          "description": null,
+          "description": "jiripolasek/cocos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -785,7 +783,7 @@
         {
           "node_type": "item",
           "title": "ChatGPT Desktop App",
-          "description": null,
+          "description": "johngagefaulkner/ChatGPTDesktopApp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -806,7 +804,7 @@
         {
           "node_type": "item",
           "title": "BigChat",
-          "description": null,
+          "description": "Sammy-Lastre/BigChat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -843,7 +841,7 @@
         {
           "node_type": "item",
           "title": "CodexBar",
-          "description": null,
+          "description": "dontcallmejames/CodexBar-Windows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -877,7 +875,7 @@
         {
           "node_type": "item",
           "title": "AiLogAnalyzer",
-          "description": null,
+          "description": "smartzan63/AiLogAnalyzer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -905,7 +903,7 @@
         {
           "node_type": "item",
           "title": "Lucky",
-          "description": null,
+          "description": "Guts444/Lucky",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -933,7 +931,7 @@
         {
           "node_type": "item",
           "title": "Romanowsky Stain Slide Analyzer",
-          "description": null,
+          "description": "h-ch22/RomanowskyStainSlideAnalyzer_Windows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -960,7 +958,7 @@
         {
           "node_type": "item",
           "title": "WhisperShroom",
-          "description": null,
+          "description": "shroomlife/whisper-shroom",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -987,7 +985,7 @@
         {
           "node_type": "item",
           "title": "Prosthetics Store Admin App",
-          "description": null,
+          "description": "amkhrjee/proshandadmin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1017,7 +1015,7 @@
         {
           "node_type": "item",
           "title": "Hurl",
-          "description": null,
+          "description": "U-C-S/Hurl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1030,7 +1028,7 @@
             "open_issues": 29,
             "owner": "U-C-S",
             "repo": "Hurl",
-            "stars": 461,
+            "stars": 462,
             "topics": [
               "aot-compilation",
               "browser-chooser",
@@ -1049,7 +1047,7 @@
         {
           "node_type": "item",
           "title": "Firefox-WinUI",
-          "description": null,
+          "description": "Lockframe/Firefox-WinUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1078,7 +1076,7 @@
         {
           "node_type": "item",
           "title": "Odyssey",
-          "description": null,
+          "description": "deadwood2/OdysseyWebBrowser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1099,7 +1097,7 @@
         {
           "node_type": "item",
           "title": "WinUIEdge",
-          "description": null,
+          "description": "wtcpython/WinUIEdge",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1129,7 +1127,7 @@
         {
           "node_type": "item",
           "title": "Radon Browser",
-          "description": null,
+          "description": "imscythra/radon-browser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1156,7 +1154,7 @@
         {
           "node_type": "item",
           "title": "Windows Community Toolkit",
-          "description": null,
+          "description": "CommunityToolkit/Windows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1194,7 +1192,7 @@
         {
           "node_type": "item",
           "title": "Qt-Fluent-Widgets",
-          "description": null,
+          "description": "Fairy-Oracle-Sanctuary/Qt-Fluent-Widgets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1229,7 +1227,7 @@
         {
           "node_type": "item",
           "title": "Fluent Flet",
-          "description": null,
+          "description": "Bbalduzz/fluentflet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1256,7 +1254,7 @@
         {
           "node_type": "item",
           "title": "XAML Brewer WinUI3 SkiaSharp Sample",
-          "description": null,
+          "description": "XamlBrewer/XamlBrewer.WinUI3.SkiaSharp.Sample",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1281,7 +1279,7 @@
         {
           "node_type": "item",
           "title": "XAML Brewer WinUI3 LiveChart2 Sample",
-          "description": null,
+          "description": "XamlBrewer/XamlBrewer.WinUI3.LiveChart2.Sample",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1313,7 +1311,7 @@
         {
           "node_type": "item",
           "title": "DevToys",
-          "description": null,
+          "description": "DevToys-app/DevToys",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1323,10 +1321,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-29T00:45:51Z",
-            "open_issues": 339,
+            "open_issues": 338,
             "owner": "DevToys-app",
             "repo": "DevToys",
-            "stars": 32053,
+            "stars": 32052,
             "topics": [
               "blazor",
               "cross-platform",
@@ -1354,7 +1352,7 @@
         {
           "node_type": "item",
           "title": "PyQt Fluent Widgets",
-          "description": null,
+          "description": "zhiyiYo/PyQt-Fluent-Widgets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1367,7 +1365,7 @@
             "open_issues": 22,
             "owner": "zhiyiYo",
             "repo": "PyQt-Fluent-Widgets",
-            "stars": 8112,
+            "stars": 8111,
             "topics": [
               "custom",
               "fluent",
@@ -1396,7 +1394,7 @@
         {
           "node_type": "item",
           "title": "Rectify11",
-          "description": null,
+          "description": "Rectify11/Installer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1409,7 +1407,7 @@
             "open_issues": 150,
             "owner": "Rectify11",
             "repo": "Installer",
-            "stars": 3494,
+            "stars": 3495,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:13.259Z"
@@ -1417,7 +1415,7 @@
         {
           "node_type": "item",
           "title": "Sun Valley ttk theme",
-          "description": null,
+          "description": "rdbende/Sun-Valley-ttk-theme",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1430,7 +1428,7 @@
             "open_issues": 37,
             "owner": "rdbende",
             "repo": "Sun-Valley-ttk-theme",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "awesome",
               "dark-theme",
@@ -1459,7 +1457,7 @@
         {
           "node_type": "item",
           "title": "FluentHub",
-          "description": null,
+          "description": "0x5bfa/FluentHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1501,7 +1499,7 @@
         {
           "node_type": "item",
           "title": "QTWin11",
-          "description": null,
+          "description": "witalihirsch/QTWin11",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1537,7 +1535,7 @@
         {
           "node_type": "item",
           "title": "DevWinUI",
-          "description": null,
+          "description": "ghost1372/DevWinUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1579,7 +1577,7 @@
         {
           "node_type": "item",
           "title": "Loopback Manager",
-          "description": null,
+          "description": "Richasy/LoopbackManager.Desktop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1605,7 +1603,7 @@
         {
           "node_type": "item",
           "title": "Fellmonger",
-          "description": null,
+          "description": "fbarbat/fellmonger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1633,7 +1631,7 @@
         {
           "node_type": "item",
           "title": "JitHub",
-          "description": null,
+          "description": "JitHubApp/JitHubV2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1646,7 +1644,7 @@
             "open_issues": 10,
             "owner": "JitHubApp",
             "repo": "JitHubV2",
-            "stars": 155,
+            "stars": 154,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:13.259Z"
@@ -1654,7 +1652,7 @@
         {
           "node_type": "item",
           "title": "Azure Key Vault Explorer",
-          "description": null,
+          "description": "cricketthomas/AzureKeyVaultExplorer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1694,7 +1692,7 @@
         {
           "node_type": "item",
           "title": "PreLaunchTaskr",
-          "description": null,
+          "description": "SuGar0218/PreLaunchTaskr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1722,7 +1720,7 @@
         {
           "node_type": "item",
           "title": "AK.Toolkit",
-          "description": null,
+          "description": "AndrewKeepCoding/AK.Toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1747,7 +1745,7 @@
         {
           "node_type": "item",
           "title": "SwellSSH",
-          "description": null,
+          "description": "yaog6700-bit/Swell-SSH",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1768,7 +1766,7 @@
         {
           "node_type": "item",
           "title": "ConTeXt IDE",
-          "description": null,
+          "description": "WelterDevelopment/ConTeXt-IDE-WinUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1794,7 +1792,7 @@
         {
           "node_type": "item",
           "title": "Hakonexa",
-          "description": null,
+          "description": "runceel/wsl-containers-desktop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1815,7 +1813,7 @@
         {
           "node_type": "item",
           "title": "PaletteNet",
-          "description": null,
+          "description": "tmk907/PaletteNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1842,7 +1840,7 @@
         {
           "node_type": "item",
           "title": "DbToys",
-          "description": null,
+          "description": "NeilQ/DbToys",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1870,7 +1868,7 @@
         {
           "node_type": "item",
           "title": "XAML Lab",
-          "description": null,
+          "description": "WindowsNT/XAML-Lab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1895,7 +1893,7 @@
         {
           "node_type": "item",
           "title": "Sandboxer",
-          "description": null,
+          "description": "Slluxx/Sandboxer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1926,7 +1924,7 @@
         {
           "node_type": "item",
           "title": "Grex",
-          "description": null,
+          "description": "visorcraft/Grex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1965,7 +1963,7 @@
         {
           "node_type": "item",
           "title": "HexBox.WinUI",
-          "description": null,
+          "description": "hotkidfamily/HexBox.WinUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1993,7 +1991,7 @@
         {
           "node_type": "item",
           "title": "ReCaptcha.Desktop",
-          "description": null,
+          "description": "IcySnex/ReCaptcha.Desktop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2022,7 +2020,7 @@
         {
           "node_type": "item",
           "title": "IconExtractor",
-          "description": null,
+          "description": "GuildOfCalamity/IconExtractor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2057,7 +2055,7 @@
         {
           "node_type": "item",
           "title": "Colors.Rainbow",
-          "description": null,
+          "description": "sh0ckj0ckey/Colors.Rainbow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2081,7 +2079,7 @@
         {
           "node_type": "item",
           "title": "FlarePurge",
-          "description": null,
+          "description": "colorvivo/flarepurge-windows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2110,7 +2108,7 @@
         {
           "node_type": "item",
           "title": "KeyPocket",
-          "description": null,
+          "description": "MidnightCrowing/KeyPocket",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2139,7 +2137,7 @@
         {
           "node_type": "item",
           "title": "RetroC IDE",
-          "description": null,
+          "description": "avikeid2007/Retro-C-IDE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2160,7 +2158,7 @@
         {
           "node_type": "item",
           "title": "CFTools for Windows",
-          "description": null,
+          "description": "investblog/cftools-win",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2189,7 +2187,7 @@
         {
           "node_type": "item",
           "title": "gclo - Git Clone Large Organizations",
-          "description": null,
+          "description": "KofTwentyTwo/gclo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2238,11 +2236,11 @@
                 "id": 679086250,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T13:35:08Z",
-                "open_issues": 78,
+                "last_commit": "2026-10-02T14:36:39Z",
+                "open_issues": 76,
                 "owner": "XiaoYouChR",
                 "repo": "Ghost-Downloader-3",
-                "stars": 9411,
+                "stars": 9421,
                 "topics": [
                   "async",
                   "asyncio",
@@ -2270,7 +2268,7 @@
             {
               "node_type": "item",
               "title": "OnionMedia",
-              "description": null,
+              "description": "onionware-github/OnionMedia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2298,7 +2296,7 @@
             {
               "node_type": "item",
               "title": "qBitTorrent-Fluent theme",
-              "description": null,
+              "description": "witalihirsch/qBitTorrent-fluent-theme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2311,7 +2309,7 @@
                 "open_issues": 13,
                 "owner": "witalihirsch",
                 "repo": "qBitTorrent-fluent-theme",
-                "stars": 1273,
+                "stars": 1269,
                 "topics": [
                   "fluent",
                   "mica-material",
@@ -2340,7 +2338,7 @@
             {
               "node_type": "item",
               "title": "WinTube",
-              "description": null,
+              "description": "Areoxy/WinTube",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2368,7 +2366,7 @@
             {
               "node_type": "item",
               "title": "YT2MP3",
-              "description": null,
+              "description": "0zean/YT2MP3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2395,7 +2393,7 @@
             {
               "node_type": "item",
               "title": "TubeSync",
-              "description": null,
+              "description": "manusoft/youtube-downloader-desktop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2424,7 +2422,7 @@
             {
               "node_type": "item",
               "title": "FluentDownloader",
-              "description": null,
+              "description": "kirrishima/FluentDownloader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2452,7 +2450,7 @@
             {
               "node_type": "item",
               "title": "MermaYT",
-              "description": null,
+              "description": "laura-kolcavova/MermaYT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2487,7 +2485,7 @@
             {
               "node_type": "item",
               "title": "Parabolic",
-              "description": null,
+              "description": "NickvisionApps/Parabolic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2497,10 +2495,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-06-29T03:59:31Z",
-                "open_issues": 103,
+                "open_issues": 102,
                 "owner": "NickvisionApps",
                 "repo": "Parabolic",
-                "stars": 7197,
+                "stars": 7206,
                 "topics": [
                   "csharp",
                   "downloader",
@@ -2523,7 +2521,7 @@
             {
               "node_type": "item",
               "title": "Kemono Downloader GUI",
-              "description": null,
+              "description": "ZIDOUZI/Kemono-Downloader-GUI",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2552,7 +2550,7 @@
             {
               "node_type": "item",
               "title": "TvTime",
-              "description": null,
+              "description": "WinUICommunity/TvTime",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2587,7 +2585,7 @@
             {
               "node_type": "item",
               "title": "VDownload",
-              "description": null,
+              "description": "mateuszskoczek/VDownload",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2628,7 +2626,7 @@
         {
           "node_type": "item",
           "title": "Wino Mail",
-          "description": null,
+          "description": "bkaankose/Wino-Mail",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2637,11 +2635,11 @@
             "id": 407917273,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T11:24:17Z",
-            "open_issues": 193,
+            "last_commit": "2026-10-02T19:41:37Z",
+            "open_issues": 192,
             "owner": "bkaankose",
             "repo": "Wino-Mail",
-            "stars": 1594,
+            "stars": 1595,
             "topics": [
               "csharp",
               "dotnet",
@@ -2660,7 +2658,7 @@
         {
           "node_type": "item",
           "title": "Eppie Mail",
-          "description": null,
+          "description": "Eppie-io/Eppie-App",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2669,7 +2667,7 @@
             "id": 610786335,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:52:33Z",
+            "last_commit": "2026-10-02T17:33:39Z",
             "open_issues": 63,
             "owner": "Eppie-io",
             "repo": "Eppie-App",
@@ -2706,7 +2704,7 @@
         {
           "node_type": "item",
           "title": "Files App",
-          "description": null,
+          "description": "files-community/Files",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2716,10 +2714,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-24T21:26:01Z",
-            "open_issues": 461,
+            "open_issues": 462,
             "owner": "files-community",
             "repo": "Files",
-            "stars": 45793,
+            "stars": 45796,
             "topics": [
               "alternatives",
               "csharp",
@@ -2748,7 +2746,7 @@
         {
           "node_type": "item",
           "title": "MyFTP",
-          "description": null,
+          "description": "luandersonn/MyFTP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2785,7 +2783,7 @@
         {
           "node_type": "item",
           "title": "BitWallpaper",
-          "description": null,
+          "description": "torum/BitWallpaper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2811,7 +2809,7 @@
         {
           "node_type": "item",
           "title": "earmark",
-          "description": null,
+          "description": "williamckha/earmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2850,7 +2848,7 @@
         {
           "node_type": "item",
           "title": "MyMoney",
-          "description": null,
+          "description": "jm6271/MyMoney",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2887,7 +2885,7 @@
             {
               "node_type": "item",
               "title": "Emerald",
-              "description": null,
+              "description": "RiversideValley/Emerald",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2922,7 +2920,7 @@
             {
               "node_type": "item",
               "title": "Fluent-Tic-Tac-Toe",
-              "description": null,
+              "description": "dfchang149/Fluent-Tic-Tac-Toe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2957,7 +2955,7 @@
             {
               "node_type": "item",
               "title": "Fluent 2048",
-              "description": null,
+              "description": "Zingzy/fluent-2048",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2989,7 +2987,7 @@
             {
               "node_type": "item",
               "title": "Irregular Sliding Puzzle",
-              "description": null,
+              "description": "Pure-Happiness/Irregular-Sliding-Puzzle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3018,7 +3016,7 @@
             {
               "node_type": "item",
               "title": "MineSweeperino",
-              "description": null,
+              "description": "NydusBorn/MineSweeperino",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3052,7 +3050,7 @@
             {
               "node_type": "item",
               "title": "Bloxstrap",
-              "description": null,
+              "description": "bloxstraplabs/bloxstrap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3078,7 +3076,7 @@
             {
               "node_type": "item",
               "title": "Collapse",
-              "description": null,
+              "description": "CollapseLauncher/Collapse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3091,7 +3089,7 @@
                 "open_issues": 48,
                 "owner": "CollapseLauncher",
                 "repo": "Collapse",
-                "stars": 1783,
+                "stars": 1782,
                 "topics": [
                   "benghuai",
                   "dotnet",
@@ -3118,7 +3116,7 @@
             {
               "node_type": "item",
               "title": "Handheld Companion",
-              "description": null,
+              "description": "Valkirie/HandheldCompanion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3131,7 +3129,7 @@
                 "open_issues": 342,
                 "owner": "Valkirie",
                 "repo": "HandheldCompanion",
-                "stars": 1734,
+                "stars": 1735,
                 "topics": [
                   "consoles",
                   "gaming",
@@ -3145,7 +3143,7 @@
             {
               "node_type": "item",
               "title": "Natsurainko.FluentLauncher",
-              "description": null,
+              "description": "Xcube-Studio/Natsurainko.FluentLauncher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3176,7 +3174,7 @@
             {
               "node_type": "item",
               "title": "OmniConsole",
-              "description": null,
+              "description": "8bit2qubit/OmniConsole",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3210,7 +3208,7 @@
             {
               "node_type": "item",
               "title": "OVR Lighthouse Manager",
-              "description": null,
+              "description": "kurotu/OVR-Lighthouse-Manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3236,7 +3234,7 @@
             {
               "node_type": "item",
               "title": "Polymerium",
-              "description": null,
+              "description": "d3ara1n/Polymerium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3270,7 +3268,7 @@
             {
               "node_type": "item",
               "title": "New Eden Roaming Guide",
-              "description": null,
+              "description": "qedsd/TheGuideToTheNewEden",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3295,7 +3293,7 @@
             {
               "node_type": "item",
               "title": "Vanilla-RTX-App",
-              "description": null,
+              "description": "Cubeir/Vanilla-RTX-App",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3324,7 +3322,7 @@
             {
               "node_type": "item",
               "title": "Dotahold",
-              "description": null,
+              "description": "sh0ckj0ckey/Dotahold",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3351,7 +3349,7 @@
             {
               "node_type": "item",
               "title": "Citrine",
-              "description": null,
+              "description": "CitrineLauncher/Citrine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3360,7 +3358,7 @@
                 "id": 1217596476,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T13:42:15Z",
+                "last_commit": "2026-10-02T21:22:29Z",
                 "open_issues": 4,
                 "owner": "CitrineLauncher",
                 "repo": "Citrine",
@@ -3383,7 +3381,7 @@
             {
               "node_type": "item",
               "title": "ky3-Launcher",
-              "description": null,
+              "description": "ky3-studio/ky3-Launcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3413,7 +3411,7 @@
             {
               "node_type": "item",
               "title": "SCSHub",
-              "description": null,
+              "description": "AmirMahdaviAM/SCSHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3451,7 +3449,7 @@
             {
               "node_type": "item",
               "title": "DialogueForest",
-              "description": null,
+              "description": "Difegue/DialogueForest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3479,7 +3477,7 @@
             {
               "node_type": "item",
               "title": "PortableAppsManager",
-              "description": null,
+              "description": "Jurij15/PortableAppsManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3505,7 +3503,7 @@
             {
               "node_type": "item",
               "title": "GenshinSwitch",
-              "description": null,
+              "description": "GenshinMatrix/genshin-switch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3532,7 +3530,7 @@
             {
               "node_type": "item",
               "title": "AoE2DE Lobby Browser",
-              "description": null,
+              "description": "tmk907/AoE2DELobbyBrowser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3561,7 +3559,7 @@
             {
               "node_type": "item",
               "title": "SteamPulse",
-              "description": null,
+              "description": "AmirMahdaviAM/SteamPulse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3592,7 +3590,7 @@
             {
               "node_type": "item",
               "title": "BallanceLauncher",
-              "description": null,
+              "description": "Ghomist/BallanceLauncher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3613,7 +3611,7 @@
             {
               "node_type": "item",
               "title": "GameGate",
-              "description": null,
+              "description": "akoc1/GameGate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3640,7 +3638,7 @@
             {
               "node_type": "item",
               "title": "Steam Achievements",
-              "description": null,
+              "description": "pepeizq/Steam-Achievements",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3665,7 +3663,7 @@
             {
               "node_type": "item",
               "title": "Versatile",
-              "description": null,
+              "description": "VersatileProject/Versatile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3706,7 +3704,7 @@
                 {
                   "node_type": "item",
                   "title": "Image Viewer",
-                  "description": null,
+                  "description": "dragonofmercy/image-viewer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3716,10 +3714,10 @@
                     "language": "C#",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-30T10:38:03Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "dragonofmercy",
                     "repo": "image-viewer",
-                    "stars": 72,
+                    "stars": 71,
                     "topics": [
                       "csharp",
                       "desktop-app",
@@ -3741,7 +3739,7 @@
                 {
                   "node_type": "item",
                   "title": "Piktosaur",
-                  "description": null,
+                  "description": "Bloomca/Piktosaur",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3769,7 +3767,7 @@
                 {
                   "node_type": "item",
                   "title": "ArtWork",
-                  "description": null,
+                  "description": "ghost1372/ArtWork",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3805,7 +3803,7 @@
                 {
                   "node_type": "item",
                   "title": "AT-Image-Converter",
-                  "description": null,
+                  "description": "airtaxi/AT-Image-Converter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3826,7 +3824,7 @@
                 {
                   "node_type": "item",
                   "title": "ImageRate",
-                  "description": null,
+                  "description": "fm-sys/ImageRate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3849,7 +3847,7 @@
                 {
                   "node_type": "item",
                   "title": "Video Splitter",
-                  "description": null,
+                  "description": "PeteJobi/VideoSplitter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3875,7 +3873,7 @@
                 {
                   "node_type": "item",
                   "title": "MetadataApp",
-                  "description": null,
+                  "description": "t-manojkumar/MetadataApp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3918,7 +3916,7 @@
                 {
                   "node_type": "item",
                   "title": "Untamed Music Player",
-                  "description": null,
+                  "description": "LanZhan-Harmony/WindowsMusicPlayer-TheUntamedMusicPlayer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3931,7 +3929,7 @@
                     "open_issues": 20,
                     "owner": "LanZhan-Harmony",
                     "repo": "WindowsMusicPlayer-TheUntamedMusicPlayer",
-                    "stars": 290,
+                    "stars": 289,
                     "topics": [
                       "csharp",
                       "winui3"
@@ -3942,7 +3940,7 @@
                 {
                   "node_type": "item",
                   "title": "Trdo",
-                  "description": null,
+                  "description": "TheJoeFin/Traydio",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3972,7 +3970,7 @@
                 {
                   "node_type": "item",
                   "title": "Stylophone",
-                  "description": null,
+                  "description": "Difegue/Stylophone",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4005,7 +4003,7 @@
                 {
                   "node_type": "item",
                   "title": "Strix Music",
-                  "description": null,
+                  "description": "Arlodotexe/strix-music",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4034,7 +4032,7 @@
                 {
                   "node_type": "item",
                   "title": "MPDCtrl",
-                  "description": null,
+                  "description": "torum/MPDCtrl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4043,7 +4041,7 @@
                     "id": 121708865,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T20:06:52Z",
+                    "last_commit": "2026-10-02T21:49:23Z",
                     "open_issues": 7,
                     "owner": "torum",
                     "repo": "MPDCtrl",
@@ -4061,7 +4059,7 @@
                 {
                   "node_type": "item",
                   "title": "PlayerWinRT",
-                  "description": null,
+                  "description": "YexuanXiao/PlayerWinRT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4097,7 +4095,7 @@
                 {
                   "node_type": "item",
                   "title": "Melora",
-                  "description": null,
+                  "description": "IcySnex/Melora",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4128,7 +4126,7 @@
                 {
                   "node_type": "item",
                   "title": "Disenchant Music Player",
-                  "description": null,
+                  "description": "DenryDu/Disenchant-Music-Player",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4157,7 +4155,7 @@
                 {
                   "node_type": "item",
                   "title": "Musium",
-                  "description": null,
+                  "description": "paste1ess/Musium",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4178,7 +4176,7 @@
                 {
                   "node_type": "item",
                   "title": "OpenDeezer",
-                  "description": null,
+                  "description": "Cycl0o0/OpenDeezer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4219,7 +4217,7 @@
                 {
                   "node_type": "item",
                   "title": "BarPlay",
-                  "description": null,
+                  "description": "airtaxi/BarPlay",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4259,7 +4257,7 @@
                 {
                   "node_type": "item",
                   "title": "Sound Reaver",
-                  "description": null,
+                  "description": "sungaila/SoundReaver",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4291,7 +4289,7 @@
                 {
                   "node_type": "item",
                   "title": "haikusMediaPlayer",
-                  "description": null,
+                  "description": "nebula-neru/haikusMediaPlayer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4317,7 +4315,7 @@
                 {
                   "node_type": "item",
                   "title": "Rhythm",
-                  "description": null,
+                  "description": "FallenDeity/Rhythm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4344,7 +4342,7 @@
                 {
                   "node_type": "item",
                   "title": "Tid3",
-                  "description": null,
+                  "description": "ArthurCarrenho/Tid3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4369,7 +4367,7 @@
                 {
                   "node_type": "item",
                   "title": "Folderity",
-                  "description": null,
+                  "description": "Shailosingh/Folderity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4390,7 +4388,7 @@
                 {
                   "node_type": "item",
                   "title": "Music-M",
-                  "description": null,
+                  "description": "Kitsunex-glitch/Music-M-UPD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4418,7 +4416,7 @@
                 {
                   "node_type": "item",
                   "title": "WaveeMusic",
-                  "description": null,
+                  "description": "christosk92/WaveeMusic",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4427,8 +4425,8 @@
                     "id": 1079030253,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T09:53:49Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-10-02T22:40:37Z",
+                    "open_issues": 12,
                     "owner": "christosk92",
                     "repo": "WaveeMusic",
                     "stars": 55,
@@ -4457,7 +4455,7 @@
                 {
                   "node_type": "item",
                   "title": "Tagger",
-                  "description": null,
+                  "description": "NickvisionApps/Tagger",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4470,7 +4468,7 @@
                     "open_issues": 27,
                     "owner": "NickvisionApps",
                     "repo": "Tagger",
-                    "stars": 314,
+                    "stars": 315,
                     "topics": [
                       "audio",
                       "csharp",
@@ -4492,7 +4490,7 @@
                 {
                   "node_type": "item",
                   "title": "Yugen.DJ",
-                  "description": null,
+                  "description": "yugen-apps/yugen-dj",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4518,7 +4516,7 @@
                 {
                   "node_type": "item",
                   "title": "PodcastChapterEditor",
-                  "description": null,
+                  "description": "snivets/PodcastChapterEditor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4539,7 +4537,7 @@
                 {
                   "node_type": "item",
                   "title": "TagEditor",
-                  "description": null,
+                  "description": "danvlsv/TagEditor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4583,7 +4581,7 @@
                 {
                   "node_type": "item",
                   "title": "Rune",
-                  "description": null,
+                  "description": "DanialJaved/rune",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4611,7 +4609,7 @@
                 {
                   "node_type": "item",
                   "title": "Glance PDF",
-                  "description": null,
+                  "description": "jonas1ara/Glance",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4645,7 +4643,7 @@
                 {
                   "node_type": "item",
                   "title": "MegaPDF",
-                  "description": null,
+                  "description": "SlyWombat/MegaPDF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4654,8 +4652,8 @@
                     "id": 1295821038,
                     "language": "C#",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T13:43:08Z",
-                    "open_issues": 33,
+                    "last_commit": "2026-10-02T14:56:06Z",
+                    "open_issues": 32,
                     "owner": "SlyWombat",
                     "repo": "MegaPDF",
                     "stars": 0,
@@ -4696,7 +4694,7 @@
                 {
                   "node_type": "item",
                   "title": "Screenbox",
-                  "description": null,
+                  "description": "huynhsontung/Screenbox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4709,7 +4707,7 @@
                     "open_issues": 242,
                     "owner": "huynhsontung",
                     "repo": "Screenbox",
-                    "stars": 4466,
+                    "stars": 4467,
                     "topics": [
                       "csharp",
                       "dotnet",
@@ -4725,7 +4723,7 @@
                 {
                   "node_type": "item",
                   "title": "Rise Media Player",
-                  "description": null,
+                  "description": "theimpactfulcompany/Rise-Media-Player",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4765,7 +4763,7 @@
                 {
                   "node_type": "item",
                   "title": "Danmaku Player",
-                  "description": null,
+                  "description": "Poker-sang/DanmakuPlayer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4796,7 +4794,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome Media Player WinUI3",
-                  "description": null,
+                  "description": "bluday/awesome-media-player",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4834,7 +4832,7 @@
                 {
                   "node_type": "item",
                   "title": "HyPlayer",
-                  "description": null,
+                  "description": "HyPlayer/HyPlayer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4843,7 +4841,7 @@
                     "id": 338844143,
                     "language": "C#",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-22T13:10:34Z",
+                    "last_commit": "2026-10-02T14:29:04Z",
                     "open_issues": 64,
                     "owner": "HyPlayer",
                     "repo": "HyPlayer",
@@ -4855,7 +4853,7 @@
                 {
                   "node_type": "item",
                   "title": "FluentFin",
-                  "description": null,
+                  "description": "insomniachi/FluentFin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4883,7 +4881,7 @@
                 {
                   "node_type": "item",
                   "title": "Bili.Copilot",
-                  "description": null,
+                  "description": "Richasy/Bili.Copilot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4896,7 +4894,7 @@
                     "open_issues": 270,
                     "owner": "Richasy",
                     "repo": "Bili.Copilot",
-                    "stars": 5234,
+                    "stars": 5233,
                     "topics": [
                       "bilibili",
                       "windows-app-sdk",
@@ -4908,7 +4906,7 @@
                 {
                   "node_type": "item",
                   "title": "BiliLite",
-                  "description": null,
+                  "description": "ywmoyue/biliuwp-lite",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4932,7 +4930,7 @@
                 {
                   "node_type": "item",
                   "title": "Totoro",
-                  "description": null,
+                  "description": "insomniachi/Totoro",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4960,7 +4958,7 @@
                 {
                   "node_type": "item",
                   "title": "AniMoe",
-                  "description": null,
+                  "description": "CosmicPredator/AniMoe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4988,7 +4986,7 @@
                 {
                   "node_type": "item",
                   "title": "VideoCropper",
-                  "description": null,
+                  "description": "PeteJobi/VideoCropper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5029,7 +5027,7 @@
         {
           "node_type": "item",
           "title": "Character Map UWP",
-          "description": null,
+          "description": "character-map-uwp/Character-Map-UWP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5038,11 +5036,11 @@
             "id": 51278127,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T11:27:13Z",
+            "last_commit": "2026-10-02T15:15:51Z",
             "open_issues": 18,
             "owner": "character-map-uwp",
             "repo": "Character-Map-UWP",
-            "stars": 791,
+            "stars": 790,
             "topics": [
               "character",
               "font",
@@ -5055,7 +5053,7 @@
         {
           "node_type": "item",
           "title": "Unpaint",
-          "description": null,
+          "description": "axodox/unpaint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5089,7 +5087,7 @@
         {
           "node_type": "item",
           "title": "Fluent Emoji Gallery",
-          "description": null,
+          "description": "michalleptuch/fluent-emoji-gallery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5110,7 +5108,7 @@
         {
           "node_type": "item",
           "title": "Summer",
-          "description": null,
+          "description": "sh0ckj0ckey/Summer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5134,7 +5132,7 @@
         {
           "node_type": "item",
           "title": "Fluent Noise Generator",
-          "description": null,
+          "description": "bluday/fluent-noise-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5143,7 +5141,7 @@
             "id": 844144607,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-02T21:14:56Z",
+            "last_commit": "2026-10-02T22:55:53Z",
             "open_issues": 0,
             "owner": "bluday",
             "repo": "fluent-noise-generator",
@@ -5165,7 +5163,7 @@
         {
           "node_type": "item",
           "title": "Painto",
-          "description": null,
+          "description": "BradleyBao/Painto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5198,7 +5196,7 @@
         {
           "node_type": "item",
           "title": "Fluent Feeds",
-          "description": null,
+          "description": "hannesschulze/fluent-feeds",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5219,7 +5217,7 @@
         {
           "node_type": "item",
           "title": "FeedDesk",
-          "description": null,
+          "description": "torum/FeedDesk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5247,7 +5245,7 @@
         {
           "node_type": "item",
           "title": "PocketReader",
-          "description": null,
+          "description": "aungkokomm/PocketReader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5290,7 +5288,7 @@
             {
               "node_type": "item",
               "title": "Ink Canvas Artistry",
-              "description": null,
+              "description": "InkCanvas/Ink-Canvas-Artistry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5311,7 +5309,7 @@
             {
               "node_type": "item",
               "title": "FlowBoard",
-              "description": null,
+              "description": "FireCubeStudios/FlowBoard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5339,7 +5337,7 @@
             {
               "node_type": "item",
               "title": "Typedown",
-              "description": null,
+              "description": "byxiaozhi/Typedown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5352,7 +5350,7 @@
                 "open_issues": 79,
                 "owner": "byxiaozhi",
                 "repo": "Typedown",
-                "stars": 1090,
+                "stars": 1091,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:13.259Z"
@@ -5360,7 +5358,7 @@
             {
               "node_type": "item",
               "title": "UltraPad",
-              "description": null,
+              "description": "lixkote/ultrapad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5388,7 +5386,7 @@
             {
               "node_type": "item",
               "title": "Storylines",
-              "description": null,
+              "description": "morning4coffe-dev/storylines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5419,7 +5417,7 @@
             {
               "node_type": "item",
               "title": "Fastedit",
-              "description": null,
+              "description": "FrozenAssassine/Fastedit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5447,7 +5445,7 @@
             {
               "node_type": "item",
               "title": "TowPad",
-              "description": null,
+              "description": "itsWindows11/TowPad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5468,7 +5466,7 @@
             {
               "node_type": "item",
               "title": "SkyNotepad",
-              "description": null,
+              "description": "fjord79/SkyNotepad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5510,7 +5508,7 @@
             {
               "node_type": "item",
               "title": "MyNotes",
-              "description": null,
+              "description": "Erencrypt/MyNotes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5547,7 +5545,7 @@
             {
               "node_type": "item",
               "title": "READU.md",
-              "description": null,
+              "description": "breezy89757/READU.md",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5579,7 +5577,7 @@
             {
               "node_type": "item",
               "title": "Ferrpad",
-              "description": null,
+              "description": "shfrlabs/ferrpad",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5600,7 +5598,7 @@
             {
               "node_type": "item",
               "title": "HikariEditor",
-              "description": null,
+              "description": "Himeyama/HikariEditor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5625,7 +5623,7 @@
             {
               "node_type": "item",
               "title": "Ivirius Text Editor",
-              "description": null,
+              "description": "IviriusMain/Ivirius-Text-Editor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5650,7 +5648,7 @@
             {
               "node_type": "item",
               "title": "InkMD-Editor",
-              "description": null,
+              "description": "tribeti/InkMD-Editor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5680,7 +5678,7 @@
             {
               "node_type": "item",
               "title": "MdPad",
-              "description": null,
+              "description": "radueduard97/MdPad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5701,7 +5699,7 @@
             {
               "node_type": "item",
               "title": "Ideas",
-              "description": null,
+              "description": "living-ming/WinUI3-Ideas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5725,7 +5723,7 @@
             {
               "node_type": "item",
               "title": "Markdown Viewer",
-              "description": null,
+              "description": "sannlynnhtun-coding/markdown-viewer-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5748,7 +5746,7 @@
             {
               "node_type": "item",
               "title": "WinMD",
-              "description": null,
+              "description": "toevi/WinMD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5778,7 +5776,7 @@
             {
               "node_type": "item",
               "title": "Tideline",
-              "description": null,
+              "description": "BENZOOgataga/Tideline",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5823,7 +5821,7 @@
             {
               "node_type": "item",
               "title": "TaskList",
-              "description": null,
+              "description": "GuildOfCalamity/TaskList",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5861,7 +5859,7 @@
             {
               "node_type": "item",
               "title": "DayDayUp",
-              "description": null,
+              "description": "Fangjin98/daydayup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5890,7 +5888,7 @@
             {
               "node_type": "item",
               "title": "FluentTasks",
-              "description": null,
+              "description": "javierferrersb/FluentTasks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5921,7 +5919,7 @@
             {
               "node_type": "item",
               "title": "ToDoManager",
-              "description": null,
+              "description": "navi705/ToDoManager-WinUI3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5947,7 +5945,7 @@
             {
               "node_type": "item",
               "title": "Openza Tasks",
-              "description": null,
+              "description": "openza/tasks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5978,7 +5976,7 @@
             {
               "node_type": "item",
               "title": "WinUI3-TaskList",
-              "description": null,
+              "description": "tamil1809/WinUI3-TaskList",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5999,7 +5997,7 @@
             {
               "node_type": "item",
               "title": "To-Do List",
-              "description": null,
+              "description": "fanioz/winui-todolist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6034,7 +6032,7 @@
         {
           "node_type": "item",
           "title": "Magpie",
-          "description": null,
+          "description": "Blinue/Magpie",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6043,11 +6041,11 @@
             "id": 340660525,
             "language": "HLSL",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T12:22:51Z",
+            "last_commit": "2026-10-03T04:01:24Z",
             "open_issues": 109,
             "owner": "Blinue",
             "repo": "Magpie",
-            "stars": 15190,
+            "stars": 15200,
             "topics": [
               "anime4k",
               "capture",
@@ -6067,7 +6065,7 @@
         {
           "node_type": "item",
           "title": "DeskBox",
-          "description": null,
+          "description": "Tianyu199509/DeskBox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6077,10 +6075,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-10-01T13:09:24Z",
-            "open_issues": 98,
+            "open_issues": 102,
             "owner": "Tianyu199509",
             "repo": "DeskBox",
-            "stars": 6096,
+            "stars": 6126,
             "topics": [
               "desktop-cleanup",
               "desktop-organizer",
@@ -6108,7 +6106,7 @@
         {
           "node_type": "item",
           "title": "Mica For Everyone",
-          "description": null,
+          "description": "MicaForEveryone/MicaForEveryone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6121,7 +6119,7 @@
             "open_issues": 181,
             "owner": "MicaForEveryone",
             "repo": "MicaForEveryone",
-            "stars": 5245,
+            "stars": 5246,
             "topics": [
               "acrylic",
               "backdrop",
@@ -6137,7 +6135,7 @@
         {
           "node_type": "item",
           "title": "WinPaletter",
-          "description": null,
+          "description": "Abdelrhman-AK/WinPaletter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6146,11 +6144,11 @@
             "id": 471501107,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T20:15:02Z",
+            "last_commit": "2026-10-02T19:23:18Z",
             "open_issues": 12,
             "owner": "Abdelrhman-AK",
             "repo": "WinPaletter",
-            "stars": 1896,
+            "stars": 1895,
             "topics": [
               "colors",
               "command-prompt",
@@ -6179,7 +6177,7 @@
         {
           "node_type": "item",
           "title": "Rebound",
-          "description": null,
+          "description": "IviriusCommunity/Rebound",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6188,7 +6186,7 @@
             "id": 840067445,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-20T15:10:40Z",
+            "last_commit": "2026-10-02T22:38:11Z",
             "open_issues": 11,
             "owner": "IviriusCommunity",
             "repo": "Rebound",
@@ -6205,7 +6203,7 @@
         {
           "node_type": "item",
           "title": "AccentColorizer",
-          "description": null,
+          "description": "krlvm/AccentColorizer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6218,7 +6216,7 @@
             "open_issues": 21,
             "owner": "krlvm",
             "repo": "AccentColorizer",
-            "stars": 527,
+            "stars": 526,
             "topics": [
               "customization",
               "fluent",
@@ -6235,7 +6233,7 @@
         {
           "node_type": "item",
           "title": "TranslucentSM",
-          "description": null,
+          "description": "rounk-ctrl/TranslucentSM",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6264,7 +6262,7 @@
         {
           "node_type": "item",
           "title": "ChangeFolderIcon",
-          "description": null,
+          "description": "YILING0013/ChangeFolderIcon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6285,7 +6283,7 @@
         {
           "node_type": "item",
           "title": "GyroShell",
-          "description": null,
+          "description": "Pdawg-bytes/GyroShell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6317,7 +6315,7 @@
         {
           "node_type": "item",
           "title": "Startify",
-          "description": null,
+          "description": "lixkote/Startify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6338,7 +6336,7 @@
         {
           "node_type": "item",
           "title": "Windows Custom Tile",
-          "description": null,
+          "description": "fischldesu/WindowsCustomTile",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6366,7 +6364,7 @@
         {
           "node_type": "item",
           "title": "FontWizard",
-          "description": null,
+          "description": "karnyadavdev/FontWizard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6375,32 +6373,30 @@
             "id": 1247087260,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T06:40:35Z",
+            "last_commit": "2026-10-02T17:43:20Z",
             "open_issues": 0,
             "owner": "karnyadavdev",
             "repo": "FontWizard",
             "stars": 105,
             "topics": [
+              "avalonia-ui",
               "change-font-in-windows",
-              "change-fonts",
-              "complete-windows-font-changer",
               "font-customization",
-              "safe-font-changer",
               "segoe-ui",
               "sf-pro",
               "system-font",
               "ui-font",
-              "uwp-apps-font-changer",
-              "winaero-font",
-              "winaero-tweaker",
+              "uwp-apps",
               "windows-10",
               "windows-11",
               "windows-11-font-changer",
               "windows-customization",
               "windows-font-changer",
               "windows-ui",
+              "winui",
               "winui-font-changer",
-              "winui3"
+              "winui3",
+              "wpf"
             ]
           },
           "first_seen": "2026-09-03T12:04:02.281Z"
@@ -6408,7 +6404,7 @@
         {
           "node_type": "item",
           "title": "Folder Icon Painter",
-          "description": null,
+          "description": "FolderPainter/FolderIconPainter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6436,7 +6432,7 @@
         {
           "node_type": "item",
           "title": "YASB GUI",
-          "description": null,
+          "description": "amnweb/yasb-gui",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6466,7 +6462,7 @@
         {
           "node_type": "item",
           "title": "WinFocus",
-          "description": null,
+          "description": "Albresky/WinFocus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6495,7 +6491,7 @@
         {
           "node_type": "item",
           "title": "Croak",
-          "description": null,
+          "description": "MehranAkbarii/Croak",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6516,7 +6512,7 @@
         {
           "node_type": "item",
           "title": "LegendBar",
-          "description": null,
+          "description": "Baldev8910/LegendBar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6550,7 +6546,7 @@
         {
           "node_type": "item",
           "title": "Widgets Media",
-          "description": null,
+          "description": "pepeizq/Widgets-Media",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6580,7 +6576,7 @@
         {
           "node_type": "item",
           "title": "FluentOBS",
-          "description": null,
+          "description": "DarkForceFREEFIRE/FluentOBS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6607,7 +6603,7 @@
         {
           "node_type": "item",
           "title": "IconFlow",
-          "description": null,
+          "description": "mishzx/IconFlow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6643,7 +6639,7 @@
         {
           "node_type": "item",
           "title": "Binggo Wallpapers",
-          "description": null,
+          "description": "hippieZhou/BinggoWallpapers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6670,7 +6666,7 @@
         {
           "node_type": "item",
           "title": "Crayon",
-          "description": null,
+          "description": "xmha97/Crayon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6697,7 +6693,7 @@
         {
           "node_type": "item",
           "title": "Pulse",
-          "description": null,
+          "description": "AverageCodeNerd/pulse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6728,7 +6724,7 @@
         {
           "node_type": "item",
           "title": "Wally",
-          "description": null,
+          "description": "AhmedDevEG/Wally",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6757,7 +6753,7 @@
         {
           "node_type": "item",
           "title": "aura",
-          "description": null,
+          "description": "FahadBinHussain/aura",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6795,7 +6791,7 @@
         {
           "node_type": "item",
           "title": "FluentTaskScheduler",
-          "description": null,
+          "description": "TRGamer-tech/FluentTaskScheduler",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6816,7 +6812,7 @@
         {
           "node_type": "item",
           "title": "StoryCAD",
-          "description": null,
+          "description": "storybuilder-org/StoryCAD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6825,7 +6821,7 @@
             "id": 339442017,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T09:49:25Z",
+            "last_commit": "2026-10-02T19:51:24Z",
             "open_issues": 20,
             "owner": "storybuilder-org",
             "repo": "StoryCAD",
@@ -6851,7 +6847,7 @@
         {
           "node_type": "item",
           "title": "QuickNav",
-          "description": null,
+          "description": "FrozenAssassine/QuickNav",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6880,7 +6876,7 @@
         {
           "node_type": "item",
           "title": "Panoramic",
-          "description": null,
+          "description": "davidtimovski/panoramic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6905,7 +6901,7 @@
         {
           "node_type": "item",
           "title": "QuinSlate",
-          "description": null,
+          "description": "SergeyLukashov/QuinSlate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6932,7 +6928,7 @@
         {
           "node_type": "item",
           "title": "spoo.me",
-          "description": null,
+          "description": "spoo-me/spooWASDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6961,7 +6957,7 @@
         {
           "node_type": "item",
           "title": "WinUI3 File Search Engine",
-          "description": null,
+          "description": "israel-dryer/WinUI3-File-Search-Engine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6982,7 +6978,7 @@
         {
           "node_type": "item",
           "title": "Cipherflow",
-          "description": null,
+          "description": "BradleyBao/Cipherflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7008,7 +7004,7 @@
         {
           "node_type": "item",
           "title": "StreamNumDeck",
-          "description": null,
+          "description": "nikartom/StreamNumDeck",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7040,7 +7036,7 @@
         {
           "node_type": "item",
           "title": "LazyFish",
-          "description": null,
+          "description": "XMuli/LazyFish",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7067,7 +7063,7 @@
         {
           "node_type": "item",
           "title": "openHAB",
-          "description": null,
+          "description": "reyhard/openhab-win-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7092,7 +7088,7 @@
         {
           "node_type": "item",
           "title": "SharpTimer",
-          "description": null,
+          "description": "huizhiLLL/SharpTimer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7118,7 +7114,7 @@
         {
           "node_type": "item",
           "title": "BattleDex",
-          "description": null,
+          "description": "merc1er/BattleDex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7142,7 +7138,7 @@
         {
           "node_type": "item",
           "title": "Petapeta",
-          "description": null,
+          "description": "daruyanagi/Petapeta",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7171,7 +7167,7 @@
         {
           "node_type": "item",
           "title": "Restless",
-          "description": null,
+          "description": "silentq/Restless",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7202,7 +7198,7 @@
         {
           "node_type": "item",
           "title": "TouchSenderTablet",
-          "description": null,
+          "description": "voltaney/TouchSenderTablet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7235,7 +7231,7 @@
             {
               "node_type": "item",
               "title": "2FAGuard",
-              "description": null,
+              "description": "timokoessler/2FAGuard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7273,7 +7269,7 @@
             {
               "node_type": "item",
               "title": "ClientWarden",
-              "description": null,
+              "description": "Cherrytree56567/ClientWarden",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7303,7 +7299,7 @@
             {
               "node_type": "item",
               "title": "Pass11",
-              "description": null,
+              "description": "LawOff/Pass11",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7333,7 +7329,7 @@
             {
               "node_type": "item",
               "title": "Orayo",
-              "description": null,
+              "description": "barkure/Orayo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7365,7 +7361,7 @@
             {
               "node_type": "item",
               "title": "EasePass",
-              "description": null,
+              "description": "FrozenAssassine/EasePass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7398,7 +7394,7 @@
             {
               "node_type": "item",
               "title": "Honeypot",
-              "description": null,
+              "description": "sh0ckj0ckey/Honeypot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7422,7 +7418,7 @@
             {
               "node_type": "item",
               "title": "Cyber Vault",
-              "description": null,
+              "description": "affan-ch/Cyber-Vault-Desktop-Offline",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7456,7 +7452,7 @@
             {
               "node_type": "item",
               "title": "Proton VPN",
-              "description": null,
+              "description": "ProtonVPN/win-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7469,7 +7465,7 @@
                 "open_issues": 66,
                 "owner": "ProtonVPN",
                 "repo": "win-app",
-                "stars": 2547,
+                "stars": 2546,
                 "topics": [
                   "vpn",
                   "windows"
@@ -7480,7 +7476,7 @@
             {
               "node_type": "item",
               "title": "Atoll VPN",
-              "description": null,
+              "description": "kaoshipaws/atollvpn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7512,7 +7508,7 @@
             {
               "node_type": "item",
               "title": "XrayUI",
-              "description": null,
+              "description": "PhoenixNil/XrayUI-dev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7525,7 +7521,7 @@
                 "open_issues": 7,
                 "owner": "PhoenixNil",
                 "repo": "XrayUI-dev",
-                "stars": 644,
+                "stars": 646,
                 "topics": [
                   "desktop",
                   "gui",
@@ -7542,7 +7538,7 @@
             {
               "node_type": "item",
               "title": "Swell Proxy",
-              "description": null,
+              "description": "yaog6700-bit/Swell-Proxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7555,7 +7551,7 @@
                 "open_issues": 6,
                 "owner": "yaog6700-bit",
                 "repo": "Swell-Proxy",
-                "stars": 480,
+                "stars": 479,
                 "topics": [
                   "sing-box"
                 ]
@@ -7565,7 +7561,7 @@
             {
               "node_type": "item",
               "title": "SecureFolderFS",
-              "description": null,
+              "description": "securefolderfs-community/SecureFolderFS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7597,7 +7593,7 @@
             {
               "node_type": "item",
               "title": "Gyroown",
-              "description": null,
+              "description": "JularDepick/Gyroown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7642,7 +7638,7 @@
             {
               "node_type": "item",
               "title": "Unicord",
-              "description": null,
+              "description": "UnicordDev/Unicord",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7655,7 +7651,7 @@
                 "open_issues": 51,
                 "owner": "UnicordDev",
                 "repo": "Unicord",
-                "stars": 413,
+                "stars": 411,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:24:13.259Z"
@@ -7663,7 +7659,7 @@
             {
               "node_type": "item",
               "title": "Fluent Discord",
-              "description": null,
+              "description": "TakosThings/Fluent-Discord",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7688,7 +7684,7 @@
             {
               "node_type": "item",
               "title": "Quarrel",
-              "description": null,
+              "description": "WindowsAppCommunity/Quarrel",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7701,7 +7697,7 @@
                 "open_issues": 20,
                 "owner": "WindowsAppCommunity",
                 "repo": "Quarrel",
-                "stars": 360,
+                "stars": 359,
                 "topics": [
                   "csharp",
                   "discord",
@@ -7720,7 +7716,7 @@
             {
               "node_type": "item",
               "title": "Discord-11",
-              "description": null,
+              "description": "zuzumi-f/Discord-11",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7756,7 +7752,7 @@
             {
               "node_type": "item",
               "title": "Bluechirp",
-              "description": null,
+              "description": "AnalogFeelings/Bluechirp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7800,7 +7796,7 @@
             {
               "node_type": "item",
               "title": "Carpeddit",
-              "description": null,
+              "description": "itsWindows11/Carpeddit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7827,7 +7823,7 @@
             {
               "node_type": "item",
               "title": "Fluentreddit",
-              "description": null,
+              "description": "tobyisawesome/fluentreddit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7861,7 +7857,7 @@
             {
               "node_type": "item",
               "title": "Windows Calculator",
-              "description": null,
+              "description": "microsoft/calculator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7870,7 +7866,7 @@
                 "id": 168008797,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-28T20:49:42Z",
+                "last_commit": "2026-10-02T22:12:52Z",
                 "open_issues": 473,
                 "owner": "microsoft",
                 "repo": "calculator",
@@ -7890,7 +7886,7 @@
             {
               "node_type": "item",
               "title": "Lamina",
-              "description": null,
+              "description": "Chill-Astro/Lamina-Calculator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7932,7 +7928,7 @@
             {
               "node_type": "item",
               "title": "Simple Calculator",
-              "description": null,
+              "description": "cechout/fluent-math",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7958,7 +7954,7 @@
             {
               "node_type": "item",
               "title": "Calculator",
-              "description": null,
+              "description": "fanioz/calculator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7989,7 +7985,7 @@
             {
               "node_type": "item",
               "title": "Disk Info",
-              "description": null,
+              "description": "MicaApps/DiskInfo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8019,7 +8015,7 @@
             {
               "node_type": "item",
               "title": "Fluent HwInfo",
-              "description": null,
+              "description": "cechout/fluent-sensors",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8046,7 +8042,7 @@
             {
               "node_type": "item",
               "title": "Anemos",
-              "description": null,
+              "description": "hockerschwan/Anemos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8072,7 +8068,7 @@
             {
               "node_type": "item",
               "title": "VRAMonitor",
-              "description": null,
+              "description": "jin6yang/VRAMonitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8101,7 +8097,7 @@
             {
               "node_type": "item",
               "title": "Suspension",
-              "description": null,
+              "description": "Tech5G5G/Suspension",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8134,7 +8130,7 @@
             {
               "node_type": "item",
               "title": "Vitals",
-              "description": null,
+              "description": "Frenchouioui/Vitals",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8168,7 +8164,7 @@
             {
               "node_type": "item",
               "title": "Win11Debloat",
-              "description": null,
+              "description": "Raphire/Win11Debloat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8177,11 +8173,11 @@
                 "id": 307843105,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:13:58Z",
+                "last_commit": "2026-10-02T23:48:34Z",
                 "open_issues": 34,
                 "owner": "Raphire",
                 "repo": "Win11Debloat",
-                "stars": 57848,
+                "stars": 57860,
                 "topics": [
                   "automated",
                   "bloatware",
@@ -8210,7 +8206,7 @@
             {
               "node_type": "item",
               "title": "Winhance",
-              "description": null,
+              "description": "memstechtips/Winhance",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8223,7 +8219,7 @@
                 "open_issues": 63,
                 "owner": "memstechtips",
                 "repo": "Winhance",
-                "stars": 13295,
+                "stars": 13301,
                 "topics": [
                   "autounattend",
                   "bloatware",
@@ -8252,7 +8248,7 @@
             {
               "node_type": "item",
               "title": "optimizerDuck",
-              "description": null,
+              "description": "itsfatduck/optimizerDuck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8265,7 +8261,7 @@
                 "open_issues": 14,
                 "owner": "itsfatduck",
                 "repo": "optimizerDuck",
-                "stars": 9811,
+                "stars": 9812,
                 "topics": [
                   "csharp",
                   "debloat",
@@ -8288,7 +8284,7 @@
             {
               "node_type": "item",
               "title": "FluentCleaner",
-              "description": null,
+              "description": "builtbybel/FluentCleaner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8301,7 +8297,7 @@
                 "open_issues": 21,
                 "owner": "builtbybel",
                 "repo": "FluentCleaner",
-                "stars": 6264,
+                "stars": 6268,
                 "topics": [
                   "cleaner",
                   "windows-10",
@@ -8314,7 +8310,7 @@
             {
               "node_type": "item",
               "title": "EvolveOS Optimizer",
-              "description": null,
+              "description": "EvolveOS-Software/EvolveOS_Optimizer_V3.0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8335,7 +8331,7 @@
             {
               "node_type": "item",
               "title": "Windows Privacy Automator",
-              "description": null,
+              "description": "BenOnSocial/WindowsPrivacyAutomator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8372,7 +8368,7 @@
         {
           "node_type": "item",
           "title": "Flint",
-          "description": null,
+          "description": "sh0ckj0ckey/Flint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8396,7 +8392,7 @@
         {
           "node_type": "item",
           "title": "Transhef",
-          "description": null,
+          "description": "shfrlabs/Transhef",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8417,7 +8413,7 @@
         {
           "node_type": "item",
           "title": "WordWeaver",
-          "description": null,
+          "description": "itsWindows11/WordWeaver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8438,7 +8434,7 @@
         {
           "node_type": "item",
           "title": "Auto Translate Clipboard",
-          "description": null,
+          "description": "hasoftware/Auto-Translate-Clipboard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8468,7 +8464,7 @@
         {
           "node_type": "item",
           "title": "Dream Translate PO",
-          "description": null,
+          "description": "TypeDreamMoon/DreamTranslatePO",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8508,7 +8504,7 @@
         {
           "node_type": "item",
           "title": "NanaZip",
-          "description": null,
+          "description": "M2Team/NanaZip",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8517,11 +8513,11 @@
             "id": 401508496,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T20:43:51Z",
-            "open_issues": 388,
+            "last_commit": "2026-10-03T02:48:18Z",
+            "open_issues": 387,
             "owner": "M2Team",
             "repo": "NanaZip",
-            "stars": 15680,
+            "stars": 15686,
             "topics": [
               "cpp",
               "file-compression",
@@ -8538,7 +8534,7 @@
         {
           "node_type": "item",
           "title": "Everything Toolbar",
-          "description": null,
+          "description": "srwi/EverythingToolbar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8551,7 +8547,7 @@
             "open_issues": 32,
             "owner": "srwi",
             "repo": "EverythingToolbar",
-            "stars": 14833,
+            "stars": 14834,
             "topics": [
               "deskband",
               "everything",
@@ -8570,7 +8566,7 @@
         {
           "node_type": "item",
           "title": "RyTuneX",
-          "description": null,
+          "description": "rayenghanmi/RyTuneX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8583,7 +8579,7 @@
             "open_issues": 0,
             "owner": "rayenghanmi",
             "repo": "RyTuneX",
-            "stars": 5529,
+            "stars": 5530,
             "topics": [
               "customization-tool",
               "debloat",
@@ -8610,7 +8606,7 @@
         {
           "node_type": "item",
           "title": "Text-Grab",
-          "description": null,
+          "description": "TheJoeFin/Text-Grab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8640,7 +8636,7 @@
         {
           "node_type": "item",
           "title": "Tuba Toolbox",
-          "description": null,
+          "description": "luolangaga/tubatools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8653,7 +8649,7 @@
             "open_issues": 54,
             "owner": "luolangaga",
             "repo": "tubatools",
-            "stars": 4515,
+            "stars": 4524,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:13.259Z"
@@ -8661,7 +8657,7 @@
         {
           "node_type": "item",
           "title": "Energy Star X",
-          "description": null,
+          "description": "JasonWei512/EnergyStarX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8691,7 +8687,7 @@
         {
           "node_type": "item",
           "title": "MagicPods",
-          "description": null,
+          "description": "steam3d/MagicPods-Windows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8704,7 +8700,7 @@
             "open_issues": 42,
             "owner": "steam3d",
             "repo": "MagicPods-Windows",
-            "stars": 872,
+            "stars": 871,
             "topics": [
               "airpods",
               "airpods-battery",
@@ -8722,7 +8718,7 @@
         {
           "node_type": "item",
           "title": "FastCopy",
-          "description": null,
+          "description": "HO-COOH/FastCopy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8756,7 +8752,7 @@
         {
           "node_type": "item",
           "title": "fHash",
-          "description": null,
+          "description": "sunjw/fhash",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8798,7 +8794,7 @@
         {
           "node_type": "item",
           "title": "EasyTidy",
-          "description": null,
+          "description": "EasyTidy/EasyTidy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8825,7 +8821,7 @@
         {
           "node_type": "item",
           "title": "Awqat-Salaat",
-          "description": null,
+          "description": "Khiro95/Awqat-Salaat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8860,7 +8856,7 @@
         {
           "node_type": "item",
           "title": "barcodrod.io",
-          "description": null,
+          "description": "MarkHopper24/barcodrod.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8894,7 +8890,7 @@
         {
           "node_type": "item",
           "title": "MyPhone",
-          "description": null,
+          "description": "BestOwl/MyPhone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8923,7 +8919,7 @@
         {
           "node_type": "item",
           "title": "LauncherX",
-          "description": null,
+          "description": "Apollo199999999/LauncherX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8960,7 +8956,7 @@
         {
           "node_type": "item",
           "title": "NanaGet",
-          "description": null,
+          "description": "M2Team/NanaGet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8981,7 +8977,7 @@
         {
           "node_type": "item",
           "title": "Registry Editor Valley",
-          "description": null,
+          "description": "0x5bfa/RegistryEditor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9008,7 +9004,7 @@
         {
           "node_type": "item",
           "title": "SimpleList",
-          "description": null,
+          "description": "aiguoli/SimpleList",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9035,7 +9031,7 @@
         {
           "node_type": "item",
           "title": "Simple QR Code Maker",
-          "description": null,
+          "description": "TheJoeFin/Simple-QR-Code-Maker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9062,7 +9058,7 @@
         {
           "node_type": "item",
           "title": "Tiny Clips",
-          "description": null,
+          "description": "jamesmontemagno/tiny-clips",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9071,8 +9067,8 @@
             "id": 1157453851,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-28T21:54:53Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-02T23:17:31Z",
+            "open_issues": 8,
             "owner": "jamesmontemagno",
             "repo": "tiny-clips",
             "stars": 109,
@@ -9091,7 +9087,7 @@
         {
           "node_type": "item",
           "title": "Aura Click",
-          "description": null,
+          "description": "ryanlua/auraclick",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9100,7 +9096,7 @@
             "id": 630557140,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T02:17:28Z",
+            "last_commit": "2026-10-03T00:37:51Z",
             "open_issues": 7,
             "owner": "ryanlua",
             "repo": "auraclick",
@@ -9121,7 +9117,7 @@
         {
           "node_type": "item",
           "title": "IRCameraView",
-          "description": null,
+          "description": "Iemand005/IRCameraView",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9130,7 +9126,7 @@
             "id": 835980289,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-02-15T14:29:14Z",
+            "last_commit": "2026-10-02T19:54:18Z",
             "open_issues": 8,
             "owner": "Iemand005",
             "repo": "IRCameraView",
@@ -9160,7 +9156,7 @@
         {
           "node_type": "item",
           "title": "Amethyst Releases",
-          "description": null,
+          "description": "KinectToVR/Amethyst-Releases",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9192,7 +9188,7 @@
         {
           "node_type": "item",
           "title": "HashTool",
-          "description": null,
+          "description": "KiyanYang/DotVast.HashTool.WinUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9222,7 +9218,7 @@
         {
           "node_type": "item",
           "title": "FolderRewind",
-          "description": null,
+          "description": "Leafuke/FolderRewind",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9231,7 +9227,7 @@
             "id": 1114278432,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T13:44:53Z",
+            "last_commit": "2026-10-03T02:23:49Z",
             "open_issues": 9,
             "owner": "Leafuke",
             "repo": "FolderRewind",
@@ -9247,7 +9243,7 @@
         {
           "node_type": "item",
           "title": "WSAppBak",
-          "description": null,
+          "description": "MadCkull/WSAppBak",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9274,7 +9270,7 @@
         {
           "node_type": "item",
           "title": "CryptoTracker",
-          "description": null,
+          "description": "ismaelestalayo/CryptoTracker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9300,7 +9296,7 @@
         {
           "node_type": "item",
           "title": "AutoOS",
-          "description": null,
+          "description": "tinodin/AutoOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9309,7 +9305,7 @@
             "id": 932437475,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T20:05:36Z",
+            "last_commit": "2026-10-02T14:13:02Z",
             "open_issues": 1,
             "owner": "tinodin",
             "repo": "AutoOS",
@@ -9335,7 +9331,7 @@
         {
           "node_type": "item",
           "title": "Fontager",
-          "description": null,
+          "description": "ysfemreAlbyrk/Fontager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9366,7 +9362,7 @@
         {
           "node_type": "item",
           "title": "AudioPlaybackConnector2",
-          "description": null,
+          "description": "N0ahTM/AudioPlaybackConnector2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9400,7 +9396,7 @@
         {
           "node_type": "item",
           "title": "SUBSTitute",
-          "description": null,
+          "description": "sungaila/SUBSTitute",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9438,7 +9434,7 @@
         {
           "node_type": "item",
           "title": "Remote Toolbox",
-          "description": null,
+          "description": "sixiaolong1117/WinWoL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9468,7 +9464,7 @@
         {
           "node_type": "item",
           "title": "Universal Analog Input",
-          "description": null,
+          "description": "Ritonton/UniversalAnalogInput",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9505,7 +9501,7 @@
         {
           "node_type": "item",
           "title": "FlowEncode",
-          "description": null,
+          "description": "frankie1024/FlowEncode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9536,7 +9532,7 @@
         {
           "node_type": "item",
           "title": "Rufus Next",
-          "description": null,
+          "description": "rasyidf/rufus-next",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9561,7 +9557,7 @@
         {
           "node_type": "item",
           "title": "ActionRepeater",
-          "description": null,
+          "description": "sibber5/ActionRepeater",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9588,7 +9584,7 @@
         {
           "node_type": "item",
           "title": "Ping Legacy",
-          "description": null,
+          "description": "avikeid2007/Ping-Legacy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9621,7 +9617,7 @@
         {
           "node_type": "item",
           "title": "MyTikTokBackup",
-          "description": null,
+          "description": "tmk907/MyTikTokBackup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9645,7 +9641,7 @@
         {
           "node_type": "item",
           "title": "Fluentver",
-          "description": null,
+          "description": "Tech5G5G/Fluentver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9677,7 +9673,7 @@
         {
           "node_type": "item",
           "title": "Conscript",
-          "description": null,
+          "description": "sh0ckj0ckey/Conscripts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9704,7 +9700,7 @@
         {
           "node_type": "item",
           "title": "LTOG",
-          "description": null,
+          "description": "rlaphoenix/LTOG",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9734,7 +9730,7 @@
         {
           "node_type": "item",
           "title": "Trowser",
-          "description": null,
+          "description": "TheJoeFin/trowser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9765,7 +9761,7 @@
         {
           "node_type": "item",
           "title": "ThrowObjectDetectionWinUI",
-          "description": null,
+          "description": "0Kirby/ThrowObjectDetectionWinUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9793,7 +9789,7 @@
         {
           "node_type": "item",
           "title": "Bucket",
-          "description": null,
+          "description": "aungkokomm/Bucket",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9827,7 +9823,7 @@
         {
           "node_type": "item",
           "title": "Jump List Manager",
-          "description": null,
+          "description": "0x5bfa/JumpListManager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9848,7 +9844,7 @@
         {
           "node_type": "item",
           "title": "Service Manager",
-          "description": null,
+          "description": "Chr1st1anSzech/Service-Manager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9876,7 +9872,7 @@
         {
           "node_type": "item",
           "title": "Task Scheduler Studio",
-          "description": null,
+          "description": "MarkHopper24/Task-Scheduler-Studio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9909,7 +9905,7 @@
         {
           "node_type": "item",
           "title": "Utils for Nearby Sharing",
-          "description": null,
+          "description": "nearby-sharing/windows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9936,7 +9932,7 @@
         {
           "node_type": "item",
           "title": "inputor",
-          "description": null,
+          "description": "shiquda/inputor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9966,7 +9962,7 @@
         {
           "node_type": "item",
           "title": "WinGlide",
-          "description": null,
+          "description": "congchuahiep/WinGlide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9997,7 +9993,7 @@
         {
           "node_type": "item",
           "title": "AT Installer",
-          "description": null,
+          "description": "airtaxi/AT-Installer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10030,7 +10026,7 @@
         {
           "node_type": "item",
           "title": "NvwUpd",
-          "description": null,
+          "description": "zlicdt/nvwupd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10061,7 +10057,7 @@
         {
           "node_type": "item",
           "title": "Angel Umbrella",
-          "description": null,
+          "description": "mntone/AngelUmbrella",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10103,7 +10099,7 @@
         {
           "node_type": "item",
           "title": "LANConnect",
-          "description": null,
+          "description": "WinUI-Dev/LANConnect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10130,7 +10126,7 @@
         {
           "node_type": "item",
           "title": "Automated Menu Ordering System",
-          "description": null,
+          "description": "abdxdev/AMOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10157,7 +10153,7 @@
         {
           "node_type": "item",
           "title": "OmenFlow",
-          "description": null,
+          "description": "yunusemreyl/omen-space-windows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10184,7 +10180,7 @@
         {
           "node_type": "item",
           "title": "Dell PowerEdge R730xd Fan Control Center",
-          "description": null,
+          "description": "mason369/dell-poweredge-r730xd-fan-control",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10226,7 +10222,7 @@
         {
           "node_type": "item",
           "title": "EM Hasher",
-          "description": null,
+          "description": "enda-mullally/EMHasher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10251,7 +10247,7 @@
         {
           "node_type": "item",
           "title": "Google Photos Takeout Organizer",
-          "description": null,
+          "description": "itielbru/gphotos-takeout-organizer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10291,7 +10287,7 @@
         {
           "node_type": "item",
           "title": "Snaply",
-          "description": null,
+          "description": "P4suta/Snaply",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10320,7 +10316,7 @@
         {
           "node_type": "item",
           "title": "MarkdownToPDF",
-          "description": null,
+          "description": "EggyStudio/MarkdownToPDF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10351,7 +10347,7 @@
         {
           "node_type": "item",
           "title": "ScanStack",
-          "description": null,
+          "description": "Diyari-Kurdi/DeeSharp.ScanStack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10379,7 +10375,7 @@
         {
           "node_type": "item",
           "title": "Deckle",
-          "description": null,
+          "description": "louisfifre/deckle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10411,7 +10407,7 @@
         {
           "node_type": "item",
           "title": "Dusk Control",
-          "description": null,
+          "description": "stabldev/dusk-control",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10447,7 +10443,7 @@
         {
           "node_type": "item",
           "title": "LinkTo",
-          "description": null,
+          "description": "abevol/LinkTo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10468,7 +10464,7 @@
         {
           "node_type": "item",
           "title": "MouseClicker",
-          "description": null,
+          "description": "kavoye/MouseClicker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10500,7 +10496,7 @@
         {
           "node_type": "item",
           "title": "Notification Reader",
-          "description": null,
+          "description": "Sudan-Dhungana/NotificationReader-WinUIApp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10521,7 +10517,7 @@
         {
           "node_type": "item",
           "title": "RepoBackup",
-          "description": null,
+          "description": "GuildOfCalamity/RepoBackup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10555,7 +10551,7 @@
         {
           "node_type": "item",
           "title": "SmartLinker",
-          "description": null,
+          "description": "theFASTER-UNiTY/SmartLinker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10586,7 +10582,7 @@
         {
           "node_type": "item",
           "title": "Snipdeck",
-          "description": null,
+          "description": "StuartMeeks/Snipdeck",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10621,7 +10617,7 @@
         {
           "node_type": "item",
           "title": "ClipCore",
-          "description": null,
+          "description": "Kleaopsy/ClipCore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10642,7 +10638,7 @@
         {
           "node_type": "item",
           "title": "D3D12LookDevPTWinUI",
-          "description": null,
+          "description": "shaderjp/D3D12LookDevPTWinUI3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10663,7 +10659,7 @@
         {
           "node_type": "item",
           "title": "Dialed",
-          "description": null,
+          "description": "DavideClemente/Dialed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10688,7 +10684,7 @@
         {
           "node_type": "item",
           "title": "EtherealScepter",
-          "description": null,
+          "description": "Eternity-boundary/EtherealScepter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10716,7 +10712,7 @@
         {
           "node_type": "item",
           "title": "ewcalc",
-          "description": null,
+          "description": "OldCrow/ewcalc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10745,7 +10741,7 @@
         {
           "node_type": "item",
           "title": "Glimmer",
-          "description": null,
+          "description": "danishm/glimmer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10778,7 +10774,7 @@
         {
           "node_type": "item",
           "title": "Hostbeat Client",
-          "description": null,
+          "description": "ruben69695/hostbeat-win",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10806,7 +10802,7 @@
         {
           "node_type": "item",
           "title": "Lyra",
-          "description": null,
+          "description": "Turtlepaw/lyra",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10831,7 +10827,7 @@
         {
           "node_type": "item",
           "title": "PowerModeSlider",
-          "description": null,
+          "description": "giulioungaretti/PowerModeSlider",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10857,7 +10853,7 @@
         {
           "node_type": "item",
           "title": "WingetUSoft",
-          "description": null,
+          "description": "xfiberex/WingetUSoft",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10884,7 +10880,7 @@
         {
           "node_type": "item",
           "title": "Y-HOTSPOT",
-          "description": null,
+          "description": "Yokaiste/Y-HOTSPOT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10919,7 +10915,7 @@
         {
           "node_type": "item",
           "title": "Clipboard Activity Monitor",
-          "description": null,
+          "description": "creamtea47/clipboard-activity-monitor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10948,7 +10944,7 @@
         {
           "node_type": "item",
           "title": "CopyPaste",
-          "description": null,
+          "description": "EddizEge/CopyPaste",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10975,7 +10971,7 @@
         {
           "node_type": "item",
           "title": "DispEx",
-          "description": null,
+          "description": "AlexG-4W/DispEx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11003,7 +10999,7 @@
         {
           "node_type": "item",
           "title": "Hylian Grimoire",
-          "description": null,
+          "description": "Vrilya/Hylian-Grimoire",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11036,7 +11032,7 @@
         {
           "node_type": "item",
           "title": "KeepPressing",
-          "description": null,
+          "description": "P4suta/keep-pressing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11069,7 +11065,7 @@
         {
           "node_type": "item",
           "title": "MailTrayNotifier",
-          "description": null,
+          "description": "jongcheol-pak/MailTrayNotifier",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11093,7 +11089,7 @@
         {
           "node_type": "item",
           "title": "PicSelect",
-          "description": null,
+          "description": "Rana-Faraz/pic-select",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11122,7 +11118,7 @@
         {
           "node_type": "item",
           "title": "RunDialog",
-          "description": null,
+          "description": "Dekrate/RunDialog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11150,7 +11146,7 @@
         {
           "node_type": "item",
           "title": "Simple Number Converter",
-          "description": null,
+          "description": "B3W/SimpleNumberConverter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11179,7 +11175,7 @@
         {
           "node_type": "item",
           "title": "TrueRotate",
-          "description": null,
+          "description": "BK927/true-rotate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11222,7 +11218,7 @@
         {
           "node_type": "item",
           "title": "FluentWeather",
-          "description": null,
+          "description": "Gabboxl/FluentWeather",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11235,7 +11231,7 @@
             "open_issues": 20,
             "owner": "Gabboxl",
             "repo": "FluentWeather",
-            "stars": 342,
+            "stars": 341,
             "topics": [
               "collaborate",
               "csharp",
@@ -11258,7 +11254,7 @@
         {
           "node_type": "item",
           "title": "Skyline Weather",
-          "description": null,
+          "description": "zxbmmmmmmmmm/SkylineWeather",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11283,7 +11279,7 @@
         {
           "node_type": "item",
           "title": "Āēr Weather",
-          "description": null,
+          "description": "mavlac/aer-weather",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11304,7 +11300,7 @@
         {
           "node_type": "item",
           "title": "Weather Viewer",
-          "description": null,
+          "description": "fanioz/winui-weather",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11334,7 +11330,7 @@
         {
           "node_type": "item",
           "title": "RailGo-WinUI",
-          "description": null,
+          "description": "RailGoApps/RailGo-WinUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11347,7 +11343,7 @@
             "open_issues": 1,
             "owner": "RailGoApps",
             "repo": "RailGo-WinUI",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "chinarailway",
               "csharp",
@@ -11361,7 +11357,7 @@
         {
           "node_type": "item",
           "title": "Inventory",
-          "description": null,
+          "description": "LeftTwixWand/eShopOnWinUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11403,7 +11399,7 @@
         {
           "node_type": "item",
           "title": "ForzaTech Studio",
-          "description": null,
+          "description": "D3FEKT/ForzaTechStudio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11424,7 +11420,7 @@
         {
           "node_type": "item",
           "title": "PSX Master",
-          "description": null,
+          "description": "ghost1372/PSXMaster",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11454,7 +11450,7 @@
         {
           "node_type": "item",
           "title": "FoodDesire",
-          "description": null,
+          "description": "haritha99ch/FoodDesire",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11496,7 +11492,7 @@
         {
           "node_type": "item",
           "title": "Al-Anvar",
-          "description": null,
+          "description": "ghost1372/Al-Anvar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11529,7 +11525,7 @@
         {
           "node_type": "item",
           "title": "WDCable",
-          "description": null,
+          "description": "jingcjie/WDCableWUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11567,7 +11563,7 @@
         {
           "node_type": "item",
           "title": "Library Management System",
-          "description": null,
+          "description": "Diyari-Kurdi/Library-Management-System",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -11593,7 +11589,7 @@
         {
           "node_type": "item",
           "title": "BattleAssistant",
-          "description": null,
+          "description": "ArchieHill/BattleAssistant",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11618,7 +11614,7 @@
         {
           "node_type": "item",
           "title": "Dream Unreal Manager",
-          "description": null,
+          "description": "TypeDreamMoon/DreamUnrealManager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11654,7 +11650,7 @@
         {
           "node_type": "item",
           "title": "MitamatchOperations",
-          "description": null,
+          "description": "loliGothicK/MitamatchOperations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11677,7 +11673,7 @@
         {
           "node_type": "item",
           "title": "MyTel-U Launcher",
-          "description": null,
+          "description": "GID0317/MyTel-U_WinUI3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11708,7 +11704,7 @@
         {
           "node_type": "item",
           "title": "RiskFlow",
-          "description": null,
+          "description": "InstaZDLL/RiskFlow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11739,7 +11735,7 @@
         {
           "node_type": "item",
           "title": "Maze-Generator",
-          "description": null,
+          "description": "atslughorn/Maze-Generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11760,7 +11756,7 @@
         {
           "node_type": "item",
           "title": "DiscordFileMasterV2",
-          "description": null,
+          "description": "Shailosingh/DiscordFileMasterV2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11781,7 +11777,7 @@
         {
           "node_type": "item",
           "title": "Arrival",
-          "description": null,
+          "description": "thatweirdbush/arrival",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11802,7 +11798,7 @@
         {
           "node_type": "item",
           "title": "Nafer",
-          "description": null,
+          "description": "VueST/nafer-frontend",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11836,7 +11832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:48:32.334Z",
+    "last_updated": "2026-10-03T04:32:03.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of over 800+ apps that embrace the WinUI Design",
@@ -11848,7 +11844,7 @@
       "open_issues": 1,
       "owner": "jishnu-kv",
       "repo": "WinUI-3-Apps-List",
-      "stars": 780,
+      "stars": 779,
       "topics": [
         "apps",
         "apps-list",
