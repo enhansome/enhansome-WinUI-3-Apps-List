@@ -228,9 +228,9 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25"/> Best Implementation of WinUI
 
-* `WDM` [Files App](https://github.com/files-community/files) ⭐ 46,705 | 🐛 444 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Files App](https://github.com/files-community/files) ⭐ 46,712 | 🐛 443 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Ambie](https://github.com/jenius-apps/ambie) ⭐ 2,243 | 🐛 45 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
-* `WDM` [Wino Mail](https://github.com/bkaankose/Wino-Mail) ⭐ 1,677 | 🐛 87 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Wino Mail](https://github.com/bkaankose/Wino-Mail) ⭐ 1,678 | 🐛 92 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [FluentWeather](https://github.com/Gabboxl/FluentWeather) ⭐ 342 | 🐛 27 | 🌐 C# | 📅 2026-11-10 <sup>`FOSS`</sup>
 * `WDM` [Melora](https://github.com/IcySnex/Melora) ⭐ 66 | 🐛 1 | 🌐 C# | 📅 2026-08-25 <sup>`FOSS`</sup>
 * `WDM` [Fluent Emoji Gallery](https://github.com/michalleptuch/fluent-emoji-gallery) ⭐ 48 | 🐛 7 | 📅 2024-10-20
@@ -246,51 +246,51 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 Last 80 apps that were recently added to list!
 
-* `WDM` [BetterGI](https://github.com/babalae/better-genshin-impact) ⭐ 18,154 | 🐛 577 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) ⭐ 16,571 | 🐛 219 | 🌐 Python | 📅 2026-09-12 <sup>`FOSS`</sup>
-* `WDM` `WDA` [CompactGUI](https://github.com/IridiumIO/CompactGUI) ⭐ 9,349 | 🐛 74 | 🌐 Visual Basic .NET | 📅 2026-10-24 <sup>`FOSS`</sup>
-* `WDM` [AppControl Manager](https://github.com/HotCakeX/Harden-Windows-Security) ⭐ 4,858 | 🐛 18 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [ExHyperV](https://github.com/Justsenger/ExHyperV) ⭐ 4,822 | 🐛 23 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WDM` [SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) ⭐ 4,657 | 🐛 161 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
-* `WDM` [LiveCaptions Translator](https://github.com/SakiRinn/LiveCaptions-Translator) ⭐ 4,096 | 🐛 27 | 🌐 C# | 📅 2026-08-17 <sup>`FOSS`</sup>
-* `WDM` [Context Menu Manager Plus](https://github.com/PLFJY/ContextMenuMgr) ⭐ 3,712 | 🐛 13 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [AsrTools](https://github.com/WEIFENG2333/AsrTools) ⭐ 3,509 | 🐛 23 | 🌐 Python | 📅 2025-11-25 <sup>`FOSS`</sup>
+* `WDM` [BetterGI](https://github.com/babalae/better-genshin-impact) ⭐ 18,174 | 🐛 568 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) ⭐ 16,583 | 🐛 219 | 🌐 Python | 📅 2026-09-12 <sup>`FOSS`</sup>
+* `WDM` `WDA` [CompactGUI](https://github.com/IridiumIO/CompactGUI) ⭐ 9,353 | 🐛 74 | 🌐 Visual Basic .NET | 📅 2026-10-24 <sup>`FOSS`</sup>
+* `WDM` [AppControl Manager](https://github.com/HotCakeX/Harden-Windows-Security) ⭐ 4,861 | 🐛 17 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [ExHyperV](https://github.com/Justsenger/ExHyperV) ⭐ 4,825 | 🐛 22 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDM` [SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) ⭐ 4,666 | 🐛 161 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WDM` [LiveCaptions Translator](https://github.com/SakiRinn/LiveCaptions-Translator) ⭐ 4,106 | 🐛 27 | 🌐 C# | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `WDM` [Context Menu Manager Plus](https://github.com/PLFJY/ContextMenuMgr) ⭐ 3,721 | 🐛 13 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [AsrTools](https://github.com/WEIFENG2333/AsrTools) ⭐ 3,510 | 🐛 23 | 🌐 Python | 📅 2025-11-25 <sup>`FOSS`</sup>
 * `WDM` [MyComputerManager](https://github.com/1357310795/MyComputerManager) ⭐ 3,119 | 🐛 9 | 🌐 C# | 📅 2022-12-18 <sup>`FOSS`</sup>
-* `WDM` [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) ⭐ 2,940 | 🐛 29 | 🌐 HLSL | 📅 2026-10-29 <sup>`FOSS`</sup>
-* `WDM` [Lenovo Legion Toolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) ⭐ 2,574 | 🐛 32 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` `WDA` [FufuLauncher](https://github.com/FufuLauncher/FufuLauncher) ⭐ 2,296 | 🐛 0 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [Fluent M3U8](https://github.com/zhiyiYo/Fluent-M3U8) ⭐ 2,021 | 🐛 9 | 🌐 Python | 📅 2025-04-24 <sup>`FOSS`</sup>
-* `WDM` [iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) ⭐ 1,904 | 🐛 6 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [APK Installer](https://github.com/Paving-Base/APK-Installer) ⭐ 1,723 | 🐛 21 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
-* `WDM` [Blue Archive Auto Script](https://github.com/pur1fying/blue_archive_auto_script) ⭐ 1,537 | 🐛 109 | 🌐 Python | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WDM` `WDA` [RevitLookup](https://github.com/lookup-foundation/RevitLookup) ⭐ 1,476 | 🐛 11 | 🌐 C# | 📅 2026-10-11 <sup>`FOSS`</sup>
+* `WDM` [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) ⭐ 2,943 | 🐛 29 | 🌐 HLSL | 📅 2026-10-29 <sup>`FOSS`</sup>
+* `WDM` [Lenovo Legion Toolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) ⭐ 2,581 | 🐛 31 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` `WDA` [FufuLauncher](https://github.com/FufuLauncher/FufuLauncher) ⭐ 2,299 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [Fluent M3U8](https://github.com/zhiyiYo/Fluent-M3U8) ⭐ 2,020 | 🐛 9 | 🌐 Python | 📅 2025-04-24 <sup>`FOSS`</sup>
+* `WDM` [iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) ⭐ 1,920 | 🐛 5 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [APK Installer](https://github.com/Paving-Base/APK-Installer) ⭐ 1,724 | 🐛 21 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
+* `WDM` [Blue Archive Auto Script](https://github.com/pur1fying/blue_archive_auto_script) ⭐ 1,538 | 🐛 109 | 🌐 Python | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` `WDA` [RevitLookup](https://github.com/lookup-foundation/RevitLookup) ⭐ 1,477 | 🐛 11 | 🌐 C# | 📅 2026-10-11 <sup>`FOSS`</sup>
 * `WDM` [ThreeFingerDragOnWindows](https://github.com/ClementGre/ThreeFingerDragOnWindows) ⭐ 1,181 | 🐛 29 | 🌐 C# | 📅 2026-10-25 <sup>`FOSS`</sup>
-* `WDM` `WDA` [AF Media Bar](https://github.com/Fervent-Tempo/AF-Media-Bar) ⭐ 1,134 | 🐛 32 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WDM` [AMWin-RichPresence](https://github.com/PKBeam/AMWin-RP) ⭐ 1,000 | 🐛 68 | 🌐 C# | 📅 2026-10-02 <sup>`FOSS`</sup>
-* `WDM` `WDA` [AppGroup](https://github.com/iandiv/AppGroup) ⭐ 790 | 🐛 20 | 🌐 C# | 📅 2026-11-04 <sup>`FOSS`</sup>
+* `WDM` `WDA` [AF Media Bar](https://github.com/Fervent-Tempo/AF-Media-Bar) ⭐ 1,137 | 🐛 34 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [AMWin-RichPresence](https://github.com/PKBeam/AMWin-RP) ⭐ 1,001 | 🐛 68 | 🌐 C# | 📅 2026-10-02 <sup>`FOSS`</sup>
+* `WDM` `WDA` [AppGroup](https://github.com/iandiv/AppGroup) ⭐ 792 | 🐛 21 | 🌐 C# | 📅 2026-11-04 <sup>`FOSS`</sup>
 * `WDM` [Sakura Launcher GUI](https://github.com/PiDanShouRouZhouXD/Sakura_Launcher_GUI) ⭐ 681 | 🐛 24 | 🌐 Python | 📅 2025-12-02 <sup>`FOSS`</sup>
-* `WDM` [JASM](https://github.com/Jorixon/JASM) ⭐ 495 | 🐛 92 | 🌐 C# | 📅 2026-07-24 <sup>`FOSS`</sup>
+* `WDM` [JASM](https://github.com/Jorixon/JASM) ⭐ 494 | 🐛 92 | 🌐 C# | 📅 2026-07-24 <sup>`FOSS`</sup>
 * `WDM` [MCSL 2](https://github.com/MCSLTeam/MCSL2) ⭐ 480 | 🐛 1 | 🌐 Python | 📅 2026-06-18 <sup>`FOSS`</sup>
-* `WDM` [FluentYTDL](https://github.com/SakuraForgot/FluentYTDL) ⭐ 454 | 🐛 14 | 🌐 Python | 📅 2026-11-09 <sup>`FOSS`</sup>
-* `WDM` [AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) ⭐ 435 | 🐛 1 | 🌐 Python | 📅 2025-07-05 <sup>`FOSS`</sup>
+* `WDM` [FluentYTDL](https://github.com/SakuraForgot/FluentYTDL) ⭐ 455 | 🐛 14 | 🌐 Python | 📅 2026-11-09 <sup>`FOSS`</sup>
+* `WDM` [AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) ⭐ 434 | 🐛 1 | 🌐 Python | 📅 2025-07-05 <sup>`FOSS`</sup>
 * `WDA` [Clippy](https://github.com/FireCubeStudios/Clippy) ⭐ 418 | 🐛 14 | 🌐 C# | 📅 2025-08-21 <sup>`FOSS`</sup>
 * `WDM` `WDA` [WaveTools](https://github.com/JamXi233/WaveTools) ⭐ 411 | 🐛 13 | 🌐 C# | 📅 2026-10-20 <sup>`FOSS`</sup>
-* `WDM` [Better Endfield](https://github.com/Dr-hydra/Better-Endfield) ⭐ 330 | 🐛 0 | 🌐 C++ | 📅 2026-11-16 <sup>`FOSS`</sup>
+* `WDM` [Better Endfield](https://github.com/Dr-hydra/Better-Endfield) ⭐ 331 | 🐛 0 | 🌐 C++ | 📅 2026-11-16 <sup>`FOSS`</sup>
 * `WDM` `WDA` [EverythingQuickSearch](https://github.com/PinchToDebug/EverythingQuickSearch) ⭐ 327 | 🐛 3 | 🌐 C# | 📅 2026-03-26 <sup>`FOSS`</sup>
 * `WDM` [MotionWallpaper](https://github.com/1114656/MotionWallpaper) ⭐ 326 | 🐛 1 | 🌐 C++ | 📅 2026-10-15 <sup>`FOSS`</sup>
 * `WDM` [DarkMode 2](https://github.com/Lunova-Studio/DarkMode2) ⭐ 321 | 🐛 18 | 🌐 C# | 📅 2025-12-22 <sup>`FOSS`</sup>
 * `WDM` [IT Admin Toolkit](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) ⭐ 275 | 🐛 14 | 🌐 PowerShell | 📅 2026-02-14 <sup>`FOSS`</sup>
-* `WDM` [WSL Container Desktop](https://github.com/mhackermsft/wslcontainerdesktop) ⭐ 267 | 🐛 5 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
+* `WDM` [WSL Container Desktop](https://github.com/mhackermsft/wslcontainerdesktop) ⭐ 270 | 🐛 6 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
 * `WD` [Stack Solver](https://github.com/VladM7/Stack-Solver) ⭐ 262 | 🐛 2 | 🌐 C# | 📅 2026-07-08 <sup>`FOSS`</sup>
 * `WDM` [FormatMaster](https://github.com/Gu-0312/FormatMaster-EN) ⭐ 254 | 🐛 9 | 🌐 Python | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `WDM` [XJTUToolBox](https://github.com/yan-xiaoo/XJTUToolBox) ⭐ 222 | 🐛 8 | 🌐 Python | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDM` [XJTUToolBox](https://github.com/yan-xiaoo/XJTUToolBox) ⭐ 224 | 🐛 8 | 🌐 Python | 📅 2026-11-17 <sup>`FOSS`</sup>
 * `WDM` [Haiyu](https://github.com/HaiyuGame/Haiyu) ⭐ 189 | 🐛 2 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WDM` `WDA` [Koncentro](https://github.com/kun-codes/Koncentro) ⭐ 188 | 🐛 16 | 🌐 Python | 📅 2026-11-16 <sup>`FOSS`</sup>
-* `WDM` [GoAwayEdge](https://github.com/valnoxy/GoAwayEdge) ⭐ 177 | 🐛 11 | 🌐 C# | 📅 2026-09-25 <sup>`FOSS`</sup>
-* `WDM` [ZenNotes](https://github.com/rohankishore/ZenNotes) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-08-01 <sup>`FOSS`</sup>
-* `WDM` [Saku Overclock](https://github.com/Erruar/Saku-Overclock) ⭐ 120 | 🐛 0 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDM` `WDA` [Koncentro](https://github.com/kun-codes/Koncentro) ⭐ 188 | 🐛 16 | 🌐 Python | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [GoAwayEdge](https://github.com/valnoxy/GoAwayEdge) ⭐ 176 | 🐛 11 | 🌐 C# | 📅 2026-09-25 <sup>`FOSS`</sup>
+* `WDM` [ZenNotes](https://github.com/rohankishore/ZenNotes) ⭐ 146 | 🐛 0 | 🌐 Python | 📅 2026-08-01 <sup>`FOSS`</sup>
+* `WDM` [Saku Overclock](https://github.com/Erruar/Saku-Overclock) ⭐ 120 | 🐛 0 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [WSL Toolbox](https://github.com/FalconNL93/WslToolbox) ⭐ 115 | 🐛 8 | 🌐 C# | 📅 2026-03-16 <sup>`FOSS`</sup>
-* `WDM` [IwaraTool](https://github.com/Moeary/IwaraTool) ⭐ 107 | 🐛 6 | 🌐 Python | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WDM` [IwaraTool](https://github.com/Moeary/IwaraTool) ⭐ 107 | 🐛 6 | 🌐 Python | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Services Manager](https://github.com/sky22333/services) ⭐ 93 | 🐛 0 | 🌐 C# | 📅 2026-07-12 <sup>`FOSS`</sup>
 * `WDM` `WDA` [ZenlessTools](https://github.com/JamXi233/ZenlessTools) ⭐ 78 | 🐛 8 | 🌐 C# | 📅 2024-08-01 <sup>`FOSS`</sup>
 * `WDM` [RoomRelay](https://github.com/guicn555/RoomRelay) ⭐ 72 | 🐛 7 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
@@ -300,9 +300,9 @@ Last 80 apps that were recently added to list!
 * `WDM` [WinDevUtility](https://github.com/avikeid2007/WinDev-Utility) ⭐ 25 | 🐛 1 | 🌐 C# | 📅 2023-10-04 <sup>`FOSS`</sup>
 * `WDM` [Sleepy Client](https://github.com/RinLit-233-shiroko/sleepy-client) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-02-13 <sup>`FOSS`</sup>
 * `WDM` [Fluent Icon Finder](https://github.com/TheJoeFin/Draw-Symbol-Finder) ⭐ 15 | 🐛 2 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WD` [JBLControl](https://github.com/ffrafat/JBLControl) ⭐ 13 | 🐛 10 | 🌐 C# | 📅 2026-10-28 <sup>`FOSS`</sup>
-* `WDM` [Fluent Scrobbler](https://github.com/snw-mint/fluent-scrobbler) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
-* `WDM` [Clipboard Next](https://github.com/jamesmontemagno/clipboard-next) ⭐ 8 | 🐛 0 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
+* `WD` [JBLControl](https://github.com/ffrafat/JBLControl) ⭐ 13 | 🐛 11 | 🌐 C# | 📅 2026-10-28 <sup>`FOSS`</sup>
+* `WDM` [Fluent Scrobbler](https://github.com/snw-mint/fluent-scrobbler) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Clipboard Next](https://github.com/jamesmontemagno/clipboard-next) ⭐ 8 | 🐛 1 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WD` [CompInfo](https://github.com/OceanCyanTech/CompInfo) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2022-06-02 <sup>`FOSS`</sup>
 * `WD` [Flux Reader](https://github.com/lomirus/flux-reader) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
 * `WDM` [Jailbreak Tool](https://github.com/dazhiyi2/jailbreak-tool) ⭐ 6 | 🐛 2 | 🌐 C# | 📅 2026-10-23 <sup>`FOSS`</sup>
@@ -331,7 +331,7 @@ Last 80 apps that were recently added to list!
 
 ## 🛍️ Application Store
 
-* `WDM` [UniGetUI](https://github.com/Devolutions/UniGetUI) ⭐ 27,101 | 🐛 269 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [UniGetUI](https://github.com/Devolutions/UniGetUI) ⭐ 27,125 | 🐛 264 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDA` [FluentStore](https://github.com/yoshiask/FluentStore) ⭐ 572 | 🐛 31 | 🌐 C# | 📅 2026-10-11 <sup>`FOSS`</sup>
 * `WDM` [Raven](https://github.com/mjishnu/Raven) ⭐ 353 | 🐛 7 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [GetStoreApp](https://apps.microsoft.com/detail/9N6D71Z5X6MM) <sup>`FOSS`</sup>
@@ -341,7 +341,7 @@ Last 80 apps that were recently added to list!
 
 ### Assistant
 
-* `WDM` [Llama App](https://github.com/ggml-org/Llama-Windows) ⭐ 465 | 🐛 25 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Llama App](https://github.com/ggml-org/Llama-Windows) ⭐ 469 | 🐛 27 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDA` [Clippy](https://github.com/FireCubeStudios/Clippy) ⭐ 418 | 🐛 14 | 🌐 C# | 📅 2025-08-21 <sup>`FOSS`</sup>
 * `WDM` [Rodel Agent](https://github.com/Richasy/Rodel.Agent) ⭐ 395 | 🐛 46 | 🌐 C# | 📅 2025-10-16 <sup>`FOSS`</sup>
 * `WDA` [GitHub Copilot Taskbar GUI](https://github.com/sirredbeard/ghcopilot-taskbar-gui) ⚠️ Archived <sup>`FOSS`</sup> `❎`
@@ -349,7 +349,7 @@ Last 80 apps that were recently added to list!
 * `WD` [Verdure Assistant](https://github.com/maker-community/Verdure.Assistant) ⭐ 42 | 🐛 0 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
 * `WDM` [KaiROS AI](https://github.com/avikeid2007/KaiROS-AI) ⭐ 27 | 🐛 23 | 🌐 C# | 📅 2026-11-14 <sup>`FOSS`</sup>
 * `WDM` [Axela](https://github.com/errortek/Axela) ⭐ 18 | 🐛 7 | 🌐 C# | 📅 2024-06-25 <sup>`FOSS`</sup>
-* `WD` [TxtAIEditor](https://github.com/kirinonakar/TxtAIEditor) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WD` [TxtAIEditor](https://github.com/kirinonakar/TxtAIEditor) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Engage](https://github.com/iamhazel/Engage) ⭐ 12 | 🐛 6 | 🌐 C# | 📅 2023-04-07 `📆 Planned` <sup>`FOSS`</sup>
 * `WD` [Cocos](https://github.com/jiripolasek/cocos) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2026-02-10 <sup>`FOSS`</sup>
 * `WDM` [ChatGPT Desktop App](https://github.com/johngagefaulkner/ChatGPTDesktopApp) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2026-06-21 `📆` <sup>`FOSS`</sup>
@@ -371,7 +371,7 @@ Last 80 apps that were recently added to list!
 
 ### Tools
 
-* `WDM` [OpenClaw Windows Hub](https://github.com/openclaw/openclaw-windows-node) ⭐ 2,205 | 🐛 238 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [OpenClaw Windows Hub](https://github.com/openclaw/openclaw-windows-node) ⭐ 2,207 | 🐛 248 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Sakura Launcher GUI](https://github.com/PiDanShouRouZhouXD/Sakura_Launcher_GUI) ⭐ 681 | 🐛 24 | 🌐 Python | 📅 2025-12-02 <sup>`FOSS`</sup>
 * `WDM` [Rodel Downloader](https://github.com/Richasy/Rodel.Downloader) ⭐ 113 | 🐛 1 | 🌐 C# | 📅 2024-05-10 <sup>`FOSS`</sup>
 * `WDM` [NAI Utility Tool](https://github.com/Aeka0/NAI-Utility-Tool) ⭐ 78 | 🐛 3 | 🌐 C# | 📅 2026-11-12 <sup>`FOSS`</sup>
@@ -391,7 +391,7 @@ Last 80 apps that were recently added to list!
 
 ### Usage Tracker
 
-* `WDA` [Ration](https://github.com/ozkancirak/Ration) ⭐ 94 | 🐛 2 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDA` [Ration](https://github.com/ozkancirak/Ration) ⭐ 95 | 🐛 2 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WD` [CodexBarWin](https://github.com/nek0der/CodexBarWin) ⭐ 23 | 🐛 3 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
 * `WDA` [AI Usage Monitor & Switcher](https://github.com/airtaxi/AI-Usage-Monitor-and-Switcher) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2026-11-01 <sup>`FOSS`</sup>
 * `WD` [Codex Beacon](https://github.com/hurmuri/codex-beacon) ⭐ 4 | 🐛 6 | 🌐 C# | 📅 2026-11-13 <sup>`FOSS`</sup>
@@ -419,8 +419,8 @@ Last 80 apps that were recently added to list!
 
 ## 🌐 Browser
 
-* `WDA` [Hurl](https://github.com/U-C-S/Hurl) ⭐ 476 | 🐛 31 | 🌐 C# | 📅 2026-10-29 <sup>`FOSS`</sup>
-* `WDM` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) ⭐ 172 | 🐛 13 | 🌐 CSS | 📅 2026-09-05 `🎨` <sup>`FOSS`</sup>
+* `WDA` [Hurl](https://github.com/U-C-S/Hurl) ⭐ 476 | 🐛 31 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) ⭐ 173 | 🐛 13 | 🌐 CSS | 📅 2026-09-05 `🎨` <sup>`FOSS`</sup>
 * `WDM` [Odyssey](https://github.com/deadwood2/OdysseyWebBrowser) ⭐ 44 | 🐛 7 | 🌐 C++ | 📅 2026-11-17 `📆` <sup>`FOSS`</sup>
 * `WDA` [WinUIEdge](https://github.com/wtcpython/WinUIEdge) ⚠️ Archived <sup>`FOSS`</sup> `❎`
 * `WDM` [Radon Browser](https://github.com/imscythra/radon-browser) ⭐ 34 | 🐛 1 | 🌐 C# | 📅 2025-11-09 <sup>`FOSS`</sup>
@@ -435,7 +435,7 @@ Last 80 apps that were recently added to list!
 
 ## 📦 Catalogs
 
-* `WDM` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) ⭐ 3,736 | 🐛 39 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
+* `WDM` [WinUI Gallery](https://github.com/microsoft/WinUI-Gallery) ⭐ 3,740 | 🐛 40 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
 * `WDM` [Windows Community Toolkit](https://github.com/CommunityToolkit/Windows) ⭐ 1,084 | 🐛 240 | 🌐 C# | 📅 2026-10-27 <sup>`FOSS`</sup>
 * `WD` [Qt-Fluent-Widgets](https://github.com/Fairy-Oracle-Sanctuary/Qt-Fluent-Widgets) ⭐ 95 | 🐛 0 | 🌐 C++ | 📅 2026-10-28 <sup>`FOSS`</sup>
 * `WDM` [Delphi WinUI 3](https://github.com/HemulGM/DelphiWinUI3) ⭐ 72 | 🐛 0 | 🌐 Pascal | 📅 2026-11-13 `📆 Planned` <sup>`FOSS`</sup>
@@ -455,22 +455,22 @@ Last 80 apps that were recently added to list!
 
 ## 🧑‍💻 Developer Tools
 
-* `WD` [DevToys](https://github.com/DevToys-app/DevToys) ⭐ 32,291 | 🐛 340 | 🌐 C# | 📅 2026-09-29 <sup>`FOSS`</sup>
-* `WDM` [PyQt Fluent Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ⭐ 8,169 | 🐛 27 | 🌐 Python | 📅 2026-11-01 <sup>`FOSS`</sup>
-* `WDM` [ExHyperV](https://github.com/Justsenger/ExHyperV) ⭐ 4,822 | 🐛 23 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WDM` [Rectify11](https://github.com/Rectify11/Installer) ⭐ 3,487 | 🐛 149 | 🌐 JavaScript | 📅 2026-01-05 <sup>`FOSS`</sup>
+* `WD` [DevToys](https://github.com/DevToys-app/DevToys) ⭐ 32,298 | 🐛 341 | 🌐 C# | 📅 2026-09-29 <sup>`FOSS`</sup>
+* `WDM` [PyQt Fluent Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ⭐ 8,168 | 🐛 27 | 🌐 Python | 📅 2026-11-01 <sup>`FOSS`</sup>
+* `WDM` [ExHyperV](https://github.com/Justsenger/ExHyperV) ⭐ 4,825 | 🐛 22 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDM` [Rectify11](https://github.com/Rectify11/Installer) ⭐ 3,488 | 🐛 149 | 🌐 JavaScript | 📅 2026-01-05 <sup>`FOSS`</sup>
 * `WDM` [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) ⭐ 2,584 | 🐛 37 | 🌐 Tcl | 📅 2025-06-08 <sup>`FOSS`</sup>
-* `WDM` `WDA` [RevitLookup](https://github.com/lookup-foundation/RevitLookup) ⭐ 1,476 | 🐛 11 | 🌐 C# | 📅 2026-10-11 <sup>`FOSS`</sup>
-* `WD` [FluentHub](https://github.com/0x5bfa/FluentHub) ⭐ 1,264 | 🐛 36 | 🌐 C# | 📅 2026-09-19 <sup>`FOSS`</sup>
+* `WDM` `WDA` [RevitLookup](https://github.com/lookup-foundation/RevitLookup) ⭐ 1,477 | 🐛 11 | 🌐 C# | 📅 2026-10-11 <sup>`FOSS`</sup>
+* `WD` [FluentHub](https://github.com/0x5bfa/FluentHub) ⭐ 1,265 | 🐛 36 | 🌐 C# | 📅 2026-09-19 <sup>`FOSS`</sup>
 * `WD` [QTWin11](https://github.com/witalihirsch/QTWin11) ⭐ 375 | 🐛 3 | 🌐 Python | 📅 2022-08-24 <sup>`FOSS`</sup>
-* `WD` [DevWinUI](https://github.com/ghost1372/DevWinUI) ⭐ 340 | 🐛 8 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WD` [DevWinUI](https://github.com/ghost1372/DevWinUI) ⭐ 341 | 🐛 6 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [Loopback Manager](https://github.com/Richasy/LoopbackManager.Desktop) ⭐ 273 | 🐛 1 | 🌐 C# | 📅 2026-10-29 <sup>`FOSS`</sup>
-* `WDM` [WSL Container Desktop](https://github.com/mhackermsft/wslcontainerdesktop) ⭐ 267 | 🐛 5 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
+* `WDM` [WSL Container Desktop](https://github.com/mhackermsft/wslcontainerdesktop) ⭐ 270 | 🐛 6 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
 * `WD` [Fellmonger](https://github.com/fbarbat/fellmonger) ⭐ 200 | 🐛 0 | 🌐 Swift | 📅 2024-09-09 <sup>`FOSS`</sup>
-* `WD` [JitHub](https://github.com/JitHubApp/JitHubV2) ⭐ 155 | 🐛 9 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WD` [Azure Key Vault Explorer](https://github.com/cricketthomas/AzureKeyVaultExplorer) ⭐ 120 | 🐛 17 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WD` [JitHub](https://github.com/JitHubApp/JitHubV2) ⭐ 154 | 🐛 9 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WD` [Azure Key Vault Explorer](https://github.com/cricketthomas/AzureKeyVaultExplorer) ⭐ 120 | 🐛 17 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [WSL Toolbox](https://github.com/FalconNL93/WslToolbox) ⭐ 115 | 🐛 8 | 🌐 C# | 📅 2026-03-16 <sup>`FOSS`</sup>
-* `WDM` [Foundry OSD](https://github.com/foundry-osd/foundry) ⭐ 99 | 🐛 2 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Foundry OSD](https://github.com/foundry-osd/foundry) ⭐ 99 | 🐛 6 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [PreLaunchTaskr](https://github.com/SuGar0218/PreLaunchTaskr) ⭐ 54 | 🐛 0 | 🌐 C# | 📅 2025-06-27 <sup>`FOSS`</sup>
 * `WD` [AK.Toolkit](https://github.com/AndrewKeepCoding/AK.Toolkit) ⭐ 53 | 🐛 2 | 🌐 C# | 📅 2026-02-02 <sup>`FOSS`</sup>
 * `WD` [UnityPackage Extractor](https://github.com/SamarthMP/unitypackage-extractor) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-01-07 <sup>`FOSS`</sup>
@@ -543,8 +543,8 @@ Last 80 apps that were recently added to list!
 
 ### Full-Featured Download Manager
 
-* `WDM` [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3) ⭐ 12,012 | 🐛 88 | 🌐 Python | 📅 2026-11-18 `📆` <sup>`FOSS`</sup> (Based on [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ⭐ 8,169 | 🐛 27 | 🌐 Python | 📅 2026-11-01, not WinUI)
-* `WDM` [Fluent M3U8](https://github.com/zhiyiYo/Fluent-M3U8) ⭐ 2,021 | 🐛 9 | 🌐 Python | 📅 2025-04-24 <sup>`FOSS`</sup>
+* `WDM` [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3) ⭐ 12,461 | 🐛 87 | 🌐 Python | 📅 2026-11-19 `📆` <sup>`FOSS`</sup> (Based on [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) ⭐ 8,168 | 🐛 27 | 🌐 Python | 📅 2026-11-01, not WinUI)
+* `WDM` [Fluent M3U8](https://github.com/zhiyiYo/Fluent-M3U8) ⭐ 2,020 | 🐛 9 | 🌐 Python | 📅 2025-04-24 <sup>`FOSS`</sup>
 * `WDM` [OnionMedia](https://github.com/onionware-github/OnionMedia) ⭐ 373 | 🐛 31 | 🌐 C# | 📅 2026-10-10 <sup>`FOSS`</sup>
 * `WDM` [Stretto Download Manager](https://github.com/Marek-Codex/Stretto-Download-Manager) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-10-31 <sup>`FOSS`</sup>
 * `WD` [Download Manager Kit](https://apps.microsoft.com/detail/9mx6kd8wgwgp)
@@ -552,7 +552,7 @@ Last 80 apps that were recently added to list!
 
 ### Torrenting
 
-* `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) ⭐ 1,270 | 🐛 13 | 🌐 Python | 📅 2024-11-05 <sup>`FOSS`</sup>
+* `WDM` [qBitTorrent-Fluent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) ⭐ 1,271 | 🐛 13 | 🌐 Python | 📅 2024-11-05 <sup>`FOSS`</sup>
 * `WDA` [OpenNet](https://github.com/hoshiizumiya/OpenNet) ⭐ 18 | 🐛 5 | 🌐 C++ | 📅 2026-11-12 <sup>`FOSS`</sup>
 * `WD` [AutoTorrentClient](https://github.com/uponatime2019/AutoTorrentClient) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-09-25 <sup>`FOSS`</sup>
 * `WDM` [ByteStream Torrent](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8)
@@ -563,7 +563,7 @@ Last 80 apps that were recently added to list!
 
 ### YouTube
 
-* `WDM` [FluentYTDL](https://github.com/SakuraForgot/FluentYTDL) ⭐ 454 | 🐛 14 | 🌐 Python | 📅 2026-11-09 <sup>`FOSS`</sup>
+* `WDM` [FluentYTDL](https://github.com/SakuraForgot/FluentYTDL) ⭐ 455 | 🐛 14 | 🌐 Python | 📅 2026-11-09 <sup>`FOSS`</sup>
 * `WDM` [YTDownloader](https://github.com/TXG0Fk3/YTDownloader) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-09-24 <sup>`FOSS`</sup>
 * `WDM` [WinTube](https://github.com/Areoxy/WinTube) ⭐ 6 | 🐛 0 | 📅 2026-05-14
 * `WD` [YT2MP3](https://github.com/0zean/YT2MP3) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2024-09-16 <sup>`FOSS`</sup>
@@ -582,19 +582,19 @@ Last 80 apps that were recently added to list!
 
 ### Other
 
-* `WDM` [Parabolic](https://github.com/NickvisionApps/Parabolic) ⭐ 7,698 | 🐛 126 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
-* `WDM` [IwaraTool](https://github.com/Moeary/IwaraTool) ⭐ 107 | 🐛 6 | 🌐 Python | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WDM` [Parabolic](https://github.com/NickvisionApps/Parabolic) ⭐ 7,741 | 🐛 127 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WDM` [IwaraTool](https://github.com/Moeary/IwaraTool) ⭐ 107 | 🐛 6 | 🌐 Python | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Kemono Downloader GUI](https://github.com/ZIDOUZI/Kemono-Downloader-GUI) ⚠️ Archived <sup>`FOSS`</sup> `❎`
 * `WDM` [TvTime](https://github.com/WinUICommunity/TvTime) ⭐ 30 | 🐛 0 | 🌐 C# | 📅 2024-02-13 <sup>`FOSS`</sup>
 * `WDM` [Comic](https://github.com/Leisurely-Cloud/Comic) ⭐ 13 | 🐛 1 | 🌐 C# | 📅 2026-11-01 <sup>`FOSS`</sup>
-* `WD` [Beflow for Windows](https://github.com/Townley9288/Beflow-for-Windows) ⭐ 12 | 🐛 0 | 🌐 C# | 📅 2026-10-18 <sup>`FOSS`</sup>
+* `WD` [Beflow for Windows](https://github.com/Townley9288/Beflow-for-Windows) ⭐ 12 | 🐛 8 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [VDownload](https://github.com/mateuszskoczek/VDownload) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2026-04-16 <sup>`FOSS`</sup>
 * `WDM` [FluentDL](https://apps.microsoft.com/detail/9mx44km97x7x)
 * `WDM` [Videohog](https://apps.microsoft.com/detail/9p2tkqpjnlbs)
 
 ## 🎓 Education
 
-* `WDM` [XJTUToolBox](https://github.com/yan-xiaoo/XJTUToolBox) ⭐ 222 | 🐛 8 | 🌐 Python | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDM` [XJTUToolBox](https://github.com/yan-xiaoo/XJTUToolBox) ⭐ 224 | 🐛 8 | 🌐 Python | 📅 2026-11-17 <sup>`FOSS`</sup>
 * `WDA` [CC98 Desktop](https://github.com/Ansherly/CC98-Desktop) ⭐ 40 | 🐛 2 | 🌐 C# | 📅 2026-11-14 <sup>`FOSS`</sup>
 * `WD` [OfflineWinDict](https://github.com/uponatime2019/OfflineWinDict) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2026-09-26 <sup>`FOSS`</sup>
 * `WDM` [WTHIT](https://github.com/SaberCris24/WTHIT) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2025-11-01 <sup>`FOSS`</sup>
@@ -610,7 +610,7 @@ Last 80 apps that were recently added to list!
 
 ## 📧 Email
 
-* `WDM` [Wino Mail](https://github.com/bkaankose/Wino-Mail) ⭐ 1,677 | 🐛 87 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Wino Mail](https://github.com/bkaankose/Wino-Mail) ⭐ 1,678 | 🐛 92 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Eppie Mail](https://github.com/Eppie-io/Eppie-App) ⭐ 422 | 🐛 65 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
 * `WDM` [Malachi Mail](https://github.com/schotek/malachi) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-11-16 <sup>`FOSS`</sup>
 * `WDM` [Email Inboxes](https://apps.microsoft.com/detail/9mx57pfkf3gc)
@@ -626,9 +626,9 @@ Last 80 apps that were recently added to list!
 
 ## 📁 File Manager
 
-* `WDM` [Files App](https://github.com/files-community/files) ⭐ 46,705 | 🐛 444 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Files App](https://github.com/files-community/files) ⭐ 46,712 | 🐛 443 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [MyFTP](https://github.com/luandersonn/MyFTP) ⭐ 276 | 🐛 15 | 🌐 C# | 📅 2024-06-02 <sup>`FOSS`</sup>
-* `WDM` [SpanFinder](https://github.com/LumiBearStudio/SpanFinder) ⭐ 246 | 🐛 4 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WDM` [SpanFinder](https://github.com/LumiBearStudio/SpanFinder) ⭐ 246 | 🐛 4 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [AIExplorer](https://github.com/lancexiang/AIExplorer) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2026-11-02 <sup>`FOSS`</sup>
 * `WDA` [Tray folder](https://github.com/Tray-Land/tray-folder) ⭐ 11 | 🐛 1 | 🌐 C# | 📅 2026-11-10 <sup>`FOSS`</sup>
 * `WDM` [ConsystoFiles](https://github.com/egorcha174/ConsystoFiles) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2026-11-02 <sup>`FOSS`</sup>
@@ -642,7 +642,7 @@ Last 80 apps that were recently added to list!
 
 ## 💵 Finance
 
-* `WDM` [BitWallpaper](https://github.com/torum/BitWallpaper) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2026-11-12 <sup>`FOSS`</sup>
+* `WDM` [BitWallpaper](https://github.com/torum/BitWallpaper) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [earmark](https://github.com/williamckha/earmark) ⭐ 4 | 🐛 1 | 🌐 C# | 📅 2023-08-01 `📅 Planned` <sup>`FOSS`</sup>
 * `WD` [MyMoney](https://github.com/jm6271/MyMoney) ⚠️ Archived <sup>`FOSS`</sup> `❎`
 * `WD` [Simple Binance Crypto Charts](https://github.com/uponatime2019/SimpleBinanceCryptoCharts) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-09-25 <sup>`FOSS`</sup>
@@ -655,7 +655,7 @@ Last 80 apps that were recently added to list!
 
 * `WDM` [Emerald](https://github.com/RiversideValley/Emerald) ⭐ 83 | 🐛 10 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
 * `WDM` [Fluent-Tic-Tac-Toe](https://github.com/dfchang149/Fluent-Tic-Tac-Toe) ⭐ 42 | 🐛 1 | 🌐 C# | 📅 2023-07-24 <sup>`FOSS`</sup>
-* `WM` [Fluent 2048](https://github.com/Zingzy/fluent-2048) ⭐ 23 | 🐛 1 | 📅 2024-07-24
+* `WM` [Fluent 2048](https://github.com/Zingzy/fluent-2048) ⭐ 22 | 🐛 1 | 📅 2024-07-24
 * `WD` [Irregular Sliding Puzzle](https://github.com/Pure-Happiness/Irregular-Sliding-Puzzle) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2025-11-15 <sup>`FOSS`</sup>
 * `WDM` [MineSweeperino](https://github.com/NydusBorn/MineSweeperino) ⚠️ Archived <sup>`FOSS`</sup> `❎`
 * `WD` [Tiny Solitaire](https://github.com/Tray-Land/tiny-solitaire) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
@@ -665,36 +665,36 @@ Last 80 apps that were recently added to list!
 
 ### Game Tools
 
-* `WDM` [BetterGI](https://github.com/babalae/better-genshin-impact) ⭐ 18,154 | 🐛 577 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [March7thAssistant](https://github.com/moesnow/March7thAssistant) ⭐ 12,776 | 🐛 108 | 🌐 Python | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) ⭐ 8,662 | 🐛 180 | 🌐 Python | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [ZenlessZoneZero-OneDragon](https://github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon) ⭐ 8,017 | 🐛 158 | 🌐 Python | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) ⭐ 4,657 | 🐛 161 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
-* `WDA` [Starward](https://github.com/Scighost/Starward) ⭐ 4,589 | 🐛 187 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
-* `WDM` [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) ⭐ 3,220 | 🐛 1,444 | 🌐 C# | 📅 2026-10-25 <sup>`FOSS`</sup>
-* `WDM` `WDA` [FufuLauncher](https://github.com/FufuLauncher/FufuLauncher) ⭐ 2,296 | 🐛 0 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDA` [Collapse](https://github.com/CollapseLauncher/Collapse) ⭐ 1,794 | 🐛 43 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
-* `WDM` [Handheld Companion](https://github.com/Valkirie/HandheldCompanion) ⭐ 1,757 | 🐛 349 | 🌐 C# | 📅 2026-11-07 <sup>`FOSS`</sup>
-* `WDM` [StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) ⭐ 1,539 | 🐛 48 | 🌐 Python | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [Blue Archive Auto Script](https://github.com/pur1fying/blue_archive_auto_script) ⭐ 1,537 | 🐛 109 | 🌐 Python | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WDM` [ok-nte](https://github.com/BnanZ0/ok-nte) ⭐ 1,383 | 🐛 1 | 🌐 Python | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [Snap Hutao Remastered](https://github.com/SnapHutaoRemasteringProject/Snap.Hutao.Remastered) ⭐ 932 | 🐛 36 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [BetterGI](https://github.com/babalae/better-genshin-impact) ⭐ 18,174 | 🐛 568 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [March7thAssistant](https://github.com/moesnow/March7thAssistant) ⭐ 12,816 | 🐛 105 | 🌐 Python | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) ⭐ 8,668 | 🐛 180 | 🌐 Python | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [ZenlessZoneZero-OneDragon](https://github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon) ⭐ 8,029 | 🐛 160 | 🌐 Python | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [SCSKiller](https://github.com/BlueHeisenberg/SCSKiller) ⭐ 4,666 | 🐛 161 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WDA` [Starward](https://github.com/Scighost/Starward) ⭐ 4,592 | 🐛 188 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
+* `WDM` [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) ⭐ 3,223 | 🐛 1,444 | 🌐 C# | 📅 2026-10-25 <sup>`FOSS`</sup>
+* `WDM` `WDA` [FufuLauncher](https://github.com/FufuLauncher/FufuLauncher) ⭐ 2,299 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDA` [Collapse](https://github.com/CollapseLauncher/Collapse) ⭐ 1,794 | 🐛 43 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Handheld Companion](https://github.com/Valkirie/HandheldCompanion) ⭐ 1,758 | 🐛 349 | 🌐 C# | 📅 2026-11-07 <sup>`FOSS`</sup>
+* `WDM` [StarRailOneDragon](https://github.com/OneDragon-Anything/StarRailOneDragon) ⭐ 1,540 | 🐛 48 | 🌐 Python | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [Blue Archive Auto Script](https://github.com/pur1fying/blue_archive_auto_script) ⭐ 1,538 | 🐛 109 | 🌐 Python | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [ok-nte](https://github.com/BnanZ0/ok-nte) ⭐ 1,386 | 🐛 3 | 🌐 Python | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [Snap Hutao Remastered](https://github.com/SnapHutaoRemasteringProject/Snap.Hutao.Remastered) ⭐ 932 | 🐛 32 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [ok-duet-night-abyss](https://github.com/BnanZ0/ok-duet-night-abyss) ⭐ 656 | 🐛 3 | 🌐 Python | 📅 2026-11-04 <sup>`FOSS`</sup>
-* `WDM` [JASM](https://github.com/Jorixon/JASM) ⭐ 495 | 🐛 92 | 🌐 C# | 📅 2026-07-24 <sup>`FOSS`</sup>
+* `WDM` [JASM](https://github.com/Jorixon/JASM) ⭐ 494 | 🐛 92 | 🌐 C# | 📅 2026-07-24 <sup>`FOSS`</sup>
 * `WDM` [MCSL 2](https://github.com/MCSLTeam/MCSL2) ⭐ 480 | 🐛 1 | 🌐 Python | 📅 2026-06-18 <sup>`FOSS`</sup>
 * `WDA` [Natsurainko.FluentLauncher](https://github.com/Xcube-Studio/Natsurainko.FluentLauncher) ⚠️ Archived <sup>`FOSS`</sup> `❎`
 * `WDM` `WDA` [WaveTools](https://github.com/JamXi233/WaveTools) ⭐ 411 | 🐛 13 | 🌐 C# | 📅 2026-10-20 <sup>`FOSS`</sup>
-* `WDM` [Better Endfield](https://github.com/Dr-hydra/Better-Endfield) ⭐ 330 | 🐛 0 | 🌐 C++ | 📅 2026-11-16 <sup>`FOSS`</sup>
-* `WD` [OmniConsole](https://github.com/8bit2qubit/OmniConsole) ⭐ 312 | 🐛 1 | 🌐 C# | 📅 2026-09-13 <sup>`FOSS`</sup>
+* `WDM` [Better Endfield](https://github.com/Dr-hydra/Better-Endfield) ⭐ 331 | 🐛 0 | 🌐 C++ | 📅 2026-11-16 <sup>`FOSS`</sup>
+* `WD` [OmniConsole](https://github.com/8bit2qubit/OmniConsole) ⭐ 311 | 🐛 1 | 🌐 C# | 📅 2026-09-13 <sup>`FOSS`</sup>
 * `WD` [OVR Lighthouse Manager](https://github.com/kurotu/OVR-Lighthouse-Manager) ⭐ 200 | 🐛 9 | 🌐 C# | 📅 2026-09-20 <sup>`FOSS`</sup>
 * `WDM` [Haiyu](https://github.com/HaiyuGame/Haiyu) ⭐ 189 | 🐛 2 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
 * `WDM` [Polymerium](https://github.com/d3ara1n/Polymerium) ⭐ 128 | 🐛 0 | 🌐 C# | 📅 2026-11-07 <sup>`FOSS`</sup>
-* `WDM` [New Eden Roaming Guide](https://github.com/qedsd/TheGuideToTheNewEden) ⭐ 94 | 🐛 10 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
-* `WDA` [Vanilla-RTX-App](https://github.com/Vanilla-RTX/Vanilla-RTX-App) ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDM` [New Eden Roaming Guide](https://github.com/qedsd/TheGuideToTheNewEden) ⭐ 94 | 🐛 10 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDA` [Vanilla-RTX-App](https://github.com/Vanilla-RTX/Vanilla-RTX-App) ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` `WDA` [ZenlessTools](https://github.com/JamXi233/ZenlessTools) ⭐ 78 | 🐛 8 | 🌐 C# | 📅 2024-08-01 <sup>`FOSS`</sup>
 * `WDM` [Dotahold](https://github.com/sh0ckj0ckey/Dotahold) ⭐ 42 | 🐛 0 | 🌐 C# | 📅 2026-04-11 <sup>`FOSS`</sup>
 * `WDM` [Citrine](https://github.com/CitrineLauncher/Citrine) ⭐ 41 | 🐛 3 | 🌐 C++ | 📅 2026-11-10 <sup>`FOSS`</sup>
-* `WD` [ky3-Launcher](https://github.com/ky3-studio/ky3-Launcher) ⭐ 39 | 🐛 4 | 🌐 C# | 📅 2026-11-12 <sup>`FOSS`</sup>
+* `WD` [ky3-Launcher](https://github.com/ky3-studio/ky3-Launcher) ⭐ 39 | 🐛 5 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [Moonward](https://github.com/TurmoilZoom/Moonward) ⭐ 28 | 🐛 5 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
 * `WD` [SCSHub](https://github.com/AmirMahdaviAM/SCSHub) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2024-08-30 <sup>`FOSS`</sup>
 * `WDM` [DialogueForest](https://github.com/Difegue/DialogueForest) ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2026-07-28 <sup>`FOSS`</sup>
@@ -733,7 +733,7 @@ Last 80 apps that were recently added to list!
 
 #### Viewers
 
-* `WDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer) ⭐ 73 | 🐛 1 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Image Viewer](https://github.com/dragonofmercy/image-viewer) ⭐ 73 | 🐛 1 | 🌐 Rust | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Luma HDR Photo Viewer](https://github.com/lueluelue12138/luma-hdr-photo-viewer) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-10-29 <sup>`FOSS`</sup>
 * `WDM` [Piktosaur](https://github.com/Bloomca/Piktosaur) ⭐ 2 | 🐛 6 | 🌐 C# | 📅 2026-02-16 <sup>`FOSS`</sup>
 * `WDM` [Pixeval](https://apps.microsoft.com/detail/9p1rzl9z8454) <sup>`FOSS`</sup>
@@ -770,22 +770,22 @@ Last 80 apps that were recently added to list!
 #### Players
 
 * `WDM` [Untamed Music Player](https://github.com/LanZhan-Harmony/WindowsMusicPlayer-TheUntamedMusicPlayer) ⭐ 316 | 🐛 22 | 🌐 C# | 📅 2026-10-25 <sup>`FOSS`</sup>
-* `WDM` [Traydio](https://github.com/TheJoeFin/Traydio) ⭐ 245 | 🐛 11 | 🌐 C# | 📅 2026-11-14 <sup>`FOSS`</sup>
+* `WDM` [Traydio](https://github.com/TheJoeFin/Traydio) ⭐ 247 | 🐛 12 | 🌐 C# | 📅 2026-11-14 <sup>`FOSS`</sup>
 * `WDM` [Stylophone](https://github.com/Difegue/Stylophone) ⭐ 160 | 🐛 15 | 🌐 C# | 📅 2026-10-31 <sup>`FOSS`</sup>
 * `WDM` [Strix Music](https://github.com/Arlodotexe/strix-music) ⭐ 150 | 🐛 41 | 🌐 C# | 📅 2026-05-19 <sup>`FOSS`</sup>
-* `WD` [MPDCtrl](https://github.com/torum/MPDCtrl) ⭐ 72 | 🐛 6 | 🌐 C# | 📅 2026-11-12 <sup>`FOSS`</sup>
+* `WD` [MPDCtrl](https://github.com/torum/MPDCtrl) ⭐ 72 | 🐛 6 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [PlayerWinRT](https://github.com/YexuanXiao/PlayerWinRT) ⭐ 68 | 🐛 1 | 🌐 C++ | 📅 2026-03-28 <sup>`FOSS`</sup>
 * `WDM` [Melora](https://github.com/IcySnex/Melora) ⭐ 66 | 🐛 1 | 🌐 C# | 📅 2026-08-25 <sup>`FOSS`</sup>
 * `WDM` [OpenDeezer](https://github.com/Cycl0o0/OpenDeezer) ⭐ 21 | 🐛 15 | 🌐 Go | 📅 2026-09-10 <sup>`FOSS`</sup>
 * `WDA` [Disenchant Music Player](https://github.com/DenryDu/Disenchant-Music-Player) ⭐ 20 | 🐛 0 | 📅 2023-04-16 `📆 Planned` <sup>`FOSS`</sup>
 * `WDM` [Musium](https://github.com/paste1ess/Musium) ⚠️ Archived <sup>`FOSS`</sup> `❎`
 * `WDM` [Cicadas](https://github.com/SimonShiki/cicadas) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-06 <sup>`FOSS`</sup>
-* `WDA` [Music-M](https://github.com/Kitsunex-glitch/Music-M) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WDA` [Music-M](https://github.com/Kitsunex-glitch/Music-M) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
 * `WD` `WDM` `WDA` [Tunetastic](https://github.com/AMit-KP/Tunetastic) ⭐ 12 | 🐛 24 | 🌐 HTML | 📅 2026-11-16 <sup>`FOSS`</sup>
 * `WD` [BarPlay](https://github.com/airtaxi/BarPlay) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2026-09-24 <sup>`FOSS`</sup>
-* `WDM` [Fluent Scrobbler](https://github.com/snw-mint/fluent-scrobbler) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
+* `WDM` [Fluent Scrobbler](https://github.com/snw-mint/fluent-scrobbler) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [WinYandex](https://github.com/pixiemays/WinYandex) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
-* `WD` [Koda](https://github.com/Ivorisnoob/koda-windows) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WD` [Koda](https://github.com/Ivorisnoob/koda-windows) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
 * `WDM` [Sound Reaver](https://github.com/sungaila/SoundReaver) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2026-09-03 <sup>`FOSS`</sup>
 * `WDM` [haikusMediaPlayer](https://github.com/nebula-neru/haikusMediaPlayer) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2024-03-19 <sup>`FOSS`</sup>
 * `WDM` [Rhythm](https://github.com/FallenDeity/Rhythm) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2024-04-25 <sup>`FOSS`</sup>
@@ -809,7 +809,7 @@ Last 80 apps that were recently added to list!
 
 #### Spotify Client
 
-* `WDM` [WaveeMusic](https://github.com/christosk92/WaveeMusic) ⭐ 82 | 🐛 23 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [WaveeMusic](https://github.com/christosk92/WaveeMusic) ⭐ 86 | 🐛 22 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 
 #### YT Music Client
 
@@ -817,15 +817,15 @@ Last 80 apps that were recently added to list!
 
 #### Tools
 
-* `WDM` `WDA` [AF Media Bar](https://github.com/Fervent-Tempo/AF-Media-Bar) ⭐ 1,134 | 🐛 32 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WDM` [AMWin-RichPresence](https://github.com/PKBeam/AMWin-RP) ⭐ 1,000 | 🐛 68 | 🌐 C# | 📅 2026-10-02 <sup>`FOSS`</sup>
-* `WDM` [AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) ⭐ 435 | 🐛 1 | 🌐 Python | 📅 2025-07-05 <sup>`FOSS`</sup>
+* `WDM` `WDA` [AF Media Bar](https://github.com/Fervent-Tempo/AF-Media-Bar) ⭐ 1,137 | 🐛 34 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [AMWin-RichPresence](https://github.com/PKBeam/AMWin-RP) ⭐ 1,001 | 🐛 68 | 🌐 C# | 📅 2026-10-02 <sup>`FOSS`</sup>
+* `WDM` [AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) ⭐ 434 | 🐛 1 | 🌐 Python | 📅 2025-07-05 <sup>`FOSS`</sup>
 * `WDM` [Tagger](https://github.com/NickvisionApps/Tagger) ⭐ 320 | 🐛 28 | 🌐 C# | 📅 2024-08-07 <sup>`FOSS`</sup>
 * `WDM` [RoomRelay](https://github.com/guicn555/RoomRelay) ⭐ 72 | 🐛 7 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
 * `WDM` [Audio Router](https://github.com/ShortDevelopment/Audio-Router) ⭐ 45 | 🐛 11 | 🌐 C# | 📅 2026-02-05 <sup>`FOSS`</sup>
 * `WDM` [Yugen.DJ](https://github.com/yugen-apps/yugen-dj) ⭐ 24 | 🐛 0 | 🌐 C# | 📅 2026-06-09 <sup>`FOSS`</sup>
-* `WD` [JBLControl](https://github.com/ffrafat/JBLControl) ⭐ 13 | 🐛 10 | 🌐 C# | 📅 2026-10-28 <sup>`FOSS`</sup>
-* `WDA` [Lyricod](https://github.com/Indarkdust/Lyricod-App) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WD` [JBLControl](https://github.com/ffrafat/JBLControl) ⭐ 13 | 🐛 11 | 🌐 C# | 📅 2026-10-28 <sup>`FOSS`</sup>
+* `WDA` [Lyricod](https://github.com/Indarkdust/Lyricod-App) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [VoxRack](https://github.com/vpainer/voxrack) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-10-16 <sup>`FOSS`</sup>
 * `WD` [EqSoundPlayer](https://github.com/uponatime2019/EqSoundPlayer) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-09-25 <sup>`FOSS`</sup>
 * `WD` [PodcastChapterEditor](https://github.com/snivets/PodcastChapterEditor) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2023-05-06 <sup>`FOSS`</sup>
@@ -875,7 +875,7 @@ Last 80 apps that were recently added to list!
 
 #### Players
 
-* `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) ⭐ 4,718 | 🐛 197 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Screenbox](https://github.com/huynhsontung/Screenbox/) ⭐ 4,722 | 🐛 198 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [Rise Media Player](https://github.com/theimpactfulcompany/Rise-Media-Player) ⭐ 1,218 | 🐛 54 | 🌐 C# | 📅 2025-10-23 <sup>`FOSS`</sup>
 * `WD` [Danmaku Player](https://github.com/Poker-sang/DanmakuPlayer) ⭐ 41 | 🐛 0 | 🌐 C# | 📅 2026-05-19 <sup>`FOSS`</sup>
 * `WDM` [Awesome Media Player WinUI3](https://github.com/bluday/awesome-media-player) ⭐ 35 | 🐛 0 | 🌐 C# | 📅 2026-10-04 `📆` <sup>`FOSS`</sup>
@@ -890,9 +890,9 @@ Last 80 apps that were recently added to list!
 
 #### Streaming
 
-* `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer) ⭐ 1,448 | 🐛 69 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer) ⭐ 1,448 | 🐛 69 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDA` [FluentFin](https://github.com/insomniachi/FluentFin) ⭐ 115 | 🐛 15 | 🌐 C# | 📅 2026-11-07 <sup>`FOSS`</sup>
-* `WDM` [Kinema](https://github.com/kinema-app/kinema) ⭐ 11 | 🐛 0 | 📅 2026-11-17
+* `WDM` [Kinema](https://github.com/kinema-app/kinema) ⭐ 11 | 🐛 0 | 📅 2026-11-19
 * `WDM` [Apple TV](https://apps.microsoft.com/detail/9nm4t8b9jqz1)
 * `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
 * `WD` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606)
@@ -900,8 +900,8 @@ Last 80 apps that were recently added to list!
 #### Tracking
 
 * `WDM` [Bili.Copilot](https://github.com/Richasy/Bili.Copilot) ⭐ 5,218 | 🐛 272 | 🌐 GLSL | 📅 2025-11-26 <sup>`FOSS`</sup>
-* `WDM` [BiliLite](https://github.com/ywmoyue/biliuwp-lite) ⭐ 1,109 | 🐛 97 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [Totoro](https://github.com/insomniachi/Totoro) ⭐ 286 | 🐛 9 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [BiliLite](https://github.com/ywmoyue/biliuwp-lite) ⭐ 1,110 | 🐛 95 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [Totoro](https://github.com/insomniachi/Totoro) ⭐ 286 | 🐛 9 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [AniMoe](https://github.com/CosmicPredator/AniMoe) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2026-06-02 <sup>`FOSS`</sup>
 * `WDM` [Movier](https://apps.microsoft.com/detail/9ncf5gmw8q1q)
 
@@ -949,7 +949,7 @@ Last 80 apps that were recently added to list!
 ## 📰 News
 
 * `WDM` [Fluent Feeds](https://github.com/hannesschulze/fluent-feeds) ⭐ 38 | 🐛 11 | 🌐 C# | 📅 2022-08-28 <sup>`FOSS`</sup>
-* `WD` [FeedDesk](https://github.com/torum/FeedDesk) ⭐ 23 | 🐛 4 | 🌐 C# | 📅 2026-11-10 <sup>`FOSS`</sup>
+* `WD` [FeedDesk](https://github.com/torum/FeedDesk) ⭐ 23 | 🐛 4 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [PocketReader](https://github.com/aungkokomm/PocketReader) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2026-10-17 <sup>`FOSS`</sup>
 * `WD` [Flux Reader](https://github.com/lomirus/flux-reader) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
 * `WDM` [Fluent HN - Hacker News client](https://apps.microsoft.com/detail/9n8pdzhcpqhx) `💰`
@@ -966,8 +966,8 @@ Last 80 apps that were recently added to list!
 ### Notes
 
 * `WDM` [Typedown](https://github.com/byxiaozhi/Typedown) ⭐ 1,119 | 🐛 84 | 🌐 JavaScript | 📅 2025-09-05 <sup>`FOSS`</sup>
-* `WDM` [UltraPad](https://github.com/lixkote/ultrapad) ⭐ 388 | 🐛 10 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [ZenNotes](https://github.com/rohankishore/ZenNotes) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-08-01 <sup>`FOSS`</sup>
+* `WDM` [UltraPad](https://github.com/lixkote/ultrapad) ⭐ 388 | 🐛 5 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [ZenNotes](https://github.com/rohankishore/ZenNotes) ⭐ 146 | 🐛 0 | 🌐 Python | 📅 2026-08-01 <sup>`FOSS`</sup>
 * `WDM` [Storylines](https://github.com/morning4coffe-dev/storylines) ⭐ 94 | 🐛 7 | 🌐 C# | 📅 2026-08-22 <sup>`FOSS`</sup>
 * `WDM` [Fastedit](https://github.com/FrozenAssassine/Fastedit) ⭐ 86 | 🐛 3 | 🌐 C# | 📅 2026-11-07 <sup>`FOSS`</sup>
 * `WDM` [TowPad](https://github.com/itsWindows11/TowPad) ⭐ 39 | 🐛 3 | 🌐 C# | 📅 2023-04-04 <sup>`FOSS`</sup>
@@ -979,7 +979,7 @@ Last 80 apps that were recently added to list!
 * `WDM` [HikariEditor](https://github.com/Himeyama/HikariEditor) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2026-06-14 <sup>`FOSS`</sup>
 * `WDM` [Ivirius Text Editor](https://github.com/IviriusMain/Ivirius-Text-Editor) ⭐ 10 | 🐛 14 | 📅 2025-08-10
 * `WDM` [QNote](https://github.com/Mr-Second/QNote) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2026-10-24 <sup>`FOSS`</sup>
-* `WD` [InkMD-Editor](https://github.com/tribeti/InkMD-Editor) ⭐ 6 | 🐛 4 | 🌐 C# | 📅 2026-11-10 <sup>`FOSS`</sup>
+* `WD` [InkMD-Editor](https://github.com/tribeti/InkMD-Editor) ⭐ 6 | 🐛 4 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [MdPad](https://github.com/radueduard97/MdPad) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-07-25 <sup>`FOSS`</sup>
 * `WD` [Inklet](https://github.com/JAD-Apps/Inklet) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-10-11 <sup>`FOSS`</sup>
 * `WD` [Marqora](https://github.com/paultechguy/Marqora) ⭐ 3 | 🐛 1 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
@@ -988,7 +988,7 @@ Last 80 apps that were recently added to list!
 * `WD` [SmrtPad](https://github.com/JAD-Apps/SmrtPad) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2026-09-09 <sup>`FOSS`</sup>
 * `WD` [Quick Joplin Viewer](https://github.com/uponatime2019/QuickJoplinViewer) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-09-26 <sup>`FOSS`</sup>
 * `WD` [WinMD](https://github.com/toevi/WinMD) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-09-28 <sup>`FOSS`</sup>
-* `WD` [With Windows](https://github.com/Lifeni/with-windows) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-11-12 <sup>`FOSS`</sup>
+* `WD` [With Windows](https://github.com/Lifeni/with-windows) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [Tideline](https://github.com/BENZOOgataga/Tideline) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-05-24 <sup>`FOSS`</sup>
 * `WDA` [WinNote](https://github.com/RomarioTopno/winnote) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-10-29 <sup>`FOSS`</sup>
 * `WD` [DiaryFlow](https://apps.microsoft.com/detail/9p76ns4k0hgf)
@@ -1028,18 +1028,18 @@ Last 80 apps that were recently added to list!
 
 ## 🎨 Personalization
 
-* `WDM` [Lively Wallpaper](https://github.com/lively-community/lively) ⭐ 20,144 | 🐛 412 | 🌐 C# | 📅 2026-09-30 <sup>`FOSS`</sup>
-* `WDM` [Magpie](https://github.com/Blinue/Magpie) ⭐ 16,470 | 🐛 114 | 🌐 HLSL | 📅 2026-11-16 <sup>`FOSS`</sup>
-* `WDA` [DeskBox](https://github.com/Tianyu199509/DeskBox) ⭐ 9,318 | 🐛 121 | 🌐 C# | 📅 2026-11-10 <sup>`FOSS`</sup>
-* `WDM` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) ⭐ 5,280 | 🐛 183 | 🌐 C# | 📅 2026-07-17 <sup>`FOSS`</sup>
+* `WDM` [Lively Wallpaper](https://github.com/lively-community/lively) ⭐ 20,157 | 🐛 412 | 🌐 C# | 📅 2026-09-30 <sup>`FOSS`</sup>
+* `WDM` [Magpie](https://github.com/Blinue/Magpie) ⭐ 16,487 | 🐛 114 | 🌐 HLSL | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDA` [DeskBox](https://github.com/Tianyu199509/DeskBox) ⭐ 9,367 | 🐛 124 | 🌐 C# | 📅 2026-11-10 <sup>`FOSS`</sup>
+* `WDM` [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone) ⭐ 5,282 | 🐛 183 | 🌐 C# | 📅 2026-07-17 <sup>`FOSS`</sup>
 * `WD` [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) ⭐ 1,924 | 🐛 5 | 🌐 C# | 📅 2026-10-31 <sup>`FOSS`</sup>
-* `WD` [Rebound](https://github.com/IviriusCommunity/Rebound) ⭐ 867 | 🐛 18 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WDM` `WDA` [AppGroup](https://github.com/iandiv/AppGroup) ⭐ 790 | 🐛 20 | 🌐 C# | 📅 2026-11-04 <sup>`FOSS`</sup>
-* `WDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer) ⭐ 536 | 🐛 21 | 🌐 C++ | 📅 2024-06-25 <sup>`FOSS`</sup>
+* `WD` [Rebound](https://github.com/IviriusCommunity/Rebound) ⭐ 867 | 🐛 17 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` `WDA` [AppGroup](https://github.com/iandiv/AppGroup) ⭐ 792 | 🐛 21 | 🌐 C# | 📅 2026-11-04 <sup>`FOSS`</sup>
+* `WDM` [AccentColorizer](https://github.com/krlvm/AccentColorizer) ⭐ 535 | 🐛 21 | 🌐 C++ | 📅 2024-06-25 <sup>`FOSS`</sup>
 * `WDM` [MotionWallpaper](https://github.com/1114656/MotionWallpaper) ⭐ 326 | 🐛 1 | 🌐 C++ | 📅 2026-10-15 <sup>`FOSS`</sup>
 * `WDM` [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) ⚠️ Archived <sup>`FOSS`</sup> `❎`
 * `WDM` [DarkMode 2](https://github.com/Lunova-Studio/DarkMode2) ⭐ 321 | 🐛 18 | 🌐 C# | 📅 2025-12-22 <sup>`FOSS`</sup>
-* `WDM` [ChangeFolderIcon](https://github.com/YILING0013/ChangeFolderIcon) ⭐ 317 | 🐛 7 | 🌐 C# | 📅 2025-08-12 <sup>`FOSS`</sup>
+* `WDM` [ChangeFolderIcon](https://github.com/YILING0013/ChangeFolderIcon) ⭐ 318 | 🐛 7 | 🌐 C# | 📅 2025-08-12 <sup>`FOSS`</sup>
 * `WDM` [GyroShell](https://github.com/Pdawg-bytes/GyroShell) ⭐ 244 | 🐛 3 | 🌐 C# | 📅 2025-07-02 <sup>`FOSS`</sup>
 * `WDM` [Startify](https://github.com/Lixkote/Startify) ⭐ 180 | 🐛 10 | 🌐 C# | 📅 2025-11-02 <sup>`FOSS`</sup>
 * `WDM` [FontWizard](https://github.com/karnyadavdev/FontWizard) ⭐ 152 | 🐛 0 | 🌐 Python | 📅 2026-11-16 <sup>`FOSS`</sup>
@@ -1057,7 +1057,7 @@ Last 80 apps that were recently added to list!
 * `WDA` [Widgets Media](https://github.com/pepeizq/Widgets-Media) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2024-07-01 <sup>`FOSS`</sup>
 * `WDM` [IconFlow](https://github.com/mishzx/IconFlow) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2026-09-11 <sup>`FOSS`</sup>
 * `WD` [Pulse](https://github.com/AverageCodeNerd/pulse) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2026-07-12 <sup>`FOSS`</sup>
-* `WD` [Binggo Wallpapers](https://github.com/hippieZhou/BinggoWallpapers) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WD` [Binggo Wallpapers](https://github.com/hippieZhou/BinggoWallpapers) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [Crayon](https://github.com/xmha97/Crayon) ⭐ 3 | 🐛 1 | 🌐 Batchfile | 📅 2025-11-30 <sup>`FOSS`</sup>
 * `WD` [Waller](https://github.com/gvastethecreator/waller) ⭐ 3 | 🐛 1 | 🌐 C# | 📅 2026-10-31 <sup>`FOSS`</sup>
 * `WDM` [Wally](https://github.com/AhmedDevEG/Wally) ⭐ 2 | 🐛 0 | 📅 2026-11-11
@@ -1099,7 +1099,7 @@ Last 80 apps that were recently added to list!
 
 * `WD` [FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) ⭐ 557 | 🐛 10 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WD` [Stack Solver](https://github.com/VladM7/Stack-Solver) ⭐ 262 | 🐛 2 | 🌐 C# | 📅 2026-07-08 <sup>`FOSS`</sup>
-* `WDM` `WDA` [Koncentro](https://github.com/kun-codes/Koncentro) ⭐ 188 | 🐛 16 | 🌐 Python | 📅 2026-11-16 <sup>`FOSS`</sup>
+* `WDM` `WDA` [Koncentro](https://github.com/kun-codes/Koncentro) ⭐ 188 | 🐛 16 | 🌐 Python | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [Tonarink](https://github.com/kusutori/Tonarink) ⭐ 40 | 🐛 8 | 🌐 C# | 📅 2026-11-07 <sup>`FOSS`</sup>
 * `WD` [StoryCAD](https://github.com/storybuilder-org/StoryCAD) ⭐ 30 | 🐛 35 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WD` [Uviewer](https://github.com/kirinonakar/Uviewer) ⭐ 19 | 🐛 0 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
@@ -1188,15 +1188,15 @@ Last 80 apps that were recently added to list!
 
 ### VPN
 
-* `WD` [Proton VPN](https://github.com/ProtonVPN/win-app) ⭐ 2,626 | 🐛 66 | 🌐 C# | 📅 2026-11-13 <sup>`FOSS`</sup>
+* `WD` [Proton VPN](https://github.com/ProtonVPN/win-app) ⭐ 2,628 | 🐛 66 | 🌐 C# | 📅 2026-11-13 <sup>`FOSS`</sup>
 * `WDM` [Tailscale Client](https://github.com/uwu/tailscale-client) ⭐ 68 | 🐛 4 | 🌐 C# | 📅 2025-05-16 <sup>`FOSS`</sup>
 * `WD` [Atoll VPN](https://github.com/kaoshipaws/atollvpn) ⭐ 13 | 🐛 1 | 📅 2026-07-11
 
 ### Other
 
-* `WDM` [AppControl Manager](https://github.com/HotCakeX/Harden-Windows-Security) ⭐ 4,858 | 🐛 18 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [AppControl Manager](https://github.com/HotCakeX/Harden-Windows-Security) ⭐ 4,861 | 🐛 17 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WD` [XrayUI](https://github.com/PhoenixNil/XrayUI-dev) ⭐ 685 | 🐛 6 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WD` [Swell Proxy](https://github.com/yaog6700-bit/Swell-Proxy) ⭐ 489 | 🐛 0 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WD` [Swell Proxy](https://github.com/yaog6700-bit/Swell-Proxy) ⭐ 490 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS) ⭐ 287 | 🐛 7 | 🌐 C# | 📅 2026-10-09 <sup>`FOSS`</sup>
 * `WDM` [CDPI UI](https://github.com/Storik4pro/cdpiui) ⭐ 132 | 🐛 9 | 🌐 C# | 📅 2026-09-17 <sup>`FOSS`</sup>
 * `WD` [SecureAppLocker](https://github.com/osmanonurkoc/SecureAppLocker) ⭐ 53 | 🐛 1 | 🌐 C# | 📅 2026-09-18 <sup>`FOSS`</sup>
@@ -1212,7 +1212,7 @@ Last 80 apps that were recently added to list!
 
 ### Bluesky
 
-* `WDM` [Traysky](https://github.com/Tray-Land/traysky) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDM` [Traysky](https://github.com/Tray-Land/traysky) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Darksky (Preview)](https://apps.microsoft.com/detail/9np22dtfscts) <sup>`FOSS`</sup>
 
 ### Discord
@@ -1250,9 +1250,9 @@ Last 80 apps that were recently added to list!
 
 ### Calculators
 
-* `WDM` [Windows Calculator](https://github.com/Microsoft/calculator) ⭐ 31,098 | 🐛 486 | 🌐 C# | 📅 2026-10-23 <sup>`FOSS`</sup>
+* `WDM` [Windows Calculator](https://github.com/Microsoft/calculator) ⭐ 31,096 | 🐛 486 | 🌐 C# | 📅 2026-10-23 <sup>`FOSS`</sup>
 * `WDM` [Lamina](https://github.com/Chill-Astro/Lamina-Calculator) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2026-11-01 <sup>`FOSS`</sup>
-* `WDM` [Fluent Math](https://github.com/cechout/fluent-math) ⭐ 5 | 🐛 9 | 🌐 C# | 📅 2026-11-12 <sup>`FOSS`</sup>
+* `WDM` [Fluent Math](https://github.com/cechout/fluent-math) ⭐ 5 | 🐛 9 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [Calculator](https://github.com/fanioz/calculator) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-01-01 <sup>`FOSS`</sup>
 * `WDA` [Trayulator](https://github.com/Tray-Land/trayulator) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2026-11-17 <sup>`FOSS`</sup>
 * `WDM` [CalcX - Advanced graphical calculator](https://apps.microsoft.com/detail/9mx92vg2g7ns) `💰`
@@ -1279,13 +1279,13 @@ Last 80 apps that were recently added to list!
 
 ### Optimizer / Cleaners
 
-* `WDM` [Win11Debloat](https://github.com/Raphire/Win11Debloat) ⭐ 63,223 | 🐛 33 | 🌐 PowerShell | 📅 2026-11-15 <sup>`FOSS`</sup>
-* `WD` [Winhance](https://github.com/memstechtips/Winhance) ⭐ 14,970 | 🐛 2 | 🌐 C# | 📅 2026-11-14 <sup>`FOSS`</sup>
-* `WDM` [optimizerDuck](https://github.com/itsfatduck/optimizerDuck) ⭐ 12,612 | 🐛 14 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WDM` [FluentCleaner](https://github.com/builtbybel/FluentCleaner) ⭐ 7,331 | 🐛 20 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Win11Debloat](https://github.com/Raphire/Win11Debloat) ⭐ 63,309 | 🐛 33 | 🌐 PowerShell | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WD` [Winhance](https://github.com/memstechtips/Winhance) ⭐ 14,987 | 🐛 3 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [optimizerDuck](https://github.com/itsfatduck/optimizerDuck) ⭐ 12,734 | 🐛 14 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDM` [FluentCleaner](https://github.com/builtbybel/FluentCleaner) ⭐ 7,384 | 🐛 22 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [EvolveOS Optimizer](https://github.com/EvolveOS-Software/EvolveOS_Optimizer_V3.0) ⭐ 12 | 🐛 0 | 🌐 C# | 📅 2026-10-22 <sup>`FOSS`</sup>
 * `WDM` [cleanup](https://github.com/wiredincorp/cleanup) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-11-02 <sup>`FOSS`</sup>
-* `WD` [Deguffer](https://github.com/BootBlock/Deguffer) ⭐ 1 | 🐛 483 | 🌐 C# | 📅 2026-11-14 <sup>`FOSS`</sup>
+* `WD` [Deguffer](https://github.com/BootBlock/Deguffer) ⭐ 1 | 🐛 479 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [FormatDiskPro](https://github.com/xfiberex/FormatDiskPro) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
 * `WDM` [Windows Privacy Automator](https://github.com/BenOnSocial/WindowsPrivacyAutomator) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-10-27 <sup>`FOSS`</sup>
 * `WDM` [Cleaner for PC](https://apps.microsoft.com/detail/9nj3nwt4k0h6) `💰`
@@ -1304,7 +1304,7 @@ Last 80 apps that were recently added to list!
 
 ## 🈵 Translators
 
-* `WDM` [LiveCaptions Translator](https://github.com/SakiRinn/LiveCaptions-Translator) ⭐ 4,096 | 🐛 27 | 🌐 C# | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `WDM` [LiveCaptions Translator](https://github.com/SakiRinn/LiveCaptions-Translator) ⭐ 4,106 | 🐛 27 | 🌐 C# | 📅 2026-08-17 <sup>`FOSS`</sup>
 * `WDM` [Flint](https://github.com/sh0ckj0ckey/Flint) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2026-03-17 <sup>`FOSS`</sup>
 * `WDM` [Transhef](https://github.com/shfrlabs/Transhef) ⚠️ Archived <sup>`FOSS`</sup> `❎`
 * `WDM` [WordWeaver](https://github.com/itsWindows11/WordWeaver) ⭐ 19 | 🐛 0 | 🌐 C# | 📅 2023-12-02 <sup>`FOSS`</sup>
@@ -1317,51 +1317,51 @@ Last 80 apps that were recently added to list!
 
 ## 🈵 Transcribe
 
-* `WDM` [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) ⭐ 16,571 | 🐛 219 | 🌐 Python | 📅 2026-09-12 <sup>`FOSS`</sup>
-* `WDM` [AsrTools](https://github.com/WEIFENG2333/AsrTools) ⭐ 3,509 | 🐛 23 | 🌐 Python | 📅 2025-11-25 <sup>`FOSS`</sup>
+* `WDM` [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) ⭐ 16,583 | 🐛 219 | 🌐 Python | 📅 2026-09-12 <sup>`FOSS`</sup>
+* `WDM` [AsrTools](https://github.com/WEIFENG2333/AsrTools) ⭐ 3,510 | 🐛 23 | 🌐 Python | 📅 2025-11-25 <sup>`FOSS`</sup>
 * `WDA` [FastTranscribe](https://apps.microsoft.com/detail/9n6smgczrpcj)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
 ## 🔧 Utilities
 
-* `WDM` [NanaZip](https://github.com/M2Team/NanaZip) ⭐ 16,293 | 🐛 410 | 🌐 C++ | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WD` [Everything Toolbar](https://github.com/srwi/EverythingToolbar) ⭐ 15,079 | 🐛 37 | 🌐 C# | 📅 2026-11-05 <sup>`FOSS`</sup>
-* `WDM` `WDA` [CompactGUI](https://github.com/IridiumIO/CompactGUI) ⭐ 9,349 | 🐛 74 | 🌐 Visual Basic .NET | 📅 2026-10-24 <sup>`FOSS`</sup>
-* `WD` [Tuba Toolbox](https://github.com/luolangaga/tubatools) ⭐ 6,311 | 🐛 14 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) ⭐ 5,642 | 🐛 1 | 🌐 C# | 📅 2026-10-21 <sup>`FOSS`</sup>
-* `WDM` [SyncClipboard](https://github.com/Jeric-X/SyncClipboard) ⭐ 5,246 | 🐛 16 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab) ⭐ 5,089 | 🐛 76 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [Context Menu Manager Plus](https://github.com/PLFJY/ContextMenuMgr) ⭐ 3,712 | 🐛 13 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [NanaZip](https://github.com/M2Team/NanaZip) ⭐ 16,313 | 🐛 410 | 🌐 C++ | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WD` [Everything Toolbar](https://github.com/srwi/EverythingToolbar) ⭐ 15,084 | 🐛 37 | 🌐 C# | 📅 2026-11-05 <sup>`FOSS`</sup>
+* `WDM` `WDA` [CompactGUI](https://github.com/IridiumIO/CompactGUI) ⭐ 9,353 | 🐛 74 | 🌐 Visual Basic .NET | 📅 2026-10-24 <sup>`FOSS`</sup>
+* `WD` [Tuba Toolbox](https://github.com/luolangaga/tubatools) ⭐ 6,325 | 🐛 13 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [RyTuneX](https://github.com/rayenghanmi/RyTuneX) ⭐ 5,644 | 🐛 1 | 🌐 C# | 📅 2026-10-21 <sup>`FOSS`</sup>
+* `WDM` [SyncClipboard](https://github.com/Jeric-X/SyncClipboard) ⭐ 5,250 | 🐛 17 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [Text-Grab](https://github.com/TheJoeFin/Text-Grab) ⭐ 5,089 | 🐛 77 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [Context Menu Manager Plus](https://github.com/PLFJY/ContextMenuMgr) ⭐ 3,721 | 🐛 13 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [MyComputerManager](https://github.com/1357310795/MyComputerManager) ⭐ 3,119 | 🐛 9 | 🌐 C# | 📅 2022-12-18 <sup>`FOSS`</sup>
-* `WDM` [Sefirah](https://github.com/shrimqy/Sefirah) ⭐ 3,105 | 🐛 169 | 🌐 C# | 📅 2026-10-18 <sup>`FOSS`</sup>
-* `WDM` [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) ⭐ 2,940 | 🐛 29 | 🌐 HLSL | 📅 2026-10-29 <sup>`FOSS`</sup>
-* `WDM` [Lenovo Legion Toolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) ⭐ 2,574 | 🐛 32 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) ⭐ 1,904 | 🐛 6 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WDM` [APK Installer](https://github.com/Paving-Base/APK-Installer) ⭐ 1,723 | 🐛 21 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
+* `WDM` [Sefirah](https://github.com/shrimqy/Sefirah) ⭐ 3,107 | 🐛 169 | 🌐 C# | 📅 2026-10-18 <sup>`FOSS`</sup>
+* `WDM` [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) ⭐ 2,943 | 🐛 29 | 🌐 HLSL | 📅 2026-10-29 <sup>`FOSS`</sup>
+* `WDM` [Lenovo Legion Toolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) ⭐ 2,581 | 🐛 31 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) ⭐ 1,920 | 🐛 5 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [APK Installer](https://github.com/Paving-Base/APK-Installer) ⭐ 1,724 | 🐛 21 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
 * `WDM` [Energy Star X](https://github.com/JasonWei512/EnergyStarX) ⭐ 1,224 | 🐛 32 | 🌐 C# | 📅 2026-02-08 <sup>`FOSS`</sup>
 * `WDM` [ThreeFingerDragOnWindows](https://github.com/ClementGre/ThreeFingerDragOnWindows) ⭐ 1,181 | 🐛 29 | 🌐 C# | 📅 2026-10-25 <sup>`FOSS`</sup>
-* `WDM` [MagicPods](https://github.com/steam3d/MagicPods-Windows) ⭐ 893 | 🐛 43 | 📅 2026-09-22
-* `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy) ⭐ 715 | 🐛 29 | 🌐 C++ | 📅 2026-11-14 <sup>`FOSS`</sup>
-* `WDM` [fHash](https://github.com/sunjw/fhash) ⭐ 463 | 🐛 0 | 🌐 C++ | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDM` [MagicPods](https://github.com/steam3d/MagicPods-Windows) ⭐ 894 | 🐛 43 | 📅 2026-09-22
+* `WDM` [FastCopy](https://github.com/HO-COOH/FastCopy) ⭐ 716 | 🐛 29 | 🌐 C++ | 📅 2026-11-14 <sup>`FOSS`</sup>
+* `WDM` [fHash](https://github.com/sunjw/fhash) ⭐ 464 | 🐛 0 | 🌐 C++ | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Starlight GUI](https://github.com/OpenStarlight/StarlightGUI) ⭐ 444 | 🐛 2 | 🌐 C++ | 📅 2026-10-30 <sup>`FOSS`</sup>
 * `WDM` `WDA` [EverythingQuickSearch](https://github.com/PinchToDebug/EverythingQuickSearch) ⭐ 327 | 🐛 3 | 🌐 C# | 📅 2026-03-26 <sup>`FOSS`</sup>
 * `WDM` [EasyTidy](https://github.com/EasyTidy/EasyTidy) ⭐ 326 | 🐛 0 | 🌐 C# | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `WDM` [IT Admin Toolkit](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) ⭐ 275 | 🐛 14 | 🌐 PowerShell | 📅 2026-02-14 <sup>`FOSS`</sup>
 * `WDM` [FormatMaster](https://github.com/Gu-0312/FormatMaster-EN) ⭐ 254 | 🐛 9 | 🌐 Python | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `WDA` [Awqat-Salaat](https://github.com/Khiro95/Awqat-Salaat) ⭐ 240 | 🐛 14 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDA` [Awqat-Salaat](https://github.com/Khiro95/Awqat-Salaat) ⭐ 241 | 🐛 14 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
 * `WDM` [barcodrod.io](https://github.com/MarkHopper24/barcodrod.io) ⭐ 230 | 🐛 1 | 🌐 C# | 📅 2026-11-10 <sup>`FOSS`</sup>
 * `WDM` [MyPhone](https://github.com/BestOwl/MyPhone) ⭐ 225 | 🐛 15 | 🌐 C# | 📅 2022-12-22 <sup>`FOSS`</sup>
 * `WDM` [LauncherX](https://github.com/Apollo199999999/LauncherX) ⭐ 200 | 🐛 7 | 🌐 C# | 📅 2026-01-07 <sup>`FOSS`</sup>
 * `WDM` [Symbolic11](https://github.com/Benisgo/Symbolic11) ⭐ 189 | 🐛 8 | 🌐 C# | 📅 2025-06-02 <sup>`FOSS`</sup>
 * `WDM` [NanaGet](https://github.com/M2Team/NanaGet) ⭐ 185 | 🐛 6 | 🌐 C++ | 📅 2026-11-06 <sup>`FOSS`</sup>
-* `WDM` [GoAwayEdge](https://github.com/valnoxy/GoAwayEdge) ⭐ 177 | 🐛 11 | 🌐 C# | 📅 2026-09-25 <sup>`FOSS`</sup>
+* `WDM` [GoAwayEdge](https://github.com/valnoxy/GoAwayEdge) ⭐ 176 | 🐛 11 | 🌐 C# | 📅 2026-09-25 <sup>`FOSS`</sup>
 * `WDM` [Registry Editor Valley](https://github.com/0x5bfa/RegistryEditor) ⭐ 151 | 🐛 0 | 🌐 C# | 📅 2026-11-10 <sup>`FOSS`</sup>
-* `WD` [Tiny Clips](https://github.com/jamesmontemagno/tiny-clips) ⭐ 144 | 🐛 15 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WD` [Tiny Clips](https://github.com/jamesmontemagno/tiny-clips) ⭐ 144 | 🐛 16 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [SimpleList](https://github.com/aiguoli/SimpleList) ⭐ 141 | 🐛 4 | 🌐 C# | 📅 2026-09-09 <sup>`FOSS`</sup>
-* `WDM` [Saku Overclock](https://github.com/Erruar/Saku-Overclock) ⭐ 120 | 🐛 0 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WDM` [Saku Overclock](https://github.com/Erruar/Saku-Overclock) ⭐ 120 | 🐛 0 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [OpenSense](https://github.com/archivesteak/opensense) ⭐ 119 | 🐛 25 | 🌐 C# | 📅 2026-10-27 <sup>`FOSS`</sup>
 * `WDM` [Simple QR Code Maker](https://github.com/TheJoeFin/Simple-QR-Code-Maker) ⭐ 119 | 🐛 6 | 🌐 C# | 📅 2026-10-26 `📆` <sup>`FOSS`</sup>
-* `WDM` [OpenSense](https://github.com/archivesteak/opensense) ⭐ 118 | 🐛 24 | 🌐 C# | 📅 2026-10-27 <sup>`FOSS`</sup>
 * `WDM` [Aura Click](https://github.com/ryanlua/auraclick) ⭐ 108 | 🐛 10 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [FolderRewind](https://github.com/Leafuke/FolderRewind) ⭐ 100 | 🐛 4 | 🌐 C# | 📅 2026-11-08 <sup>`FOSS`</sup>
 * `WDM` [IRCameraView](https://github.com/Iemand005/IRCameraView) ⭐ 98 | 🐛 9 | 🌐 C# | 📅 2026-10-02 <sup>`FOSS`</sup>
@@ -1372,10 +1372,10 @@ Last 80 apps that were recently added to list!
 * `WD` [WSAppBak](https://github.com/MadCkull/WSAppBak) ⭐ 76 | 🐛 4 | 🌐 C# | 📅 2026-10-28 <sup>`FOSS`</sup>
 * `WDM` [Starshot](https://github.com/loliri/Starshot) ⭐ 72 | 🐛 2 | 🌐 C# | 📅 2026-11-07 <sup>`FOSS`</sup>
 * `WDM` [CryptoTracker](https://github.com/ismaelestalayo/CryptoTracker) ⭐ 70 | 🐛 8 | 🌐 C# | 📅 2025-01-25 <sup>`FOSS`</sup>
-* `WDM` [EncoDeck](https://github.com/TIANLI0/EncoDeck) ⭐ 70 | 🐛 4 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
-* `WDM` [AutoOS](https://github.com/tinodin/AutoOS) ⭐ 69 | 🐛 6 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
-* `WDM` [AtlasOS Toolbox](https://github.com/Atlas-OS/atlas-toolbox) ⭐ 63 | 🐛 8 | 🌐 C# | 📅 2026-10-15 <sup>`FOSS`</sup>
-* `WDM` [GestureSign v2](https://github.com/Tomclanc/GestureSignv2) ⭐ 57 | 🐛 6 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [EncoDeck](https://github.com/TIANLI0/EncoDeck) ⭐ 70 | 🐛 4 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
+* `WDM` [AutoOS](https://github.com/tinodin/AutoOS) ⭐ 69 | 🐛 9 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [AtlasOS Toolbox](https://github.com/Atlas-OS/atlas-toolbox) ⭐ 63 | 🐛 9 | 🌐 C# | 📅 2026-10-15 <sup>`FOSS`</sup>
+* `WDM` [GestureSign v2](https://github.com/Tomclanc/GestureSignv2) ⭐ 57 | 🐛 7 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Fontager](https://github.com/ysfemreAlbyrk/Fontager) ⭐ 56 | 🐛 2 | 🌐 C# | 📅 2026-08-27 <sup>`FOSS`</sup>
 * `WD` [AudioPlaybackConnector2](https://github.com/N0ahTM/AudioPlaybackConnector2) ⭐ 49 | 🐛 5 | 🌐 C++ | 📅 2026-11-01 <sup>`FOSS`</sup>
 * `WD` [PatchLight](https://github.com/G4SBO/PatchLight) ⭐ 41 | 🐛 1 | 🌐 C# | 📅 2026-11-09 <sup>`FOSS`</sup>
@@ -1393,8 +1393,8 @@ Last 80 apps that were recently added to list!
 * `WDA` [AutoCenter](https://github.com/jihedkdiss/AutoCenter) ⭐ 24 | 🐛 6 | 🌐 C# | 📅 2026-10-31 <sup>`FOSS`</sup>
 * `WD` [MyTikTokBackup](https://github.com/tmk907/MyTikTokBackup) ⭐ 24 | 🐛 0 | 🌐 C# | 📅 2026-11-10 <sup>`FOSS`</sup>
 * `WDM` [Sleepy Client](https://github.com/RinLit-233-shiroko/sleepy-client) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-02-13 <sup>`FOSS`</sup>
-* `WD` [Translator Overlay](https://github.com/OKTW-Network/Translator-Overlay) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2026-11-18 <sup>`FOSS`</sup>
-* `WD` [MiHouse Desktop](https://github.com/Zhanyuanium/MiHouse-Desktop) ⭐ 21 | 🐛 0 | 🌐 C# | 📅 2026-10-24 <sup>`FOSS`</sup>
+* `WD` [MiHouse Desktop](https://github.com/Zhanyuanium/MiHouse-Desktop) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2026-10-24 <sup>`FOSS`</sup>
+* `WD` [Translator Overlay](https://github.com/OKTW-Network/Translator-Overlay) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [OpenQCY Desktop](https://github.com/GiorgioRafael/OpenQCY-Desktop) ⭐ 21 | 🐛 4 | 🌐 C# | 📅 2026-09-05 <sup>`FOSS`</sup>
 * `WDM` [Conscript](https://github.com/sh0ckj0ckey/Conscripts) ⭐ 20 | 🐛 0 | 🌐 C# | 📅 2026-06-20 <sup>`FOSS`</sup>
 * `WD` [Trowser](https://github.com/TheJoeFin/trowser) ⭐ 19 | 🐛 0 | 🌐 C# | 📅 2026-08-13 <sup>`FOSS`</sup>
@@ -1406,7 +1406,7 @@ Last 80 apps that were recently added to list!
 * `WD` [Task Scheduler Studio](https://github.com/MarkHopper24/Task-Scheduler-Studio) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2026-08-06 <sup>`FOSS`</sup>
 * `WDM` [Utils for Nearby Sharing](https://github.com/nearby-sharing/windows) ⭐ 15 | 🐛 1 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
 * `WDM` [inputor](https://github.com/shiquda/inputor) ⭐ 14 | 🐛 1 | 🌐 C# | 📅 2026-10-22 <sup>`FOSS`</sup>
-* `WDM` [Jump List Manager](https://github.com/0x5bfa/JumpListManager) ⭐ 14 | 🐛 1 | 🌐 C# | 📅 2026-03-15 <sup>`FOSS`</sup>
+* `WDM` [Jump List Manager](https://github.com/0x5bfa/JumpListManager) ⭐ 14 | 🐛 2 | 🌐 C# | 📅 2026-03-15 <sup>`FOSS`</sup>
 * `WDM` [Service Manager](https://github.com/Chr1st1anSzech/Service-Manager) ⭐ 14 | 🐛 1 | 🌐 C# | 📅 2022-02-08 `📆` <sup>`FOSS`</sup>
 * `WDM` [CarpeCast](https://github.com/jayfunc/CarpeCast) ⭐ 13 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-31 <sup>`FOSS`</sup>
 * `WD` [UniversalConverter X](https://github.com/SysAdminDoc/UniversalConverterX) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-09-14 <sup>`FOSS`</sup>
@@ -1415,10 +1415,10 @@ Last 80 apps that were recently added to list!
 * `WDM` [Google Photos Takeout Organizer](https://github.com/itielbru/gphotos-takeout-organizer) ⭐ 11 | 🐛 9 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
 * `WDA` [MoreFlyout](https://github.com/ChenYiLins/MoreFlyout) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `WD` [NvwUpd](https://github.com/zlicdt/nvwupd) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2026-04-04 <sup>`FOSS`</sup>
-* `WDM` [Clipboard Next](https://github.com/jamesmontemagno/clipboard-next) ⭐ 8 | 🐛 0 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
+* `WDM` [Clipboard Next](https://github.com/jamesmontemagno/clipboard-next) ⭐ 8 | 🐛 1 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [Mem Reduct WinUI](https://github.com/Pimnghi/memreduct-winui) ⭐ 8 | 🐛 2 | 🌐 C | 📅 2026-11-16 <sup>`FOSS`</sup>
 * `WD` [Photos Backup](https://github.com/ayush5harma/google-photos-backup) ⭐ 8 | 🐛 9 | 🌐 Swift | 📅 2026-11-06 <sup>`FOSS`</sup>
-* `WDA` [PredatorLite](https://github.com/XYZ1024-alt/PredatorLite) ⭐ 8 | 🐛 2 | 🌐 C# | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WDA` [PredatorLite](https://github.com/XYZ1024-alt/PredatorLite) ⭐ 8 | 🐛 3 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [Angel Umbrella](https://github.com/mntone/AngelUmbrella) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2023-01-30 <sup>`FOSS`</sup>
 * `WD` [Bluetooth Audio Codec](https://github.com/A-BenLi06/Bluetooth-Audio-Codec-Viewer-WinUI3) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2026-11-08 <sup>`FOSS`</sup>
 * `WD` [CompInfo](https://github.com/OceanCyanTech/CompInfo) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2022-06-02 <sup>`FOSS`</sup>
@@ -1426,7 +1426,7 @@ Last 80 apps that were recently added to list!
 * `WD` [Nearclip](https://github.com/ivLis-Studio/nearclip) ⭐ 7 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-14 <sup>`FOSS`</sup>
 * `WDM` [Automated Menu Ordering System](https://github.com/abdxdev/AMOS) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-03-24 `📆 Planned` <sup>`FOSS`</sup>
 * `WDM` [MihomoDeck](https://github.com/KarlRaphel/MihomoDeck) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-09-11 <sup>`FOSS`</sup>
-* `WD` [Pakko](https://github.com/pakkoapp-oss/pakko) ⭐ 6 | 🐛 8 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WD` [Pakko](https://github.com/pakkoapp-oss/pakko) ⭐ 6 | 🐛 7 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDA` [Tiny Tracker](https://github.com/Bikuuuu/tiny-tracker) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-10-01 <sup>`FOSS`</sup>
 * `WD` [Mercury Converter](https://github.com/AfridexD/MercuryConverter) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-11-07 <sup>`FOSS`</sup>
 * `WDM` [OmenFlow](https://github.com/yunusemreyl/omen-space-windows) ⭐ 5 | 🐛 1 | 🌐 C# | 📅 2026-09-13 <sup>`FOSS`</sup>
@@ -1434,8 +1434,8 @@ Last 80 apps that were recently added to list!
 * `WD` [Dell PowerEdge R730xd Fan Control Center](https://github.com/mason369/dell-poweredge-r730xd-fan-control) ⭐ 4 | 🐛 1 | 🌐 C# | 📅 2026-08-09 <sup>`FOSS`</sup>
 * `WD` [EM Hasher](https://github.com/enda-mullally/EMHasher) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
 * `WD` [Reframe](https://github.com/shuiandy/Reframe) ⭐ 4 | 🐛 1 | 🌐 C# | 📅 2026-10-31 <sup>`FOSS`</sup>
-* `WD` [Snaply](https://github.com/P4suta/Snaply) ⭐ 4 | 🐛 8 | 🌐 C# | 📅 2026-11-16 <sup>`FOSS`</sup>
-* `WD` [ADB Manager](https://github.com/beliy26/AdbManager) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-11-08 <sup>`FOSS`</sup>
+* `WD` [Snaply](https://github.com/P4suta/Snaply) ⭐ 4 | 🐛 8 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WD` [ADB Manager](https://github.com/beliy26/AdbManager) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [Deckle](https://github.com/louisfifre/deckle) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-11-18 <sup>`FOSS`</sup>
 * `WDM` [LycanZip](https://github.com/Aegisulf/LycanZip) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-11-01 <sup>`FOSS`</sup>
 * `WD` [MarkdownToPDF](https://github.com/EggyStudio/MarkdownToPDF) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-11-08 <sup>`FOSS`</sup>
@@ -1494,7 +1494,7 @@ Last 80 apps that were recently added to list!
 * `WD` [PicSelect](https://github.com/Rana-Faraz/pic-select) ⭐ 0 | 🐛 2 | 🌐 C# | 📅 2026-03-26 <sup>`FOSS`</sup>
 * `WD` [RunDialog](https://github.com/Dekrate/RunDialog) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-05-02 <sup>`FOSS`</sup>
 * `WDM` [Simple Number Converter](https://github.com/B3W/SimpleNumberConverter) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-08-05 <sup>`FOSS`</sup>
-* `WD` [Winget Nudge](https://github.com/zachthedev/winget-nudge) ⭐ 0 | 🐛 10 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WD` [Winget Nudge](https://github.com/zachthedev/winget-nudge) ⭐ 0 | 🐛 10 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDA` [Adsk Licensing Modifier](https://apps.microsoft.com/detail/9njhvt90glp5) <sup>`FOSS`</sup>
 * `WDM` [Apple Devices](https://apps.microsoft.com/detail/9np83lwlpz9k)
 * `WDM` [Auto Clicker](https://apps.microsoft.com/detail/9p9lh49wfjlp)
@@ -1644,7 +1644,7 @@ Last 80 apps that were recently added to list!
 * `WDM` [FluentWeather](https://github.com/Gabboxl/FluentWeather) ⭐ 342 | 🐛 27 | 🌐 C# | 📅 2026-11-10 <sup>`FOSS`</sup>
 * `WDM` [Skyline Weather](https://github.com/zxbmmmmmmmmm/SkylineWeather) ⭐ 173 | 🐛 16 | 🌐 C# | 📅 2026-08-30 <sup>`FOSS`</sup>
 * `WD` [Āēr Weather](https://github.com/mavlac/aer-weather) ⭐ 8 | 🐛 0 | 🌐 C# | 📅 2026-11-11 <sup>`FOSS`</sup>
-* `WD` [Anvil](https://github.com/jhammon88219/Anvil) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-11-17 <sup>`FOSS`</sup>
+* `WD` [Anvil](https://github.com/jhammon88219/Anvil) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [Weather Viewer](https://github.com/fanioz/winui-weather) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-01-05 <sup>`FOSS`</sup>
 * `WDM` [LightWeather](https://apps.microsoft.com/detail/9nblggh516s4)
 * `WDM` [Lively Weather](https://apps.microsoft.com/detail/9pp0mfqfvsc5)
@@ -1659,7 +1659,7 @@ Last 80 apps that were recently added to list!
 * `WDM` [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H)
 * `WDM` [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd)
 * `WDM` [Microsoft Photos](https://apps.microsoft.com/store/detail/microsoft-photos/9WZDNCRFJBH4)
-* `WDM` [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ⭐ 141,136 | 🐛 8,113 | 🌐 C | 📅 2026-11-18 <sup>`FOSS`</sup>
+* `WDM` [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ⭐ 141,181 | 🐛 8,123 | 🌐 C | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WDM` [Phone Link](https://apps.microsoft.com/store/detail/phone-link/9NMPJ99VJBWV)
 * `WD` [PowerShell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D) <sup>`FOSS`</sup>
 * `WD` [Quick Assist](https://apps.microsoft.com/store/detail/quick-assist/9P7BP5VNWKX5)
@@ -1692,7 +1692,7 @@ Last 80 apps that were recently added to list!
 * `WD` [Maze-Generator](https://github.com/atslughorn/Maze-Generator) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2024-07-17 <sup>`FOSS`</sup>
 * `WD` [DiscordFileMasterV2](https://github.com/Shailosingh/DiscordFileMasterV2) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2022-12-26 <sup>`FOSS`</sup>
 * `WDM` [ErbaiLiveTool](https://github.com/f1shsmell/ErbaiLiveTool) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2026-10-27 <sup>`FOSS`</sup>
-* `WDM` [LightNovelSelector](https://github.com/chenhaoxiang05/LightNovelSelector) ⭐ 2 | 🐛 49 | 🌐 Python | 📅 2026-11-15 <sup>`FOSS`</sup>
+* `WDM` [LightNovelSelector](https://github.com/chenhaoxiang05/LightNovelSelector) ⭐ 2 | 🐛 48 | 🌐 Python | 📅 2026-11-19 <sup>`FOSS`</sup>
 * `WD` [WinUI-BBS](https://github.com/tzhx12/WinUI-BBS) ⭐ 1 | 🐛 0 | 🌐 Vue | 📅 2026-11-06 <sup>`FOSS`</sup>
 * `WD` [Arrival](https://github.com/thatweirdbush/arrival) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2025-03-30 <sup>`FOSS`</sup>
 * `WD` [Nafer](https://github.com/VueST/nafer-frontend) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-04-18 <sup>`FOSS`</sup>
@@ -1705,4 +1705,4 @@ Last 80 apps that were recently added to list!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
